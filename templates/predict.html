@@ -1,0 +1,66 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FloodyBuddy|Predict</title>
+    <link rel="stylesheet" href="/static/css/predict.css" />
+  </head>
+  <body>
+    <header id="header">
+      <a href="{{ url_for('home') }}"><p class="logo">FloodyBuddy.</p></a>
+      <div>
+        <ul class="navbar">
+          <li><a href="{{ url_for('home') }}">Home</a></li>
+          <li><a class="active" href="{{ url_for('predict') }}">Predict</a></li>
+          <li><a href="{{ url_for('statistics') }}">Statistics</a></li>
+          <li><a href="{{ url_for('contact') }}">Contact Form</a></li>
+        </ul>
+      </div>
+      <div class="sml-dev">
+        <img class="ham" src="/static/img/ham.png" alt="" />
+        <img class="cross" src="/static/img/close.png" alt="" />
+      </div>
+    </header>
+
+    <section class="form_sec">
+      <h1>Early Prediction, Safer Tomorrow</h1>
+      <br />
+      <form action="{{ url_for('after') }}" method="POST">
+        <label for="river_name">River Name:</label>
+        <select id="river_name" name="a" required>
+          <option value="" disabled selected>Select River</option>
+          <option value="Bagmati">Bagmati</option>
+          <option value="Burhi Gandak">Burhi Gandak</option>
+          <option value="Gandak">Gandak</option>
+          <option value="Ganga">Ganga</option>
+          <option value="Kamla Balan">Kamla Balan</option>
+          <option value="Kosi">Kosi</option>
+          <option value="Mahananda">Mahananda</option>
+          <option value="Phalgu">Phalgu</option>
+          <option value="Punpun">Punpun</option>
+          <option value="Sone">Sone</option>
+        </select>
+        <label for="water_level">Water Level:</label>
+        <input
+          type="number"
+          id="water_level"
+          name="b"
+          step="any"
+          placeholder="Enter Water Level (m)"
+          required
+        />
+        <label for="rainfall_level">Rainfall Level:</label>
+        <input
+          type="number"
+          id="rainfall_level"
+          name="c"
+          step="any"
+          placeholder="Enter Rainfall Level (mm)"
+          required
+        />
+        <button type="submit">Predict Now</button>
+      </form>
+    </section>
+    <script src="/static/js/script.js"></script>
+  </body>
+</html>

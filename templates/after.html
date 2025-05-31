@@ -1,0 +1,112 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FloodyBuddy|Result</title>
+    <link rel="stylesheet" href="/static/css/after.css">
+</head>
+<body>
+    <header id="header">
+        <a href="{{ url_for('home') }}"><p class="logo">FloodyBuddy.</p></a>
+        <div>
+            <ul class="navbar">
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <li><a class="active" href="{{ url_for('predict') }}">Predict</a></li>
+                <li><a href="{{ url_for('statistics') }}">Statistics</a></li>
+                <li><a href="{{ url_for('contact') }}">Contact Form</a></li>
+            </ul>
+        </div>
+        <div class="sml-dev">
+            <img class="ham" src="/static/img/ham.png" alt="">
+            <img class="cross" src="/static/img/close.png" alt="">
+        </div>
+    </header>
+    <section class="prcd">
+        <h1>  PREDICTION :  </h1>
+         {% if data == 1 %}
+            {% if affected == "Central Bihar" %}
+                There is a high chance of flood in Central Bihar.
+                <img src="/static/img/Dash-CenBihar.png" alt="Graph for Central Bihar" style="width: 77%; height: 90vh;">
+            {% elif affected == "East Bihar" %}
+                There is a high chance of flood in East Bihar.
+                <img src="/static/img/Dash-EasBihar.png" alt="Graph for East Bihar" style="width: 80%; height: 90vh;">
+            {% elif affected == "North Bihar" %}
+                There is a high chance of flood in North Bihar.
+                <img src="/static/img/Dash-NorBihar.png" alt="Graph for North Bihar" style="width: 80%; height: 90vh;">
+            {% elif affected == "South Bihar" %}
+                There is a high chance of flood in South Bihar.
+                <img src="/static/img/Dash-SouBihar.png" alt="Graph for South Bihar" style="width: 80%; height: 90vh;">
+            {% elif affected == "West Bihar" %}
+                There is a high chance of flood in West Bihar.
+                <img src="/static/img/Dash-WesBihar.png" alt="Graph for West Bihar" style="width: 80%; height: 90vh;">
+            {% else %}
+                <p>No specific graph available for the affected area.</p>
+            {% endif %}
+        {% else %}
+            <p><strong>There is No or Very low chance of flood</strong></p>
+            <img src="/static/img/Dash.png" alt="No Flood" style="width: 80%; height: 90vh;">
+        {% endif %}
+    <section>
+    
+    <section class="safety">
+        <div><p class="head">SAFETY MEASURES</p></div>
+    <div class="content_container">
+        <div class="content">
+            <ul class="pointers-list"> BEFORE FLOOD
+                <li>Prepare an emergency kit: Include essentials like water, food, flashlight, batteries, first aid, medicines, and important documents.</li>
+                <li>Know your area: Be aware if you live in a flood-prone zone and identify higher ground or safe shelters nearby.</li>
+                <li>Secure your home: Elevate electrical appliances, seal basements, and unplug devices to prevent electrical accidents.</li>
+            </ul>
+        </div>
+        <div class="content">
+            <ul class="pointers-list"> DURING FLOOD
+                <li>Evacuate if advised: Do not delay evacuation if authorities recommend it.</li>
+                <li>Stay on higher ground: Move to the roof or upper floors if trapped.</li>
+                <li>Turn off electricity: If water starts entering your home, switch off the main power.</li>
+                <li>Stay connected: Use a battery-powered radio or phone to receive alerts and updates</li>
+            </ul>
+        </div>
+        <div class="content">
+            <ul class="pointers-list"> AFTER FLOOD
+                <li>Do not return immediately: Wait for official clearance before going back to your home.</li>
+                <li>Beware of contamination: Avoid using floodwater for drinking or cleaning. Boil water before use.</li>
+                <li>Watch for hazards: Look out for snakes, exposed wires, or unstable structures.</li>
+                <li>Seek medical help: If you or anyone is injured or exposed to contaminated water.</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section class="emergency">
+    <div><p class="head">Emergency Contact Information – Bihar Flood Relief</p></div>
+    <div class="content_container">
+        <div class="content con2">
+            <ul id="pointers-list" class="pointers-list"> Disaster Management Department, Bihar
+                <li>Helpline: 0612-2217305, 1070 (Toll-Free State Emergency Number)</li>
+                <li>Email:seoc.dmd.bih@gmail.com</li>
+                <li>Website: <a href="http://disastermgmt.bih.nic.in">http://disastermgmt.bih.nic.in</a>
+                </li>
+            </ul>
+        </div>
+        <div class="content con2">
+            <ul id="pointers-list" class="pointers-list"> NDRF (National Disaster Response Force)
+                <li>Helpline (24x7): 011-24363260, 9711077372</li>
+                <li>Website: <a href="https://ndrf.gov.in">https://ndrf.gov.in</a>
+                </li>
+            </ul>
+        </div>
+        <div class="content con2">
+            <ul id="pointers-list" class="pointers-list">State Health Emergency
+                <li>Ambulance: 108</li>
+                <li>General Health Helpline: 104</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<div>
+    <a class="back" href='/'>Go back to home page</a>
+</div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

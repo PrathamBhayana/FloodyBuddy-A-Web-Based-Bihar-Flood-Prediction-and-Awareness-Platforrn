@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FloodyBuddy|Contact</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
+    <link rel="stylesheet" href="/static/css/contact.css" />
+  </head>
+  <body>
+    <header id="header">
+      <a href="{{ url_for('home') }}"><p class="logo">FloodyBuddy.</p></a>
+      <div>
+        <ul class="navbar">
+          <li><a href="{{ url_for('home') }}">Home</a></li>
+          <li><a href="{{ url_for('predict') }}">Predict</a></li>
+          <li><a href="{{ url_for('statistics') }}">Statistics</a></li>
+          <li>
+            <a class="active" href="{{ url_for('contact') }}">Contact Form</a>
+          </li>
+        </ul>
+      </div>
+      <div class="sml-dev">
+        <img class="ham" src="/static/img/ham.png" alt="" />
+        <img class="cross" src="/static/img/close.png" alt="" />
+      </div>
+    </header>
+
+    <section class="form_sec">
+      <h1>Contact Us</h1>
+      <form action="/submit_contact" method="POST">
+        <div class="form-row">
+          <label for="name">Name:</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Enter Your Name"
+            required
+          />
+        </div>
+        <div class="form-row">
+          <label for="phone">Phone Number:</label>
+          <input
+            type="text"
+            id="phone"
+            name="phone"
+            placeholder="Enter Your Phone No"
+            required
+          />
+        </div>
+        <div class="form-row">
+          <label for="reason">Reason:</label>
+          <textarea
+            id="reason"
+            name="reason"
+            placeholder="Share Your Problem With us"
+            required
+          ></textarea>
+        </div>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+
+    <script src="/static/js/script.js"></script>
+  </body>
+</html>

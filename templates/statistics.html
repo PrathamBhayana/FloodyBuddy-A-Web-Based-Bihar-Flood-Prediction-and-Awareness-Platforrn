@@ -1,0 +1,106 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FloodyBuddy|Statistics</title>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <link rel="stylesheet" href="/static/css/statistics.css">
+</head>
+<body>
+    <header id="header">
+        <a href="{{ url_for('home') }}"><p class="logo">FloodyBuddy.</p></a>
+        <div>
+            <ul class="navbar">
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <li><a href="{{ url_for('predict') }}">Predict</a></li>
+                <li><a class="active" href="{{ url_for('statistics') }}">Statistics</a></li>
+                <li><a href="{{ url_for('contact') }}">Contact Form</a></li>
+            </ul>
+        </div>
+        <div class="sml-dev">
+            <img class="ham" src="/static/img/ham.png" alt="">
+            <img class="cross" src="/static/img/close.png" alt="">
+        </div>
+    </header>
+
+    <section class="dashcontainer">
+        <!-- <div class="cardcontainer"> -->
+            <div class="carousel"
+            data-flickity='{ "wrapAround": true }'>
+            <div class="carousel-cell">
+                <div class="card">
+                    <div class="dashimg">
+                        <img src="/static/img/Dash.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-cell">
+                <div class="card">
+                    <div class="dashimg">
+                        <img src="/static/img/Dash-CenBihar.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-cell">
+                <div class="card">
+                    <div class="dashimg">
+                        <img src="/static/img/Dash-EasBihar.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-cell">
+                <div class="card">
+                    <div class="dashimg">
+                        <img src="/static/img/Dash-NorBihar.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-cell">
+                <div class="card">
+                    <div class="dashimg">
+                        <img src="/static/img/Dash-SouBihar.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-cell">
+                <div class="card">
+                    <div class="dashimg">
+                        <img src="/static/img/Dash-WesBihar.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <section id="about-head" class="section-p1">
+        <img src="/static/img/north.png" alt="">
+         <div>
+            <h2>Most Affected Region Of Bihar</h2>
+            <p><b>North Bihar</b> experiences frequent flooding primarily due to its geographical location downstream from the Himalayas, where major rivers laden with sediment flow onto its flat plains, hindering natural drainage. The intense monsoon rains swell these rivers beyond their capacity, especially with silted riverbeds reducing their water-carrying ability. While intended for flood control, embankments can worsen the situation by trapping sediment and elevating riverbeds. Furthermore, human activities like encroaching on drainage paths and deforestation in the upper catchments contribute to increased water runoff and reduced absorption, collectively making North Bihar highly susceptible to recurring floods during the monsoon season.</p>
+         </div>
+    </section>
+
+    <section id="about-head2" class="section-p1">
+        <img src="/static/img/river.png" alt="">
+         <div>
+            <h2>Most Flood Prone River</h2>
+            <p>The <b>Kosi River</b> stands out as Bihar's most destructive flood source. Its ever-changing course and the vast amounts of Himalayan silt it carries, which elevate its riverbed, make it highly prone to overflowing during heavy monsoon rains. Attempts to control it with embankments haven't always succeeded and can even worsen flooding when breaches occur. The sheer volume of monsoon flow, coupled with its unstable nature and sediment load, consistently positions the Kosi as the leading cause of severe flood damage in the region.</p>
+         </div>
+    </section>
+
+    <section id="about-head" class="section-p1">
+        <img src="/static/img/floodMonths.png" alt="">
+         <div>
+            <h2>Flood Patterns in Bihar</h2>
+            <p>Floods in Bihar are most frequent and severe during the monsoon season, primarily from <b>June to September</b>. This is because the southwest monsoon brings intense, sustained rainfall to both Bihar and its upstream river catchments in Nepal, dramatically increasing river water volumes. Additionally, snowmelt from the Himalayas contributes to river discharge, especially early in the monsoon. The concentrated nature of the annual rainfall during these months overwhelms the already silted riverbeds, causing them to spill over their banks and inundate the surrounding plains. Therefore, the combination of heavy monsoon rains and snowmelt within a compressed timeframe is the primary driver of the peak flood season in Bihar.</p>
+         </div>
+    </section>
+
+    <script src="/static/js/script.js"></script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+</body>
+</html>

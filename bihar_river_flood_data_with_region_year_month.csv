@@ -1,0 +1,4201 @@
+year_month,River Name,Water Level (m),Rainfall Level (mm),Part of Bihar Affected,Flood
+2018-01,Ganga,23.73,119.5,North Bihar,0
+2018-01,Phalgu,11.9,130.3,South Bihar,0
+2018-01,Sone,18.1,222.8,South Bihar,0
+2018-01,Bagmati,15.32,40.4,North Bihar,0
+2018-01,Mahananda,18.02,33.5,East Bihar,0
+2018-01,Gandak,20.23,108.5,West Bihar,0
+2018-01,Gandak,16.65,25.5,North Bihar,0
+2018-01,Sone,15.66,3.3,South Bihar,0
+2018-01,Kamla Balan,11.83,66.9,East Bihar,0
+2018-01,Bagmati,16.55,43.5,North Bihar,0
+2018-01,Sone,17.69,26.8,South Bihar,0
+2018-01,Burhi Gandak,20.2,33.2,North Bihar,0
+2018-01,Sone,16.65,8.8,South Bihar,0
+2018-01,Bagmati,19.16,49.5,North Bihar,0
+2018-01,Bagmati,17.52,0,North Bihar,0
+2018-01,Burhi Gandak,18.46,239.5,North Bihar,0
+2018-01,Punpun,16.2,333.3,South Bihar,0
+2018-01,Kamla Balan,10.91,35.5,North Bihar,0
+2018-01,Punpun,13.59,21.3,South Bihar,0
+2018-01,Gandak,21.4,195.8,North Bihar,0
+2018-01,Kosi,19.26,181.2,North Bihar,0
+2018-01,Kamla Balan,11.54,14.1,North Bihar,0
+2018-01,Burhi Gandak,17.94,180.2,North Bihar,0
+2018-01,Sone,17.88,133.5,West Bihar,0
+2018-01,Kamla Balan,11.63,15.7,North Bihar,0
+2018-01,Kosi,22.57,165,North Bihar,0
+2018-01,Ganga,24.63,209.5,North Bihar,0
+2018-01,Gandak,20.77,51.4,West Bihar,0
+2018-01,Phalgu,12.36,137.9,South Bihar,0
+2018-01,Burhi Gandak,16.75,198.5,North Bihar,0
+2018-01,Gandak,23.15,217.6,North Bihar,0
+2018-01,Kosi,22.49,20.9,East Bihar,0
+2018-01,Phalgu,15.67,164.6,South Bihar,0
+2018-01,Kamla Balan,10.57,21.5,North Bihar,0
+2018-01,Punpun,16.02,22.4,Central Bihar,0
+2018-01,Mahananda,19.63,26.1,East Bihar,0
+2018-01,Kamla Balan,15.3,31.9,North Bihar,0
+2018-01,Mahananda,17.71,8.4,East Bihar,0
+2018-01,Ganga,26.04,229.8,North Bihar,0
+2018-01,Phalgu,16.49,14.9,South Bihar,0
+2018-01,Ganga,25.15,31.5,North Bihar,0
+2018-01,Kosi,19.22,2.2,East Bihar,0
+2018-02,Bagmati,17.93,14.5,North Bihar,0
+2018-02,Kamla Balan,13.6,23.2,North Bihar,0
+2018-02,Gandak,22.58,193.1,North Bihar,0
+2018-02,Phalgu,16.94,158.2,South Bihar,0
+2018-02,Burhi Gandak,15.16,221.4,North Bihar,0
+2018-02,Phalgu,17.74,139.4,Central Bihar,1
+2018-02,Kamla Balan,14.07,178.1,North Bihar,0
+2018-02,Mahananda,14.81,17.3,North Bihar,0
+2018-02,Sone,16.72,18.9,South Bihar,0
+2018-02,Mahananda,16.29,41.4,East Bihar,0
+2018-02,Ganga,28.85,169.2,Central Bihar,1
+2018-02,Burhi Gandak,15.2,17.7,North Bihar,0
+2018-02,Gandak,19.94,17.5,West Bihar,0
+2018-02,Phalgu,12.75,2.3,South Bihar,0
+2018-02,Burhi Gandak,19.79,278.4,North Bihar,1
+2018-02,Mahananda,15.72,17.3,North Bihar,0
+2018-02,Mahananda,16.28,26.5,East Bihar,0
+2018-02,Punpun,17.5,190.3,South Bihar,0
+2018-02,Punpun,18.01,16.1,South Bihar,0
+2018-02,Ganga,22.23,17.5,North Bihar,0
+2018-02,Kosi,21.29,129.2,East Bihar,0
+2018-02,Kosi,20.51,24.5,East Bihar,0
+2018-02,Mahananda,15.86,37.5,East Bihar,0
+2018-02,Bagmati,19.35,164.6,North Bihar,0
+2018-02,Burhi Gandak,18.37,155.8,North Bihar,0
+2018-02,Phalgu,13.65,38.6,South Bihar,0
+2018-02,Sone,20.97,248.1,West Bihar,0
+2018-02,Phalgu,13.94,18.8,South Bihar,0
+2018-02,Gandak,22.09,29.9,North Bihar,0
+2018-02,Gandak,23.04,110,North Bihar,0
+2018-02,Sone,20.62,36.6,South Bihar,0
+2018-02,Burhi Gandak,18.21,10,North Bihar,0
+2018-02,Burhi Gandak,13.01,1.8,North Bihar,0
+2018-02,Mahananda,18.67,221.9,East Bihar,0
+2018-03,Ganga,27.31,190.2,North Bihar,0
+2018-03,Phalgu,14.67,26.4,South Bihar,0
+2018-03,Burhi Gandak,16.26,162,North Bihar,0
+2018-03,Bagmati,19.18,7.2,North Bihar,0
+2018-03,Burhi Gandak,16.31,183.4,North Bihar,0
+2018-03,Punpun,9.88,28.7,South Bihar,0
+2018-03,Gandak,25.06,170.8,North Bihar,1
+2018-03,Burhi Gandak,15.91,261.6,North Bihar,0
+2018-03,Sone,18.22,146.7,South Bihar,0
+2018-03,Mahananda,11.03,22.4,East Bihar,0
+2018-03,Burhi Gandak,13.57,48.7,North Bihar,0
+2018-03,Burhi Gandak,15.42,286,North Bihar,0
+2018-03,Kamla Balan,15.38,25,North Bihar,0
+2018-03,Kosi,18.16,0,North Bihar,0
+2018-03,Burhi Gandak,15.12,0.4,North Bihar,0
+2018-03,Mahananda,16.9,35.5,North Bihar,0
+2018-03,Sone,16.56,18.6,South Bihar,0
+2018-03,Mahananda,14.9,10,North Bihar,0
+2018-03,Phalgu,12.31,32.9,Central Bihar,0
+2018-03,Ganga,26.7,193.5,North Bihar,0
+2018-03,Gandak,21.36,30.3,West Bihar,0
+2018-03,Kosi,22.21,175.7,North Bihar,0
+2018-03,Bagmati,22.85,140.1,North Bihar,1
+2018-03,Gandak,21.33,53,North Bihar,0
+2018-03,Bagmati,19.58,30.1,North Bihar,0
+2018-03,Ganga,26.08,155.3,Central Bihar,0
+2018-03,Kosi,19.79,11.5,East Bihar,0
+2018-03,Sone,13.02,50.2,South Bihar,0
+2018-03,Kamla Balan,12.64,40.2,East Bihar,0
+2018-03,Burhi Gandak,15.38,28.1,North Bihar,0
+2018-03,Kamla Balan,12.12,16.1,East Bihar,0
+2018-03,Kosi,23.8,0,North Bihar,0
+2018-04,Burhi Gandak,20.17,193.6,North Bihar,1
+2018-04,Kamla Balan,18.07,165.8,East Bihar,1
+2018-04,Gandak,19.28,18.1,North Bihar,0
+2018-04,Sone,15.45,152.4,South Bihar,0
+2018-04,Phalgu,9.49,0,Central Bihar,0
+2018-04,Kosi,19.29,197.2,East Bihar,0
+2018-04,Bagmati,23.23,170.2,North Bihar,1
+2018-04,Burhi Gandak,15.77,8.9,North Bihar,0
+2018-04,Sone,15.12,25.6,South Bihar,0
+2018-04,Kosi,22.11,13.4,North Bihar,0
+2018-04,Mahananda,19.11,198.8,East Bihar,0
+2018-04,Bagmati,17.71,28.8,North Bihar,0
+2018-04,Sone,21.46,201.7,West Bihar,1
+2018-04,Bagmati,17.83,25.9,North Bihar,0
+2018-04,Sone,16.32,197.6,South Bihar,0
+2018-04,Sone,22.85,154.1,South Bihar,1
+2018-04,Punpun,14.82,32,South Bihar,0
+2018-04,Gandak,17.73,18.9,North Bihar,0
+2018-04,Bagmati,21.06,155.3,North Bihar,0
+2018-04,Phalgu,15.6,149.2,South Bihar,0
+2018-04,Kamla Balan,12.92,17.1,East Bihar,0
+2018-04,Sone,17.52,1.9,West Bihar,0
+2018-04,Ganga,27.33,107.4,North Bihar,0
+2018-04,Gandak,21.1,5.9,North Bihar,0
+2018-04,Sone,19.33,12.9,South Bihar,0
+2018-04,Kosi,24.28,192.6,North Bihar,0
+2018-04,Kamla Balan,12.58,39.4,North Bihar,0
+2018-04,Sone,18.78,250.7,South Bihar,0
+2018-04,Ganga,23.44,0,North Bihar,0
+2018-04,Mahananda,18.37,138.5,East Bihar,0
+2018-04,Punpun,15.08,12.6,Central Bihar,0
+2018-04,Ganga,23.83,147.7,Central Bihar,0
+2018-04,Phalgu,18.48,224.2,South Bihar,1
+2018-04,Kamla Balan,14.59,166.6,North Bihar,0
+2018-04,Punpun,14.12,31.5,Central Bihar,0
+2018-04,Kamla Balan,12.62,119.8,East Bihar,0
+2018-04,Sone,18.66,40.8,South Bihar,0
+2018-04,Mahananda,16.6,12,North Bihar,0
+2018-04,Punpun,12.55,6.4,South Bihar,0
+2018-04,Kamla Balan,12.64,8.4,North Bihar,0
+2018-04,Burhi Gandak,13.39,33.9,North Bihar,0
+2018-04,Ganga,25.79,186.7,North Bihar,0
+2018-05,Kosi,23.41,46.1,North Bihar,0
+2018-05,Sone,15.57,23.9,West Bihar,0
+2018-05,Mahananda,16.39,263.7,North Bihar,0
+2018-05,Sone,13.41,0,South Bihar,0
+2018-05,Kosi,23.26,28.5,North Bihar,0
+2018-05,Mahananda,17.91,31.7,East Bihar,0
+2018-05,Kamla Balan,11.88,4,North Bihar,0
+2018-05,Bagmati,20.29,140,North Bihar,0
+2018-05,Kosi,26.11,30,North Bihar,0
+2018-05,Burhi Gandak,17.08,0,North Bihar,0
+2018-05,Burhi Gandak,11.13,12.2,North Bihar,0
+2018-05,Kamla Balan,11.18,0,North Bihar,0
+2018-05,Burhi Gandak,16.46,178.3,North Bihar,0
+2018-05,Bagmati,22.31,312.3,North Bihar,1
+2018-05,Kamla Balan,10.86,28.7,North Bihar,0
+2018-05,Burhi Gandak,15.32,25.1,North Bihar,0
+2018-05,Punpun,14.54,30.3,South Bihar,0
+2018-05,Punpun,13.58,28.8,Central Bihar,0
+2018-05,Kamla Balan,13.22,22.4,North Bihar,0
+2018-05,Mahananda,16.87,16.6,North Bihar,0
+2018-05,Bagmati,20.44,198,North Bihar,0
+2018-05,Gandak,20.81,27,North Bihar,0
+2018-05,Sone,17.06,10.8,South Bihar,0
+2018-05,Gandak,21.81,23.4,West Bihar,0
+2018-05,Kosi,20.99,28.3,North Bihar,0
+2018-05,Kosi,18.78,37.4,East Bihar,0
+2018-05,Mahananda,16.75,29.3,East Bihar,0
+2018-05,Sone,18.18,36.9,South Bihar,0
+2018-05,Burhi Gandak,15.56,0,North Bihar,0
+2018-05,Mahananda,14.2,46.3,East Bihar,0
+2018-05,Sone,18.54,18.2,South Bihar,0
+2018-05,Sone,15.76,14.4,West Bihar,0
+2018-05,Ganga,22.63,40.4,North Bihar,0
+2018-05,Kamla Balan,14.58,7.8,North Bihar,0
+2018-05,Ganga,25.12,54.2,Central Bihar,0
+2018-05,Kosi,24.55,267.8,East Bihar,0
+2018-05,Punpun,16.36,39.9,South Bihar,0
+2018-05,Ganga,24.36,26.7,North Bihar,0
+2018-05,Punpun,14.37,1.3,South Bihar,0
+2018-05,Sone,17.36,37.1,South Bihar,0
+2018-05,Punpun,11.51,20,Central Bihar,0
+2018-05,Ganga,25.43,172.3,North Bihar,0
+2018-06,Bagmati,17.61,18.6,North Bihar,0
+2018-06,Mahananda,16.67,126.4,North Bihar,0
+2018-06,Kosi,20.72,252.3,North Bihar,0
+2018-06,Kosi,18.6,14.9,East Bihar,0
+2018-06,Punpun,13.8,43.3,South Bihar,0
+2018-06,Bagmati,16.62,6.6,North Bihar,0
+2018-06,Burhi Gandak,17.46,10.8,North Bihar,0
+2018-06,Kosi,23.35,35.4,North Bihar,0
+2018-06,Ganga,23.78,108.7,North Bihar,0
+2018-06,Ganga,23.48,196.9,North Bihar,0
+2018-06,Ganga,22.01,22,North Bihar,0
+2018-06,Kamla Balan,14.94,243,North Bihar,0
+2018-06,Bagmati,18.4,23.8,North Bihar,0
+2018-06,Sone,19.67,1.9,South Bihar,0
+2018-06,Punpun,13.39,14,South Bihar,0
+2018-06,Kosi,21.55,37.1,North Bihar,0
+2018-06,Punpun,17.62,156.1,South Bihar,0
+2018-06,Gandak,20.13,0.3,West Bihar,0
+2018-06,Mahananda,16.56,15.5,East Bihar,0
+2018-06,Burhi Gandak,15.14,40.5,North Bihar,0
+2018-06,Sone,17.02,12.5,South Bihar,0
+2018-06,Burhi Gandak,15.93,262.1,North Bihar,0
+2018-06,Mahananda,14.17,48.4,East Bihar,0
+2018-06,Mahananda,17.47,23.4,East Bihar,0
+2018-06,Mahananda,16.52,21.8,East Bihar,0
+2018-06,Gandak,22.01,26.2,North Bihar,0
+2018-06,Kosi,21.04,21.9,North Bihar,0
+2018-06,Ganga,20.54,10.3,North Bihar,0
+2018-06,Punpun,11.48,14.9,South Bihar,0
+2018-06,Gandak,17.61,0,North Bihar,0
+2018-06,Phalgu,13.85,0,Central Bihar,0
+2018-06,Punpun,10.56,5.2,Central Bihar,0
+2018-06,Gandak,18.37,29.4,North Bihar,0
+2018-06,Burhi Gandak,16.77,62,North Bihar,0
+2018-06,Punpun,12.77,0,Central Bihar,0
+2018-06,Bagmati,18.8,245.7,North Bihar,0
+2018-06,Kamla Balan,16.02,224.8,North Bihar,1
+2018-06,Gandak,23.54,40.5,North Bihar,0
+2018-06,Sone,24.68,299.9,South Bihar,1
+2018-06,Sone,15.1,129.9,South Bihar,0
+2018-06,Ganga,26.24,27.6,North Bihar,0
+2018-06,Punpun,13.36,21.2,Central Bihar,0
+2018-06,Bagmati,22.01,141,North Bihar,1
+2018-06,Mahananda,22.27,333.1,East Bihar,1
+2018-06,Sone,17.02,53.6,South Bihar,0
+2018-06,Punpun,10.58,29.6,South Bihar,0
+2018-06,Kamla Balan,14.66,205.1,North Bihar,0
+2018-06,Kosi,22.78,28.2,North Bihar,0
+2018-06,Gandak,16.81,34.9,North Bihar,0
+2018-06,Mahananda,19,224.8,North Bihar,0
+2018-06,Kamla Balan,12.49,20.7,North Bihar,0
+2018-06,Phalgu,12.52,0.5,South Bihar,0
+2018-06,Kamla Balan,16.21,238.9,North Bihar,1
+2018-06,Ganga,24.47,23.8,North Bihar,0
+2018-06,Gandak,17.34,44.5,North Bihar,0
+2018-06,Sone,20.39,39.6,South Bihar,0
+2018-06,Burhi Gandak,16.21,29.6,North Bihar,0
+2018-06,Punpun,17.23,227.3,Central Bihar,0
+2018-06,Bagmati,22.21,339.2,North Bihar,1
+2018-06,Kamla Balan,16.84,154,North Bihar,1
+2018-06,Kosi,25.45,226.8,North Bihar,1
+2018-06,Phalgu,14.87,188.2,South Bihar,0
+2018-06,Phalgu,12.38,13.9,South Bihar,0
+2018-06,Bagmati,14.46,10.4,North Bihar,0
+2018-06,Burhi Gandak,14.72,16.4,North Bihar,0
+2018-06,Sone,16.46,18.9,South Bihar,0
+2018-06,Sone,16.27,9.2,South Bihar,0
+2018-06,Burhi Gandak,15.72,1.2,North Bihar,0
+2018-06,Kamla Balan,12.23,197.7,North Bihar,0
+2018-06,Gandak,21.48,8.6,North Bihar,0
+2018-06,Gandak,19.84,27.2,North Bihar,0
+2018-06,Gandak,20.68,16.1,North Bihar,0
+2018-06,Sone,15.27,51,South Bihar,0
+2018-06,Ganga,24.75,24,North Bihar,0
+2018-06,Bagmati,24.69,44.3,North Bihar,0
+2018-06,Burhi Gandak,16.35,278.6,North Bihar,0
+2018-06,Ganga,26.13,21.8,Central Bihar,0
+2018-06,Sone,16.95,31.2,South Bihar,0
+2018-06,Ganga,25.58,30.1,Central Bihar,0
+2018-06,Ganga,20.76,25,North Bihar,0
+2018-06,Punpun,16.91,231.5,South Bihar,0
+2018-06,Burhi Gandak,17.73,25.9,North Bihar,0
+2018-06,Burhi Gandak,17.18,56,North Bihar,0
+2018-06,Phalgu,12.93,207.9,South Bihar,0
+2018-06,Mahananda,18.62,275.6,East Bihar,0
+2018-06,Kamla Balan,12.17,5.7,North Bihar,0
+2018-06,Punpun,14.91,0,Central Bihar,0
+2018-06,Burhi Gandak,15.2,34.7,North Bihar,0
+2018-06,Ganga,23.63,44.5,North Bihar,0
+2018-06,Gandak,20.68,7.4,North Bihar,0
+2018-06,Bagmati,20.76,310,North Bihar,0
+2018-06,Ganga,26.77,34.7,Central Bihar,0
+2018-06,Kamla Balan,10.93,14.3,East Bihar,0
+2018-06,Phalgu,10.07,31.4,Central Bihar,0
+2018-06,Bagmati,20.4,13.6,North Bihar,0
+2018-06,Bagmati,19.52,22.5,North Bihar,0
+2018-06,Phalgu,15.25,21.7,South Bihar,0
+2018-06,Punpun,10.44,35.9,Central Bihar,0
+2018-06,Bagmati,16.4,9,North Bihar,0
+2018-06,Sone,17.04,50.9,South Bihar,0
+2018-07,Kamla Balan,16.59,122.2,North Bihar,1
+2018-07,Punpun,13.37,18.3,Central Bihar,0
+2018-07,Phalgu,14.82,63.1,South Bihar,0
+2018-07,Mahananda,19.2,173.1,East Bihar,0
+2018-07,Ganga,24.08,19.8,Central Bihar,0
+2018-07,Kosi,25.25,190.5,North Bihar,1
+2018-07,Ganga,20.72,21.7,Central Bihar,0
+2018-07,Kamla Balan,11.61,54.3,East Bihar,0
+2018-07,Sone,16.48,27.1,West Bihar,0
+2018-07,Gandak,20.86,38.3,North Bihar,0
+2018-07,Mahananda,20.45,29.2,East Bihar,0
+2018-07,Punpun,16.61,0,Central Bihar,0
+2018-07,Sone,19.57,148.3,South Bihar,0
+2018-07,Burhi Gandak,14.63,18.9,North Bihar,0
+2018-07,Sone,18.73,5.5,South Bihar,0
+2018-07,Gandak,24.1,229.7,North Bihar,1
+2018-07,Gandak,19.72,114.3,West Bihar,0
+2018-07,Kamla Balan,12.33,42.3,North Bihar,0
+2018-07,Kamla Balan,9.56,13.1,North Bihar,0
+2018-07,Mahananda,16.68,45.2,East Bihar,0
+2018-07,Ganga,25.73,184.6,North Bihar,0
+2018-07,Bagmati,20.7,29.9,North Bihar,0
+2018-07,Burhi Gandak,17.03,144.4,North Bihar,0
+2018-07,Gandak,25.77,306.2,North Bihar,1
+2018-07,Phalgu,15.27,13.2,South Bihar,0
+2018-07,Kamla Balan,14.17,52.9,North Bihar,0
+2018-07,Kamla Balan,10.89,218.4,North Bihar,0
+2018-07,Kosi,18.96,109.6,East Bihar,0
+2018-07,Mahananda,16.46,119.2,East Bihar,0
+2018-07,Mahananda,16.22,39.1,East Bihar,0
+2018-07,Ganga,28.01,11.8,North Bihar,0
+2018-07,Punpun,15.81,41.9,Central Bihar,0
+2018-07,Kamla Balan,14.61,22.5,North Bihar,0
+2018-07,Ganga,24.39,16.8,North Bihar,0
+2018-07,Kosi,22.52,58.8,East Bihar,0
+2018-07,Punpun,15.86,35.6,Central Bihar,0
+2018-07,Gandak,21.78,181.7,North Bihar,0
+2018-07,Phalgu,11.63,30.9,Central Bihar,0
+2018-07,Kosi,19.37,32.8,North Bihar,0
+2018-07,Mahananda,17.35,227.9,East Bihar,0
+2018-07,Ganga,24.97,183,Central Bihar,0
+2018-07,Burhi Gandak,17.71,0,North Bihar,0
+2018-07,Gandak,24.26,242.8,West Bihar,1
+2018-07,Punpun,14.3,26.3,South Bihar,0
+2018-07,Punpun,18.95,38.1,South Bihar,0
+2018-07,Burhi Gandak,16.49,0,North Bihar,0
+2018-07,Burhi Gandak,13.92,16.8,North Bihar,0
+2018-07,Punpun,13.37,12.1,South Bihar,0
+2018-07,Phalgu,12.4,50,South Bihar,0
+2018-07,Gandak,18.72,59.8,West Bihar,0
+2018-07,Ganga,29.27,164.6,Central Bihar,1
+2018-07,Mahananda,15.09,33.8,North Bihar,0
+2018-07,Punpun,21.23,223,Central Bihar,1
+2018-07,Bagmati,21.43,184.4,North Bihar,0
+2018-07,Kamla Balan,15.06,211.2,East Bihar,0
+2018-07,Gandak,23.28,30.1,North Bihar,0
+2018-07,Mahananda,15.32,25.7,North Bihar,0
+2018-07,Bagmati,20.81,229.6,North Bihar,0
+2018-07,Phalgu,14.67,8.3,Central Bihar,0
+2018-07,Punpun,17.36,244,South Bihar,0
+2018-07,Phalgu,13.21,15.4,South Bihar,0
+2018-07,Bagmati,23.71,236,North Bihar,1
+2018-07,Mahananda,17.79,18,East Bihar,0
+2018-07,Gandak,19.58,19,West Bihar,0
+2018-07,Punpun,14.48,55.6,Central Bihar,0
+2018-07,Sone,17.85,142.3,West Bihar,0
+2018-07,Phalgu,17.06,254.5,South Bihar,1
+2018-07,Phalgu,14.13,40.8,Central Bihar,0
+2018-07,Punpun,14.77,26.9,South Bihar,0
+2018-07,Gandak,19.58,30,North Bihar,0
+2018-07,Sone,19.15,191,West Bihar,0
+2018-07,Punpun,15.85,47.1,South Bihar,0
+2018-07,Gandak,17.06,29.4,West Bihar,0
+2018-07,Burhi Gandak,12.98,117,North Bihar,0
+2018-07,Kosi,23.23,245.6,North Bihar,0
+2018-07,Sone,14.65,25,South Bihar,0
+2018-07,Phalgu,18.08,222.7,South Bihar,1
+2018-07,Kamla Balan,14.59,172.4,East Bihar,0
+2018-07,Kosi,23.58,223.1,North Bihar,0
+2018-07,Sone,16.49,34,South Bihar,0
+2018-07,Gandak,27.29,280.3,North Bihar,1
+2018-07,Mahananda,16.63,41.4,East Bihar,0
+2018-07,Kamla Balan,19.42,263.4,East Bihar,1
+2018-07,Mahananda,16.9,42.2,East Bihar,0
+2018-07,Punpun,15.79,28.6,South Bihar,0
+2018-07,Bagmati,17.02,37.8,North Bihar,0
+2018-07,Kosi,23.99,28.6,East Bihar,0
+2018-07,Kamla Balan,12.46,218.4,North Bihar,0
+2018-07,Bagmati,18.05,103.2,North Bihar,0
+2018-07,Gandak,23.14,182.5,West Bihar,0
+2018-07,Kosi,23.95,36.4,North Bihar,0
+2018-07,Bagmati,17.74,31.4,North Bihar,0
+2018-07,Gandak,21.83,131.1,North Bihar,0
+2018-07,Mahananda,22.62,327.2,East Bihar,1
+2018-07,Kamla Balan,10.01,10.9,North Bihar,0
+2018-07,Punpun,15.21,11.5,Central Bihar,0
+2018-07,Punpun,19.81,197.5,Central Bihar,1
+2018-07,Punpun,14.16,39.5,South Bihar,0
+2018-07,Gandak,22.26,14,North Bihar,0
+2018-07,Burhi Gandak,16.21,58.5,North Bihar,0
+2018-07,Kamla Balan,12.73,0,North Bihar,0
+2018-07,Mahananda,17.15,30.5,East Bihar,0
+2018-07,Burhi Gandak,15.75,134.5,North Bihar,0
+2018-07,Ganga,22.37,16,Central Bihar,0
+2018-07,Mahananda,13.18,11.3,North Bihar,0
+2018-07,Punpun,15.73,200,South Bihar,0
+2018-07,Punpun,14.79,7.1,South Bihar,0
+2018-07,Mahananda,17.41,257.8,North Bihar,0
+2018-07,Ganga,26.17,33.2,North Bihar,0
+2018-08,Bagmati,20.49,23.2,North Bihar,0
+2018-08,Punpun,12.53,24.7,South Bihar,0
+2018-08,Burhi Gandak,15.08,33.2,North Bihar,0
+2018-08,Burhi Gandak,15.73,0,North Bihar,0
+2018-08,Kamla Balan,11.32,6.4,North Bihar,0
+2018-08,Bagmati,16.14,1.6,North Bihar,0
+2018-08,Burhi Gandak,13.92,41.9,North Bihar,0
+2018-08,Ganga,22.11,64,Central Bihar,0
+2018-08,Sone,19.81,42.5,South Bihar,0
+2018-08,Phalgu,15.62,205.1,South Bihar,0
+2018-08,Ganga,23.94,196.5,North Bihar,0
+2018-08,Punpun,15.94,288.7,South Bihar,0
+2018-08,Phalgu,12.54,29.1,Central Bihar,0
+2018-08,Mahananda,17.57,44.3,East Bihar,0
+2018-08,Burhi Gandak,15.79,18.2,North Bihar,0
+2018-08,Kosi,21.19,134.5,North Bihar,0
+2018-08,Gandak,22.79,198.1,North Bihar,0
+2018-08,Sone,19.17,59.5,South Bihar,0
+2018-08,Bagmati,18.95,19.8,North Bihar,0
+2018-08,Burhi Gandak,16.05,24.7,North Bihar,0
+2018-08,Kamla Balan,9.26,11.6,North Bihar,0
+2018-08,Phalgu,14.06,35.5,Central Bihar,0
+2018-08,Burhi Gandak,16.47,184.7,North Bihar,0
+2018-08,Kosi,24.66,24,North Bihar,0
+2018-08,Ganga,22.79,25.5,North Bihar,0
+2018-08,Bagmati,21.59,243.5,North Bihar,0
+2018-08,Kosi,20.01,30.1,North Bihar,0
+2018-08,Mahananda,15.73,144,East Bihar,0
+2018-08,Ganga,24.68,29.9,Central Bihar,0
+2018-08,Kosi,24.7,45.1,North Bihar,0
+2018-08,Mahananda,19.53,216.3,East Bihar,0
+2018-08,Ganga,22.59,193.1,Central Bihar,0
+2018-08,Mahananda,17.13,54.9,North Bihar,0
+2018-08,Kamla Balan,13.11,274.2,East Bihar,0
+2018-08,Kamla Balan,9.76,15.2,North Bihar,0
+2018-08,Burhi Gandak,18.91,148.7,North Bihar,0
+2018-08,Phalgu,10.36,0,Central Bihar,0
+2018-08,Sone,18.74,13.1,South Bihar,0
+2018-08,Kamla Balan,14.04,47,East Bihar,0
+2018-08,Kamla Balan,12.03,23.2,North Bihar,0
+2018-08,Burhi Gandak,14.48,2.4,North Bihar,0
+2018-08,Punpun,14.71,158.7,Central Bihar,0
+2018-08,Kosi,22.16,25.6,North Bihar,0
+2018-08,Sone,15.71,164.6,South Bihar,0
+2018-08,Kamla Balan,11.47,48.3,North Bihar,0
+2018-08,Bagmati,20.16,31.5,North Bihar,0
+2018-08,Burhi Gandak,15.59,0,North Bihar,0
+2018-08,Phalgu,12.25,49,Central Bihar,0
+2018-08,Gandak,25.24,220.4,North Bihar,1
+2018-08,Gandak,21.45,40.3,North Bihar,0
+2018-08,Kamla Balan,9.66,28.8,East Bihar,0
+2018-08,Phalgu,14.82,177.4,South Bihar,0
+2018-08,Bagmati,18.52,27.7,North Bihar,0
+2018-08,Kamla Balan,14.45,63.6,North Bihar,0
+2018-08,Burhi Gandak,16.74,39.6,North Bihar,0
+2018-08,Mahananda,18.15,38.6,East Bihar,0
+2018-08,Sone,15.34,233.7,West Bihar,0
+2018-08,Phalgu,15.43,121.2,Central Bihar,0
+2018-08,Sone,17.41,174.5,West Bihar,0
+2018-08,Punpun,12.08,22,South Bihar,0
+2018-08,Sone,13.85,25.2,South Bihar,0
+2018-08,Gandak,18.32,12.5,North Bihar,0
+2018-08,Sone,18.09,240.6,South Bihar,0
+2018-08,Gandak,17.78,0,West Bihar,0
+2018-08,Gandak,20.7,44.3,North Bihar,0
+2018-08,Phalgu,16.58,154.7,Central Bihar,0
+2018-08,Gandak,22.61,242.9,North Bihar,0
+2018-08,Burhi Gandak,15.35,256.4,North Bihar,0
+2018-08,Mahananda,19.71,198,East Bihar,0
+2018-08,Bagmati,20.56,216.8,North Bihar,0
+2018-08,Phalgu,12.77,152,Central Bihar,0
+2018-08,Sone,16.46,44.1,South Bihar,0
+2018-08,Burhi Gandak,16.13,9.1,North Bihar,0
+2018-08,Ganga,23.65,27.9,Central Bihar,0
+2018-08,Ganga,25.93,106.3,North Bihar,0
+2018-08,Phalgu,13.19,45,South Bihar,0
+2018-08,Mahananda,15.14,14.6,East Bihar,0
+2018-08,Ganga,25.66,13.3,Central Bihar,0
+2018-08,Ganga,27.16,180.6,North Bihar,0
+2018-08,Ganga,25.87,240.4,North Bihar,0
+2018-08,Burhi Gandak,16.39,0,North Bihar,0
+2018-08,Kosi,19.36,28.9,North Bihar,0
+2018-08,Ganga,23.53,26.9,North Bihar,0
+2018-08,Kosi,20.89,7.8,North Bihar,0
+2018-08,Ganga,28.22,145.6,Central Bihar,1
+2018-08,Gandak,21.74,273.4,West Bihar,0
+2018-08,Gandak,22.87,20.2,North Bihar,0
+2018-08,Phalgu,12.71,15.5,South Bihar,0
+2018-08,Sone,18.62,26.7,South Bihar,0
+2018-08,Bagmati,21.65,218.8,North Bihar,0
+2018-08,Burhi Gandak,14.03,120.1,North Bihar,0
+2018-08,Punpun,15.43,0,South Bihar,0
+2018-08,Gandak,19.15,136.6,North Bihar,0
+2018-08,Mahananda,17.44,165.8,East Bihar,0
+2018-08,Phalgu,16.36,15,Central Bihar,0
+2018-08,Gandak,19.39,37.6,West Bihar,0
+2018-08,Phalgu,13.87,74.9,South Bihar,0
+2018-08,Mahananda,11.23,42.1,North Bihar,0
+2018-08,Kosi,25.62,7.5,East Bihar,0
+2018-08,Kamla Balan,14.82,54.9,North Bihar,0
+2018-08,Gandak,21.19,28.1,North Bihar,0
+2018-08,Bagmati,16.13,25.9,North Bihar,0
+2018-08,Kosi,22.36,39.7,East Bihar,0
+2018-08,Bagmati,18.97,245.3,North Bihar,0
+2018-08,Kosi,21.59,226.4,East Bihar,0
+2018-08,Kamla Balan,10.07,26.3,North Bihar,0
+2018-08,Gandak,20.59,10,West Bihar,0
+2018-08,Gandak,23.91,159.9,North Bihar,0
+2018-08,Burhi Gandak,14.97,211.7,North Bihar,0
+2018-08,Punpun,14.01,213.6,Central Bihar,0
+2018-08,Phalgu,12.79,215,South Bihar,0
+2018-08,Mahananda,14.77,36.5,East Bihar,0
+2018-08,Burhi Gandak,13.88,28.8,North Bihar,0
+2018-08,Kosi,19.81,9.5,East Bihar,0
+2018-08,Phalgu,15.5,25.9,South Bihar,0
+2018-08,Punpun,16.52,11.8,Central Bihar,0
+2018-08,Kosi,23.01,156.6,North Bihar,0
+2018-08,Gandak,19.95,47.6,North Bihar,0
+2018-08,Bagmati,20.36,207.2,North Bihar,0
+2018-08,Gandak,22.16,12.9,West Bihar,0
+2018-08,Phalgu,12.97,28.3,South Bihar,0
+2018-09,Punpun,15.78,158.6,Central Bihar,0
+2018-09,Mahananda,16.83,66,East Bihar,0
+2018-09,Sone,20.86,15,West Bihar,0
+2018-09,Bagmati,18.83,29.1,North Bihar,0
+2018-09,Punpun,11.16,15.1,Central Bihar,0
+2018-09,Gandak,19.55,5.2,West Bihar,0
+2018-09,Ganga,24.93,59.6,North Bihar,0
+2018-09,Kamla Balan,13.16,19.6,East Bihar,0
+2018-09,Sone,19.42,233.3,South Bihar,0
+2018-09,Sone,18.25,36,South Bihar,0
+2018-09,Phalgu,11.87,14,Central Bihar,0
+2018-09,Mahananda,15.92,28.1,North Bihar,0
+2018-09,Gandak,24.11,21.9,West Bihar,0
+2018-09,Kamla Balan,15.18,171.9,North Bihar,0
+2018-09,Mahananda,16.69,15.1,East Bihar,0
+2018-09,Ganga,25.98,24.1,Central Bihar,0
+2018-09,Bagmati,18.39,27.9,North Bihar,0
+2018-09,Sone,16.23,186,West Bihar,0
+2018-09,Mahananda,17.68,193.3,East Bihar,0
+2018-09,Burhi Gandak,16.37,252.9,North Bihar,0
+2018-09,Phalgu,11.57,0,South Bihar,0
+2018-09,Burhi Gandak,17.61,19.3,North Bihar,0
+2018-09,Burhi Gandak,14.46,22.3,North Bihar,0
+2018-09,Gandak,25.34,21.1,North Bihar,0
+2018-09,Burhi Gandak,15.26,20.6,North Bihar,0
+2018-09,Sone,17.04,30.7,West Bihar,0
+2018-09,Ganga,25.73,239.8,Central Bihar,0
+2018-09,Ganga,26.67,32.2,North Bihar,0
+2018-09,Ganga,25.1,17.7,North Bihar,0
+2018-09,Kamla Balan,15.64,20,East Bihar,0
+2018-09,Punpun,13.01,19.5,South Bihar,0
+2018-09,Burhi Gandak,14,0,North Bihar,0
+2018-09,Kosi,21.33,39.1,North Bihar,0
+2018-09,Sone,17.72,14,South Bihar,0
+2018-09,Punpun,14.87,34.9,South Bihar,0
+2018-09,Kosi,24.66,63.9,North Bihar,0
+2018-09,Phalgu,13.39,131.3,South Bihar,0
+2018-09,Ganga,27.4,137.6,Central Bihar,0
+2018-09,Gandak,22.25,0,North Bihar,0
+2018-09,Kamla Balan,11.48,6.7,North Bihar,0
+2018-09,Bagmati,17.85,29.6,North Bihar,0
+2018-09,Sone,17.64,31.1,South Bihar,0
+2018-09,Punpun,13.84,28.1,South Bihar,0
+2018-09,Gandak,20.02,14.5,West Bihar,0
+2018-09,Punpun,16.48,14.7,South Bihar,0
+2018-09,Ganga,26.53,24,North Bihar,0
+2018-09,Ganga,24.07,183.3,North Bihar,0
+2018-09,Gandak,18.77,21.8,North Bihar,0
+2018-09,Mahananda,18.02,55.7,East Bihar,0
+2018-09,Kamla Balan,12.6,38.8,North Bihar,0
+2018-09,Kosi,21.92,180.7,East Bihar,0
+2018-09,Burhi Gandak,15.05,17.1,North Bihar,0
+2018-09,Mahananda,17.63,26.9,East Bihar,0
+2018-09,Bagmati,16.51,251.2,North Bihar,0
+2018-09,Sone,23.02,197.5,West Bihar,1
+2018-09,Gandak,21.69,259.5,North Bihar,0
+2018-09,Phalgu,12.73,22.2,South Bihar,0
+2018-09,Phalgu,12.33,57,South Bihar,0
+2018-09,Phalgu,13.93,2.5,Central Bihar,0
+2018-09,Burhi Gandak,19.89,227.8,North Bihar,1
+2018-09,Phalgu,15.43,66.3,Central Bihar,0
+2018-09,Punpun,14.09,151.6,South Bihar,0
+2018-09,Phalgu,13.77,31.5,South Bihar,0
+2018-09,Kamla Balan,14.96,42.1,North Bihar,0
+2018-09,Burhi Gandak,21.14,255.6,North Bihar,1
+2018-09,Kosi,20.49,202.3,North Bihar,0
+2018-09,Sone,17.49,11.1,South Bihar,0
+2018-09,Mahananda,18.09,102.4,North Bihar,0
+2018-09,Burhi Gandak,14.87,23.1,North Bihar,0
+2018-09,Ganga,22.47,36.3,Central Bihar,0
+2018-09,Punpun,15.32,122.5,Central Bihar,0
+2018-09,Phalgu,17.06,156,Central Bihar,1
+2018-09,Mahananda,19.05,10.6,East Bihar,0
+2018-09,Punpun,15.77,130.6,Central Bihar,0
+2018-09,Punpun,16.92,27.1,Central Bihar,0
+2018-09,Sone,17.49,42.3,South Bihar,0
+2018-09,Kosi,22.73,105.4,East Bihar,0
+2018-09,Punpun,13.8,57.7,South Bihar,0
+2018-09,Mahananda,16.48,10.4,East Bihar,0
+2018-09,Mahananda,19.41,183.1,East Bihar,0
+2018-09,Ganga,23.99,29.8,North Bihar,0
+2018-09,Burhi Gandak,11.43,23.4,North Bihar,0
+2018-09,Phalgu,11.37,14.5,South Bihar,0
+2018-09,Ganga,28.04,40,Central Bihar,0
+2018-09,Punpun,12.56,21.6,South Bihar,0
+2018-09,Sone,17,31.8,South Bihar,0
+2018-09,Kosi,20.44,34.6,North Bihar,0
+2018-09,Phalgu,15.04,276.4,South Bihar,0
+2018-09,Gandak,21.55,186.3,North Bihar,0
+2018-09,Bagmati,15.02,48.4,North Bihar,0
+2018-09,Mahananda,18.43,185.6,East Bihar,0
+2018-09,Punpun,16.26,34.9,South Bihar,0
+2018-09,Kamla Balan,12.22,202.6,North Bihar,0
+2018-09,Bagmati,22.14,16.3,North Bihar,0
+2018-09,Mahananda,18.55,26.1,East Bihar,0
+2018-09,Sone,16.71,16.1,South Bihar,0
+2018-09,Bagmati,19.33,32.9,North Bihar,0
+2018-09,Kamla Balan,12.94,136.8,North Bihar,0
+2018-09,Sone,20.3,178.8,South Bihar,0
+2018-09,Kamla Balan,15.1,37,North Bihar,0
+2018-09,Bagmati,16.9,3.4,North Bihar,0
+2018-09,Phalgu,15.23,185.6,South Bihar,0
+2018-09,Ganga,23.45,27.8,Central Bihar,0
+2018-09,Bagmati,20.07,25.3,North Bihar,0
+2018-09,Gandak,22.51,171.9,North Bihar,0
+2018-09,Kamla Balan,12.01,14.8,North Bihar,0
+2018-09,Phalgu,17.63,216.6,South Bihar,1
+2018-09,Punpun,12.16,27.8,Central Bihar,0
+2018-09,Ganga,25.78,19.2,North Bihar,0
+2018-10,Kamla Balan,15.1,209.3,North Bihar,0
+2018-10,Kamla Balan,16.24,230.8,North Bihar,1
+2018-10,Kosi,20.82,21.2,North Bihar,0
+2018-10,Sone,18.63,55.3,South Bihar,0
+2018-10,Sone,15.92,12,South Bihar,0
+2018-10,Kamla Balan,14.05,231,North Bihar,0
+2018-10,Punpun,13.93,80.7,South Bihar,0
+2018-10,Ganga,27.34,158.4,North Bihar,0
+2018-10,Sone,18.99,30,South Bihar,0
+2018-10,Burhi Gandak,13.73,34,North Bihar,0
+2018-10,Burhi Gandak,17.34,95.5,North Bihar,0
+2018-10,Burhi Gandak,17,294.3,North Bihar,0
+2018-10,Sone,15.9,94.7,South Bihar,0
+2018-10,Burhi Gandak,16.94,34,North Bihar,0
+2018-10,Punpun,12.95,7.7,South Bihar,0
+2018-10,Gandak,20.57,260.8,West Bihar,0
+2018-10,Ganga,21.86,0,North Bihar,0
+2018-10,Ganga,23.97,30.5,North Bihar,0
+2018-10,Bagmati,20.19,0,North Bihar,0
+2018-10,Burhi Gandak,15.28,91.1,North Bihar,0
+2018-10,Burhi Gandak,17.49,47.7,North Bihar,0
+2018-10,Punpun,12.91,137.6,South Bihar,0
+2018-10,Kamla Balan,15.18,28.1,East Bihar,0
+2018-10,Kamla Balan,13.63,24.4,East Bihar,0
+2018-10,Burhi Gandak,13.99,8.1,North Bihar,0
+2018-10,Phalgu,14.46,0.1,Central Bihar,0
+2018-10,Kamla Balan,15.39,62.6,North Bihar,0
+2018-10,Punpun,17.45,9.6,South Bihar,0
+2018-10,Mahananda,13.13,0,North Bihar,0
+2018-10,Mahananda,19.52,208.1,East Bihar,0
+2018-10,Ganga,23.46,29,North Bihar,0
+2018-10,Phalgu,16.44,226.6,Central Bihar,0
+2018-10,Ganga,25.61,8.2,North Bihar,0
+2018-10,Ganga,24.01,27.8,Central Bihar,0
+2018-10,Mahananda,13.5,7.7,East Bihar,0
+2018-10,Mahananda,18.3,178.3,East Bihar,0
+2018-10,Burhi Gandak,17.2,176.1,North Bihar,0
+2018-10,Kamla Balan,12.66,110.7,North Bihar,0
+2018-10,Sone,18.99,210.6,West Bihar,0
+2018-10,Sone,15.57,123.4,South Bihar,0
+2018-10,Sone,17.22,45.5,South Bihar,0
+2018-10,Sone,22.13,187.2,West Bihar,1
+2018-10,Ganga,19.92,5.3,North Bihar,0
+2018-10,Kamla Balan,14.33,51.4,East Bihar,0
+2018-10,Kosi,23.27,10.5,East Bihar,0
+2018-10,Punpun,14.84,71.7,South Bihar,0
+2018-10,Phalgu,11.43,132.1,South Bihar,0
+2018-10,Kamla Balan,13.15,27.1,North Bihar,0
+2018-10,Phalgu,16.06,16.2,South Bihar,0
+2018-10,Bagmati,22.02,176.3,North Bihar,1
+2018-10,Sone,18.35,4.5,South Bihar,0
+2018-10,Kosi,22.55,232.4,North Bihar,0
+2018-10,Punpun,18.94,29.5,South Bihar,0
+2018-11,Punpun,18.89,165.6,South Bihar,1
+2018-11,Gandak,21.94,152.5,West Bihar,0
+2018-11,Kamla Balan,14.06,169.3,East Bihar,0
+2018-11,Phalgu,14.03,29.1,South Bihar,0
+2018-11,Sone,16.2,25.4,South Bihar,0
+2018-11,Bagmati,19.08,138.1,North Bihar,0
+2018-11,Gandak,21.23,120.7,West Bihar,0
+2018-11,Sone,16.09,43.4,West Bihar,0
+2018-11,Gandak,19.74,189,North Bihar,0
+2018-11,Phalgu,15.22,10.1,Central Bihar,0
+2018-11,Burhi Gandak,13.77,8.7,North Bihar,0
+2018-11,Mahananda,17.92,30.8,North Bihar,0
+2018-11,Punpun,15.55,25.6,Central Bihar,0
+2018-11,Sone,16.43,16.4,South Bihar,0
+2018-11,Burhi Gandak,12.59,37.9,North Bihar,0
+2018-11,Punpun,15.91,25.7,South Bihar,0
+2018-11,Mahananda,14.23,40.1,East Bihar,0
+2018-11,Punpun,16.19,160.5,Central Bihar,0
+2018-11,Kosi,22.74,24.7,East Bihar,0
+2018-11,Kamla Balan,11.28,20,North Bihar,0
+2018-11,Sone,13.14,25.3,South Bihar,0
+2018-11,Burhi Gandak,17.7,201.3,North Bihar,0
+2018-11,Bagmati,21.82,171.5,North Bihar,0
+2018-11,Mahananda,14.1,0,North Bihar,0
+2018-11,Punpun,13.12,173.9,Central Bihar,0
+2018-11,Mahananda,12.65,30.5,North Bihar,0
+2018-11,Phalgu,14.72,283.9,South Bihar,0
+2018-11,Kamla Balan,11.35,32.8,East Bihar,0
+2018-11,Punpun,11.81,47.5,South Bihar,0
+2018-11,Kosi,23.8,112.7,East Bihar,0
+2018-11,Kosi,16.96,20,North Bihar,0
+2018-11,Kosi,21.42,214.4,North Bihar,0
+2018-12,Kosi,22.19,26.7,East Bihar,0
+2018-12,Gandak,23.55,244.3,North Bihar,0
+2018-12,Burhi Gandak,16.42,190.8,North Bihar,0
+2018-12,Gandak,20.9,52.3,West Bihar,0
+2018-12,Kamla Balan,11.83,70.2,North Bihar,0
+2018-12,Kamla Balan,11.08,114.7,East Bihar,0
+2018-12,Kamla Balan,13.33,212.5,East Bihar,0
+2018-12,Phalgu,12.62,131,South Bihar,0
+2018-12,Phalgu,14.53,119.1,South Bihar,0
+2018-12,Kosi,20.93,56.1,North Bihar,0
+2018-12,Mahananda,17.58,0,East Bihar,0
+2018-12,Mahananda,17.91,90.7,North Bihar,0
+2018-12,Burhi Gandak,17.83,180,North Bihar,0
+2018-12,Burhi Gandak,16.46,156.9,North Bihar,0
+2018-12,Gandak,22.04,22.9,North Bihar,0
+2018-12,Mahananda,15.87,107.5,East Bihar,0
+2018-12,Kamla Balan,11.21,14.3,North Bihar,0
+2018-12,Phalgu,16.76,182.1,South Bihar,0
+2018-12,Bagmati,21.32,28.9,North Bihar,0
+2018-12,Punpun,18.63,198.8,Central Bihar,1
+2018-12,Ganga,25.16,34.4,North Bihar,0
+2018-12,Punpun,14,9.9,Central Bihar,0
+2018-12,Burhi Gandak,19.18,193.5,North Bihar,1
+2018-12,Mahananda,15.5,23.4,East Bihar,0
+2018-12,Punpun,16.22,134.3,Central Bihar,0
+2018-12,Kosi,21.05,130.6,East Bihar,0
+2018-12,Punpun,15.65,24.3,South Bihar,0
+2018-12,Burhi Gandak,18.65,236.3,North Bihar,0
+2018-12,Kosi,21.13,35.9,North Bihar,0
+2018-12,Sone,17.26,60.8,South Bihar,0
+2018-12,Punpun,10.99,26.8,South Bihar,0
+2018-12,Burhi Gandak,19.62,171.3,North Bihar,1
+2018-12,Mahananda,14.21,9,East Bihar,0
+2018-12,Ganga,24.96,44.9,North Bihar,0
+2018-12,Mahananda,14.88,19.8,East Bihar,0
+2018-12,Gandak,22.92,217.6,North Bihar,0
+2018-12,Phalgu,16.4,214.2,South Bihar,0
+2018-12,Bagmati,17.91,219.5,North Bihar,0
+2018-12,Punpun,12.82,14.6,Central Bihar,0
+2018-12,Kamla Balan,11.67,42.2,East Bihar,0
+2018-12,Burhi Gandak,17.16,26.4,North Bihar,0
+2018-12,Ganga,25.22,25.2,North Bihar,0
+2018-12,Sone,16.11,24.9,South Bihar,0
+2018-12,Mahananda,17.36,83.8,East Bihar,0
+2018-12,Kosi,21.36,26.3,North Bihar,0
+2018-12,Bagmati,15.96,21.4,North Bihar,0
+2018-12,Burhi Gandak,14.61,0,North Bihar,0
+2018-12,Kamla Balan,15.72,22.6,North Bihar,0
+2018-12,Kosi,18.84,7.1,East Bihar,0
+2018-12,Kosi,23.52,181.3,East Bihar,0
+2019-01,Gandak,19.97,22,North Bihar,0
+2019-01,Bagmati,20.14,210.2,North Bihar,0
+2019-01,Bagmati,19.46,27.8,North Bihar,0
+2019-01,Kamla Balan,13.36,47.2,East Bihar,0
+2019-01,Ganga,25.87,32.1,North Bihar,0
+2019-01,Burhi Gandak,13.63,0,North Bihar,0
+2019-01,Kamla Balan,10.22,41.7,North Bihar,0
+2019-01,Bagmati,19.28,53.4,North Bihar,0
+2019-01,Bagmati,18.15,26,North Bihar,0
+2019-01,Gandak,20.94,255,West Bihar,0
+2019-01,Bagmati,17.67,25.2,North Bihar,0
+2019-01,Punpun,16.66,44.4,Central Bihar,0
+2019-01,Phalgu,15.45,223.5,South Bihar,0
+2019-01,Sone,16.07,12.1,South Bihar,0
+2019-01,Gandak,20.22,10.9,North Bihar,0
+2019-01,Gandak,20.86,5,North Bihar,0
+2019-01,Ganga,24.12,31.9,Central Bihar,0
+2019-01,Punpun,16.05,9.9,South Bihar,0
+2019-01,Kosi,21.95,104.2,North Bihar,0
+2019-01,Burhi Gandak,15.15,15.3,North Bihar,0
+2019-01,Sone,18.5,223.3,South Bihar,0
+2019-01,Phalgu,12.46,185.2,South Bihar,0
+2019-01,Phalgu,12.96,21.2,South Bihar,0
+2019-01,Kamla Balan,12.98,20.8,North Bihar,0
+2019-01,Burhi Gandak,13.97,28.7,North Bihar,0
+2019-01,Kamla Balan,12.73,38.4,North Bihar,0
+2019-01,Gandak,19.48,25.7,North Bihar,0
+2019-01,Kosi,25.08,267.7,North Bihar,1
+2019-01,Kosi,24.67,278.5,North Bihar,0
+2019-01,Burhi Gandak,14.64,26.2,North Bihar,0
+2019-01,Kamla Balan,14.64,22.7,North Bihar,0
+2019-01,Phalgu,15.6,198,South Bihar,0
+2019-01,Kamla Balan,9.78,71.6,East Bihar,0
+2019-01,Ganga,24.4,162.4,North Bihar,0
+2019-01,Burhi Gandak,13.31,26.9,North Bihar,0
+2019-01,Punpun,17.33,18.1,South Bihar,0
+2019-01,Kamla Balan,12.1,263.1,North Bihar,0
+2019-01,Sone,19.29,131.1,South Bihar,0
+2019-01,Burhi Gandak,12.9,37.1,North Bihar,0
+2019-02,Bagmati,18.82,21.9,North Bihar,0
+2019-02,Bagmati,22.47,277.2,North Bihar,1
+2019-02,Punpun,15.85,148.9,South Bihar,0
+2019-02,Gandak,18.33,0,West Bihar,0
+2019-02,Bagmati,18.83,158.3,North Bihar,0
+2019-02,Bagmati,19.38,16.5,North Bihar,0
+2019-02,Kamla Balan,13.41,75.2,North Bihar,0
+2019-02,Kosi,20.15,19.3,East Bihar,0
+2019-02,Ganga,22.72,7.9,North Bihar,0
+2019-02,Ganga,25.99,15.5,North Bihar,0
+2019-02,Bagmati,15.95,26.5,North Bihar,0
+2019-02,Mahananda,16.62,0,East Bihar,0
+2019-02,Kamla Balan,12.94,0,North Bihar,0
+2019-02,Ganga,23.74,26.5,North Bihar,0
+2019-02,Kosi,23.11,227.5,North Bihar,0
+2019-02,Sone,19.89,31.8,West Bihar,0
+2019-02,Kosi,23.17,26.3,North Bihar,0
+2019-02,Burhi Gandak,17.16,298.9,North Bihar,0
+2019-02,Ganga,21.17,18.7,North Bihar,0
+2019-02,Phalgu,13.75,118.1,South Bihar,0
+2019-02,Sone,20.59,32.6,South Bihar,0
+2019-02,Ganga,28.37,310.2,Central Bihar,1
+2019-02,Punpun,16.91,196.1,Central Bihar,0
+2019-02,Gandak,20.34,17.3,North Bihar,0
+2019-02,Bagmati,20.97,55.2,North Bihar,0
+2019-02,Burhi Gandak,17.78,52.3,North Bihar,0
+2019-02,Gandak,18.8,28.1,West Bihar,0
+2019-02,Punpun,13.78,29.4,South Bihar,0
+2019-02,Kamla Balan,12.18,20.8,North Bihar,0
+2019-02,Sone,18.77,6,South Bihar,0
+2019-02,Burhi Gandak,12.08,16.7,North Bihar,0
+2019-02,Kamla Balan,13.3,15.8,North Bihar,0
+2019-03,Punpun,15.42,230.2,South Bihar,0
+2019-03,Sone,19.7,208.4,West Bihar,0
+2019-03,Kosi,22.1,46,East Bihar,0
+2019-03,Burhi Gandak,18.92,45,North Bihar,0
+2019-03,Bagmati,21.44,105.8,North Bihar,0
+2019-03,Phalgu,14.94,238.4,South Bihar,0
+2019-03,Burhi Gandak,16.15,270.5,North Bihar,0
+2019-03,Kosi,21.63,17.5,North Bihar,0
+2019-03,Gandak,24.1,55,North Bihar,0
+2019-03,Ganga,21.56,34.7,Central Bihar,0
+2019-03,Punpun,14.42,22.6,South Bihar,0
+2019-03,Phalgu,12.27,6.2,South Bihar,0
+2019-03,Phalgu,13.67,47.2,Central Bihar,0
+2019-03,Punpun,13.77,0,South Bihar,0
+2019-03,Bagmati,21.38,226.5,North Bihar,0
+2019-03,Mahananda,14.54,82.7,East Bihar,0
+2019-03,Gandak,15.72,23,West Bihar,0
+2019-03,Ganga,25.28,35.5,Central Bihar,0
+2019-03,Punpun,18.36,167.5,South Bihar,1
+2019-03,Phalgu,11.81,22.7,South Bihar,0
+2019-03,Ganga,25.07,37.1,North Bihar,0
+2019-03,Bagmati,18.4,158.7,North Bihar,0
+2019-03,Burhi Gandak,15.91,18.1,North Bihar,0
+2019-03,Sone,14.64,22.3,South Bihar,0
+2019-03,Burhi Gandak,13.56,48.4,North Bihar,0
+2019-03,Sone,18.52,111.9,South Bihar,0
+2019-03,Punpun,15.1,102.9,Central Bihar,0
+2019-03,Ganga,24.87,7.2,Central Bihar,0
+2019-03,Gandak,19.14,0,West Bihar,0
+2019-03,Bagmati,17.03,42,North Bihar,0
+2019-03,Punpun,13.03,7.9,South Bihar,0
+2019-03,Phalgu,11.57,33.2,South Bihar,0
+2019-03,Bagmati,18.35,44.6,North Bihar,0
+2019-04,Ganga,22.98,12.6,Central Bihar,0
+2019-04,Kosi,22.39,23.7,North Bihar,0
+2019-04,Kosi,22.43,82.2,East Bihar,0
+2019-04,Gandak,17.92,33,West Bihar,0
+2019-04,Bagmati,15.43,34.7,North Bihar,0
+2019-04,Ganga,26.33,288.7,North Bihar,0
+2019-04,Burhi Gandak,15.11,18.3,North Bihar,0
+2019-04,Bagmati,20.16,14.2,North Bihar,0
+2019-04,Sone,18.53,32.8,West Bihar,0
+2019-04,Burhi Gandak,13.43,38.4,North Bihar,0
+2019-04,Bagmati,19.95,267,North Bihar,0
+2019-04,Kamla Balan,11.89,14,North Bihar,0
+2019-04,Gandak,18.91,31,North Bihar,0
+2019-04,Gandak,19.6,35.1,North Bihar,0
+2019-04,Ganga,28.28,143.7,North Bihar,1
+2019-04,Kamla Balan,10.53,24.3,North Bihar,0
+2019-04,Burhi Gandak,15.44,17.7,North Bihar,0
+2019-04,Bagmati,21.79,22.8,North Bihar,0
+2019-04,Bagmati,19.77,110.5,North Bihar,0
+2019-04,Ganga,26.23,178.3,North Bihar,0
+2019-04,Mahananda,18,169,East Bihar,0
+2019-04,Kamla Balan,11.77,0,East Bihar,0
+2019-04,Kosi,18.45,7.9,North Bihar,0
+2019-04,Kosi,23.91,141.6,North Bihar,0
+2019-04,Gandak,18.96,32.5,North Bihar,0
+2019-04,Phalgu,15.65,211,Central Bihar,0
+2019-04,Gandak,22.14,19.4,North Bihar,0
+2019-04,Gandak,20.93,126.3,West Bihar,0
+2019-04,Punpun,17.96,7.4,South Bihar,0
+2019-04,Punpun,12.05,178.9,Central Bihar,0
+2019-04,Gandak,18.2,42.9,West Bihar,0
+2019-04,Kosi,20.63,13.1,North Bihar,0
+2019-04,Mahananda,14.97,23.6,East Bihar,0
+2019-04,Kosi,19.09,37.7,North Bihar,0
+2019-05,Sone,17.33,10.9,West Bihar,0
+2019-05,Phalgu,14.5,25.4,Central Bihar,0
+2019-05,Phalgu,12.52,29,Central Bihar,0
+2019-05,Sone,18.17,202.5,South Bihar,0
+2019-05,Kosi,23.87,144.7,North Bihar,0
+2019-05,Phalgu,12.41,11.9,South Bihar,0
+2019-05,Punpun,12.99,42.1,Central Bihar,0
+2019-05,Bagmati,20.36,200.1,North Bihar,0
+2019-05,Burhi Gandak,14.89,14.3,North Bihar,0
+2019-05,Bagmati,17.51,16.4,North Bihar,0
+2019-05,Bagmati,20.28,270.5,North Bihar,0
+2019-05,Bagmati,20.23,60.9,North Bihar,0
+2019-05,Ganga,27.07,190,North Bihar,0
+2019-05,Bagmati,17.14,35.1,North Bihar,0
+2019-05,Punpun,16.12,52.5,South Bihar,0
+2019-05,Bagmati,12.46,18.1,North Bihar,0
+2019-05,Ganga,26.81,208.6,North Bihar,0
+2019-05,Kosi,20.81,128.2,North Bihar,0
+2019-05,Phalgu,16.73,12.9,Central Bihar,0
+2019-05,Gandak,19.64,222.7,West Bihar,0
+2019-05,Kamla Balan,14.23,34.1,North Bihar,0
+2019-05,Kamla Balan,11.98,36.3,East Bihar,0
+2019-05,Bagmati,16.79,28.2,North Bihar,0
+2019-05,Phalgu,12.38,8,Central Bihar,0
+2019-05,Kosi,18.11,47.6,North Bihar,0
+2019-05,Bagmati,18.65,13.7,North Bihar,0
+2019-05,Sone,17.3,5.8,West Bihar,0
+2019-05,Kosi,23.98,191.9,North Bihar,0
+2019-05,Kosi,21.99,173.7,East Bihar,0
+2019-05,Punpun,16.64,269.8,South Bihar,0
+2019-05,Sone,18.1,208.3,South Bihar,0
+2019-05,Ganga,20.37,26.6,Central Bihar,0
+2019-05,Ganga,26.98,126,North Bihar,0
+2019-05,Sone,17.6,34.3,South Bihar,0
+2019-05,Gandak,20.57,131.8,West Bihar,0
+2019-05,Sone,21.04,55.1,South Bihar,0
+2019-05,Bagmati,19.46,13.3,North Bihar,0
+2019-05,Bagmati,17.68,143,North Bihar,0
+2019-05,Ganga,25.77,31.8,Central Bihar,0
+2019-05,Gandak,20.05,25.3,North Bihar,0
+2019-05,Kosi,17.35,0,North Bihar,0
+2019-05,Burhi Gandak,15.73,18.3,North Bihar,0
+2019-06,Gandak,17.29,3.3,West Bihar,0
+2019-06,Gandak,21.08,22.8,North Bihar,0
+2019-06,Phalgu,17.14,14.1,Central Bihar,0
+2019-06,Sone,17.69,37.1,South Bihar,0
+2019-06,Mahananda,14.49,44.9,East Bihar,0
+2019-06,Kosi,22.69,40.1,East Bihar,0
+2019-06,Sone,16.2,37.1,South Bihar,0
+2019-06,Mahananda,17.94,121.8,East Bihar,0
+2019-06,Phalgu,15.49,19.7,South Bihar,0
+2019-06,Punpun,11.81,33.1,Central Bihar,0
+2019-06,Bagmati,17.1,39.4,North Bihar,0
+2019-06,Bagmati,17.07,12.2,North Bihar,0
+2019-06,Kamla Balan,12.28,21.8,East Bihar,0
+2019-06,Kamla Balan,12.38,41.8,North Bihar,0
+2019-06,Mahananda,16.44,11.6,North Bihar,0
+2019-06,Mahananda,13.29,28.8,East Bihar,0
+2019-06,Punpun,11.99,20.6,South Bihar,0
+2019-06,Punpun,17.56,167.2,Central Bihar,0
+2019-06,Phalgu,18.68,191.1,Central Bihar,1
+2019-06,Kosi,20.83,47.7,North Bihar,0
+2019-06,Sone,17.16,27.4,South Bihar,0
+2019-06,Bagmati,16.35,33.3,North Bihar,0
+2019-06,Kamla Balan,14.1,10.9,North Bihar,0
+2019-06,Mahananda,18.13,19.5,North Bihar,0
+2019-06,Punpun,13.66,174.1,South Bihar,0
+2019-06,Gandak,21.45,26.5,North Bihar,0
+2019-06,Kamla Balan,15.17,0,East Bihar,0
+2019-06,Kosi,22.27,33.8,East Bihar,0
+2019-06,Punpun,14.36,147.9,Central Bihar,0
+2019-06,Kosi,20.44,7.9,North Bihar,0
+2019-06,Gandak,16.94,11.1,North Bihar,0
+2019-06,Sone,17.88,262.1,West Bihar,0
+2019-06,Ganga,26.2,56.7,North Bihar,0
+2019-06,Burhi Gandak,15.71,41.7,North Bihar,0
+2019-06,Burhi Gandak,16.41,45.1,North Bihar,0
+2019-06,Kosi,23.27,243.3,North Bihar,0
+2019-06,Kosi,17.84,0,East Bihar,0
+2019-06,Mahananda,18.45,22.8,North Bihar,0
+2019-06,Burhi Gandak,18.4,291.7,North Bihar,0
+2019-06,Kosi,20.3,23.3,East Bihar,0
+2019-06,Phalgu,14.87,222.2,South Bihar,0
+2019-06,Kamla Balan,11.1,9.4,North Bihar,0
+2019-06,Ganga,22.9,153.6,North Bihar,0
+2019-06,Mahananda,18.69,70.8,East Bihar,0
+2019-06,Kamla Balan,12.86,20.7,North Bihar,0
+2019-06,Ganga,24.37,37.4,Central Bihar,0
+2019-06,Phalgu,12.61,179.5,South Bihar,0
+2019-06,Phalgu,13.23,30.6,South Bihar,0
+2019-06,Ganga,23.92,21.3,North Bihar,0
+2019-06,Ganga,27.77,49.1,North Bihar,0
+2019-06,Mahananda,15.99,33.2,North Bihar,0
+2019-06,Phalgu,10.17,24.6,South Bihar,0
+2019-06,Bagmati,20.95,134.9,North Bihar,0
+2019-06,Gandak,20.27,166.5,West Bihar,0
+2019-06,Gandak,19.99,0,North Bihar,0
+2019-06,Bagmati,17.74,25,North Bihar,0
+2019-06,Burhi Gandak,16.84,155.5,North Bihar,0
+2019-06,Sone,22.47,290.4,South Bihar,1
+2019-06,Phalgu,12.34,31.3,South Bihar,0
+2019-06,Kamla Balan,11.85,51.5,North Bihar,0
+2019-06,Kosi,22.45,25.7,North Bihar,0
+2019-06,Ganga,23.6,45.9,North Bihar,0
+2019-06,Bagmati,16.69,20.8,North Bihar,0
+2019-06,Phalgu,12.6,78.2,South Bihar,0
+2019-06,Burhi Gandak,15.32,208.8,North Bihar,0
+2019-06,Sone,16.81,33,South Bihar,0
+2019-06,Burhi Gandak,14.22,9,North Bihar,0
+2019-06,Phalgu,12.04,32.8,Central Bihar,0
+2019-06,Punpun,14.4,59.2,South Bihar,0
+2019-06,Phalgu,17.18,28.3,South Bihar,0
+2019-06,Phalgu,13.35,27.5,South Bihar,0
+2019-06,Kosi,20.45,209.4,North Bihar,0
+2019-06,Punpun,15.68,0,South Bihar,0
+2019-06,Bagmati,17.85,27,North Bihar,0
+2019-06,Bagmati,19.68,176.2,North Bihar,0
+2019-06,Sone,19.2,10.8,South Bihar,0
+2019-06,Kosi,23.26,41.8,North Bihar,0
+2019-06,Punpun,14.67,216.5,South Bihar,0
+2019-06,Punpun,15.06,47.4,South Bihar,0
+2019-06,Sone,19.09,17.2,South Bihar,0
+2019-06,Gandak,20.17,46,North Bihar,0
+2019-06,Phalgu,14.46,71.3,South Bihar,0
+2019-06,Burhi Gandak,14.02,50.7,North Bihar,0
+2019-06,Phalgu,17.37,353.7,South Bihar,1
+2019-06,Punpun,16.65,31.2,South Bihar,0
+2019-06,Kamla Balan,11.17,5.5,East Bihar,0
+2019-06,Burhi Gandak,16.06,23.7,North Bihar,0
+2019-06,Ganga,23.12,37.9,North Bihar,0
+2019-06,Sone,17.4,40.1,South Bihar,0
+2019-06,Burhi Gandak,22.34,285.9,North Bihar,1
+2019-06,Punpun,15.28,120.1,South Bihar,0
+2019-06,Burhi Gandak,17.7,219.9,North Bihar,0
+2019-06,Ganga,26.57,52.1,North Bihar,0
+2019-06,Kosi,21.42,121.8,East Bihar,0
+2019-06,Punpun,12.96,36.2,South Bihar,0
+2019-06,Gandak,22.06,178.4,West Bihar,0
+2019-06,Ganga,23.34,33.2,North Bihar,0
+2019-06,Gandak,19.41,44.4,North Bihar,0
+2019-06,Ganga,21.5,0,North Bihar,0
+2019-06,Phalgu,13.43,37.4,Central Bihar,0
+2019-06,Ganga,23.99,20.2,Central Bihar,0
+2019-06,Sone,20.84,215.9,West Bihar,0
+2019-07,Kosi,22.94,8.3,North Bihar,0
+2019-07,Bagmati,20.39,167.3,North Bihar,0
+2019-07,Kamla Balan,17.3,45.5,East Bihar,0
+2019-07,Kosi,25.6,34.5,North Bihar,0
+2019-07,Kosi,20.88,46.6,East Bihar,0
+2019-07,Kosi,18.19,14,North Bihar,0
+2019-07,Mahananda,17.21,17.7,North Bihar,0
+2019-07,Sone,17.87,116.3,South Bihar,0
+2019-07,Kamla Balan,15.87,55.6,North Bihar,0
+2019-07,Bagmati,19.68,216.5,North Bihar,0
+2019-07,Gandak,20.22,151.2,North Bihar,0
+2019-07,Bagmati,20.4,324.1,North Bihar,0
+2019-07,Ganga,24.77,11.9,Central Bihar,0
+2019-07,Phalgu,15.53,39.8,South Bihar,0
+2019-07,Ganga,26.02,186.9,North Bihar,0
+2019-07,Gandak,22.23,242.8,North Bihar,0
+2019-07,Sone,19.01,21.6,West Bihar,0
+2019-07,Bagmati,19.09,95.4,North Bihar,0
+2019-07,Sone,17.2,14.3,West Bihar,0
+2019-07,Phalgu,12.55,29,South Bihar,0
+2019-07,Gandak,19.63,19,West Bihar,0
+2019-07,Phalgu,11.55,42.5,South Bihar,0
+2019-07,Sone,21.52,256.5,West Bihar,1
+2019-07,Punpun,12.56,24,South Bihar,0
+2019-07,Punpun,17.46,0,Central Bihar,0
+2019-07,Kosi,22.39,149.9,North Bihar,0
+2019-07,Ganga,20.98,16.7,North Bihar,0
+2019-07,Ganga,22.4,35.1,North Bihar,0
+2019-07,Phalgu,9.99,20.8,South Bihar,0
+2019-07,Kamla Balan,10.53,45.7,North Bihar,0
+2019-07,Mahananda,16.23,44,East Bihar,0
+2019-07,Kosi,21.11,26.7,North Bihar,0
+2019-07,Mahananda,16.08,26.2,North Bihar,0
+2019-07,Burhi Gandak,19.65,171.7,North Bihar,1
+2019-07,Kosi,21.09,39,North Bihar,0
+2019-07,Phalgu,13.81,143.8,Central Bihar,0
+2019-07,Sone,16.06,30.9,South Bihar,0
+2019-07,Kosi,20.53,135.2,East Bihar,0
+2019-07,Kosi,20.47,28,North Bihar,0
+2019-07,Punpun,14.54,10.6,Central Bihar,0
+2019-07,Sone,15.03,32.5,West Bihar,0
+2019-07,Sone,20.49,36.2,South Bihar,0
+2019-07,Gandak,19.73,20.2,North Bihar,0
+2019-07,Kamla Balan,10.85,29.3,North Bihar,0
+2019-07,Mahananda,20.3,86.5,East Bihar,0
+2019-07,Burhi Gandak,16.97,12.5,North Bihar,0
+2019-07,Kosi,23.22,127.9,North Bihar,0
+2019-07,Mahananda,15.77,55.5,East Bihar,0
+2019-07,Sone,16,21.7,South Bihar,0
+2019-07,Kamla Balan,12.77,163.4,North Bihar,0
+2019-07,Bagmati,17.23,25.4,North Bihar,0
+2019-07,Kosi,18.68,44.4,North Bihar,0
+2019-07,Gandak,24.3,22.4,West Bihar,0
+2019-07,Sone,13.56,14.7,West Bihar,0
+2019-07,Punpun,16.71,19.6,Central Bihar,0
+2019-07,Gandak,24.07,193.1,North Bihar,1
+2019-07,Phalgu,14.9,41.3,South Bihar,0
+2019-07,Phalgu,10.87,32.2,Central Bihar,0
+2019-07,Sone,21.39,17.6,South Bihar,0
+2019-07,Gandak,21.97,174.7,North Bihar,0
+2019-07,Kamla Balan,13.39,16.2,North Bihar,0
+2019-07,Punpun,15.74,30.1,South Bihar,0
+2019-07,Bagmati,19.19,50.7,North Bihar,0
+2019-07,Sone,13.24,28,South Bihar,0
+2019-07,Gandak,19.43,22.6,North Bihar,0
+2019-07,Bagmati,16.99,19,North Bihar,0
+2019-07,Kamla Balan,13.72,22.5,East Bihar,0
+2019-07,Punpun,16.54,241.1,Central Bihar,0
+2019-07,Mahananda,19.76,200.5,East Bihar,0
+2019-07,Kamla Balan,13.37,7.3,North Bihar,0
+2019-07,Kamla Balan,10.68,40,North Bihar,0
+2019-07,Gandak,20.66,194.5,North Bihar,0
+2019-07,Kosi,20.4,64.4,East Bihar,0
+2019-07,Mahananda,16.35,0,East Bihar,0
+2019-07,Bagmati,14.89,14.7,North Bihar,0
+2019-07,Kamla Balan,12.92,43.8,East Bihar,0
+2019-07,Kamla Balan,12.5,6.6,North Bihar,0
+2019-07,Sone,18.85,152.9,South Bihar,0
+2019-07,Burhi Gandak,16.69,148.5,North Bihar,0
+2019-07,Phalgu,13.55,31,South Bihar,0
+2019-07,Kosi,20.53,25.4,North Bihar,0
+2019-07,Gandak,23.4,11.7,West Bihar,0
+2019-07,Kamla Balan,14,260.6,North Bihar,0
+2019-07,Bagmati,16.43,30.3,North Bihar,0
+2019-07,Punpun,11.09,11.2,South Bihar,0
+2019-07,Ganga,26.36,42.1,Central Bihar,0
+2019-07,Bagmati,20.37,17.8,North Bihar,0
+2019-07,Gandak,22.95,32.6,North Bihar,0
+2019-07,Bagmati,21.84,229.1,North Bihar,0
+2019-07,Kamla Balan,10.38,25.4,North Bihar,0
+2019-07,Bagmati,19.31,37.5,North Bihar,0
+2019-07,Kosi,22.73,15.5,North Bihar,0
+2019-07,Phalgu,13.07,27.2,South Bihar,0
+2019-07,Phalgu,16.41,230,South Bihar,0
+2019-07,Gandak,22.67,16.9,North Bihar,0
+2019-07,Sone,18.24,35.3,West Bihar,0
+2019-07,Mahananda,14.48,17.8,East Bihar,0
+2019-07,Gandak,22.01,45.5,North Bihar,0
+2019-08,Phalgu,16.42,2.4,South Bihar,0
+2019-08,Gandak,22.53,207.2,North Bihar,0
+2019-08,Mahananda,15.03,29.6,East Bihar,0
+2019-08,Mahananda,19.39,256.3,East Bihar,0
+2019-08,Burhi Gandak,16.77,194.4,North Bihar,0
+2019-08,Burhi Gandak,12.4,0,North Bihar,0
+2019-08,Kamla Balan,14.66,31,East Bihar,0
+2019-08,Phalgu,12.67,69.5,South Bihar,0
+2019-08,Kosi,18.65,31,East Bihar,0
+2019-08,Gandak,22.9,275,North Bihar,0
+2019-08,Ganga,22.78,29.3,North Bihar,0
+2019-08,Sone,19.54,0,West Bihar,0
+2019-08,Kamla Balan,14.97,17.5,North Bihar,0
+2019-08,Kosi,20.25,37.5,North Bihar,0
+2019-08,Sone,20.84,30.9,South Bihar,0
+2019-08,Gandak,17.13,14.6,North Bihar,0
+2019-08,Ganga,25.22,228.6,Central Bihar,0
+2019-08,Sone,16.43,17.8,South Bihar,0
+2019-08,Kamla Balan,13.19,42.6,North Bihar,0
+2019-08,Gandak,22.23,253.3,West Bihar,0
+2019-08,Kosi,21.4,7.4,North Bihar,0
+2019-08,Kosi,20.74,19.6,North Bihar,0
+2019-08,Kosi,22.43,125,North Bihar,0
+2019-08,Kamla Balan,12.07,29.3,North Bihar,0
+2019-08,Punpun,14.78,26.8,South Bihar,0
+2019-08,Burhi Gandak,13.39,5.1,North Bihar,0
+2019-08,Sone,17.22,19.3,South Bihar,0
+2019-08,Phalgu,18.29,205.3,Central Bihar,1
+2019-08,Bagmati,17.23,36.5,North Bihar,0
+2019-08,Kosi,19.1,26.4,East Bihar,0
+2019-08,Kosi,23.48,187.6,North Bihar,0
+2019-08,Kamla Balan,10.81,30.7,East Bihar,0
+2019-08,Gandak,17.12,18.7,North Bihar,0
+2019-08,Kosi,21.07,169,North Bihar,0
+2019-08,Sone,20.03,241.4,West Bihar,0
+2019-08,Phalgu,13.17,47.9,South Bihar,0
+2019-08,Phalgu,17.07,155.9,South Bihar,1
+2019-08,Punpun,13.17,10.2,South Bihar,0
+2019-08,Sone,16.57,22.6,West Bihar,0
+2019-08,Burhi Gandak,15.52,20.9,North Bihar,0
+2019-08,Gandak,16.25,25.6,North Bihar,0
+2019-08,Bagmati,14.9,27.4,North Bihar,0
+2019-08,Phalgu,15.64,40.2,South Bihar,0
+2019-08,Phalgu,10.59,8,South Bihar,0
+2019-08,Mahananda,14.81,58.7,East Bihar,0
+2019-08,Burhi Gandak,16.46,34.8,North Bihar,0
+2019-08,Phalgu,13.8,17.5,Central Bihar,0
+2019-08,Phalgu,14.64,20.8,Central Bihar,0
+2019-08,Burhi Gandak,18.8,4.3,North Bihar,0
+2019-08,Kosi,22.94,43.9,East Bihar,0
+2019-08,Bagmati,20.54,31.6,North Bihar,0
+2019-08,Kamla Balan,11.53,20.9,East Bihar,0
+2019-08,Ganga,22.76,8.7,North Bihar,0
+2019-08,Punpun,17.8,11.9,Central Bihar,0
+2019-08,Kamla Balan,10.92,15.4,East Bihar,0
+2019-08,Ganga,24.81,41.1,Central Bihar,0
+2019-08,Ganga,25.73,207.1,North Bihar,0
+2019-08,Burhi Gandak,15.3,42.4,North Bihar,0
+2019-08,Kosi,23.46,20.5,North Bihar,0
+2019-08,Sone,18.5,230.9,South Bihar,0
+2019-08,Bagmati,20.16,224,North Bihar,0
+2019-08,Phalgu,14.1,14.7,South Bihar,0
+2019-08,Kamla Balan,14.85,178.6,North Bihar,0
+2019-08,Mahananda,17.9,34.3,East Bihar,0
+2019-08,Burhi Gandak,15.83,49.6,North Bihar,0
+2019-08,Punpun,16.4,24,South Bihar,0
+2019-08,Sone,18.38,170.3,South Bihar,0
+2019-08,Sone,14.82,20.3,South Bihar,0
+2019-08,Gandak,23.28,70.5,North Bihar,0
+2019-08,Burhi Gandak,14.23,130.1,North Bihar,0
+2019-08,Phalgu,13.54,27.2,South Bihar,0
+2019-08,Sone,20.07,181.5,South Bihar,0
+2019-08,Phalgu,13.59,298.9,South Bihar,0
+2019-08,Phalgu,14.57,16.2,South Bihar,0
+2019-08,Sone,19.74,38.7,West Bihar,0
+2019-08,Kamla Balan,15.19,303.6,North Bihar,0
+2019-08,Mahananda,13.45,34.3,East Bihar,0
+2019-08,Bagmati,17.14,37.1,North Bihar,0
+2019-08,Gandak,21.78,48.2,West Bihar,0
+2019-08,Phalgu,14.33,3,South Bihar,0
+2019-08,Ganga,21.93,30.1,Central Bihar,0
+2019-08,Gandak,22.21,41.9,North Bihar,0
+2019-08,Punpun,13.62,11.6,South Bihar,0
+2019-08,Ganga,25.09,91.2,North Bihar,0
+2019-08,Sone,18.1,179,West Bihar,0
+2019-08,Punpun,13.41,123.6,South Bihar,0
+2019-08,Gandak,20.08,42.6,North Bihar,0
+2019-08,Punpun,13.88,31.4,Central Bihar,0
+2019-08,Mahananda,15.17,29.4,East Bihar,0
+2019-08,Gandak,20.07,24,West Bihar,0
+2019-08,Sone,12.2,15.9,West Bihar,0
+2019-08,Kosi,19.1,0,North Bihar,0
+2019-08,Kamla Balan,10.41,27.3,North Bihar,0
+2019-08,Sone,19.33,196,South Bihar,0
+2019-08,Ganga,27.87,107.8,North Bihar,0
+2019-08,Kamla Balan,13.69,22.8,North Bihar,0
+2019-08,Punpun,14.55,29.4,Central Bihar,0
+2019-08,Kosi,17.74,30.8,North Bihar,0
+2019-08,Bagmati,17.22,34.5,North Bihar,0
+2019-08,Mahananda,13.45,27.8,East Bihar,0
+2019-08,Sone,16.24,28.6,South Bihar,0
+2019-08,Ganga,19.64,14.5,Central Bihar,0
+2019-08,Gandak,22.17,8.2,West Bihar,0
+2019-08,Mahananda,18.45,35.5,East Bihar,0
+2019-08,Gandak,20.64,33.2,North Bihar,0
+2019-08,Sone,17.49,10.6,South Bihar,0
+2019-08,Mahananda,13.51,21.6,East Bihar,0
+2019-08,Sone,21.25,25.2,West Bihar,0
+2019-08,Burhi Gandak,13.35,9.8,North Bihar,0
+2019-09,Kosi,20.87,9.7,East Bihar,0
+2019-09,Kamla Balan,13.6,166.2,East Bihar,0
+2019-09,Kamla Balan,13.81,18.2,North Bihar,0
+2019-09,Ganga,21.06,0,North Bihar,0
+2019-09,Punpun,13.25,231.1,Central Bihar,0
+2019-09,Phalgu,16.8,27.7,Central Bihar,0
+2019-09,Gandak,18.15,28.8,West Bihar,0
+2019-09,Bagmati,20.55,57.3,North Bihar,0
+2019-09,Bagmati,22.3,321.4,North Bihar,1
+2019-09,Ganga,20.54,43.1,North Bihar,0
+2019-09,Burhi Gandak,12.59,172.1,North Bihar,0
+2019-09,Gandak,20.74,169.6,West Bihar,0
+2019-09,Kamla Balan,13.59,199.4,North Bihar,0
+2019-09,Mahananda,17.8,28.5,East Bihar,0
+2019-09,Punpun,12.92,15.3,South Bihar,0
+2019-09,Punpun,13.29,51.9,South Bihar,0
+2019-09,Sone,18.22,9.8,West Bihar,0
+2019-09,Punpun,17.69,271.3,South Bihar,0
+2019-09,Gandak,21.55,218.4,North Bihar,0
+2019-09,Ganga,22.09,166.9,Central Bihar,0
+2019-09,Mahananda,20.79,288.1,East Bihar,1
+2019-09,Kosi,23.32,33.5,North Bihar,0
+2019-09,Ganga,24.35,41.3,North Bihar,0
+2019-09,Burhi Gandak,15.31,20.6,North Bihar,0
+2019-09,Bagmati,15.96,22.2,North Bihar,0
+2019-09,Ganga,25.45,125.5,Central Bihar,0
+2019-09,Burhi Gandak,16.36,54.8,North Bihar,0
+2019-09,Kamla Balan,13.57,49.3,North Bihar,0
+2019-09,Sone,16.48,31,South Bihar,0
+2019-09,Kosi,22.04,116.2,North Bihar,0
+2019-09,Bagmati,19.58,9.8,North Bihar,0
+2019-09,Phalgu,12.38,21.3,South Bihar,0
+2019-09,Kosi,23.84,279,North Bihar,0
+2019-09,Punpun,17.65,199.3,South Bihar,0
+2019-09,Mahananda,15.1,0,North Bihar,0
+2019-09,Phalgu,12.68,33.8,Central Bihar,0
+2019-09,Kosi,21.41,18.6,North Bihar,0
+2019-09,Phalgu,16.89,157.1,Central Bihar,0
+2019-09,Gandak,24.38,51.5,West Bihar,0
+2019-09,Sone,18.57,59.8,South Bihar,0
+2019-09,Phalgu,13.35,24.9,South Bihar,0
+2019-09,Phalgu,17.08,231,South Bihar,1
+2019-09,Gandak,19.35,25.8,West Bihar,0
+2019-09,Bagmati,20.52,65.5,North Bihar,0
+2019-09,Phalgu,10.85,27.6,South Bihar,0
+2019-09,Sone,16.73,22.6,South Bihar,0
+2019-09,Gandak,23.28,154.7,North Bihar,0
+2019-09,Ganga,24.9,33.5,Central Bihar,0
+2019-09,Burhi Gandak,14.33,9.7,North Bihar,0
+2019-09,Kamla Balan,13.34,33.4,North Bihar,0
+2019-09,Punpun,15.58,171.6,South Bihar,0
+2019-09,Ganga,26.98,14.9,North Bihar,0
+2019-09,Phalgu,15.09,183.6,South Bihar,0
+2019-09,Mahananda,17.05,38.4,East Bihar,0
+2019-09,Kosi,21.12,0.5,North Bihar,0
+2019-09,Punpun,13.67,26.9,Central Bihar,0
+2019-09,Bagmati,18.71,37.2,North Bihar,0
+2019-09,Bagmati,15.88,88.8,North Bihar,0
+2019-09,Phalgu,14.29,24.4,South Bihar,0
+2019-09,Punpun,14.52,16.7,Central Bihar,0
+2019-09,Punpun,12,0.2,Central Bihar,0
+2019-09,Ganga,23.05,5.7,North Bihar,0
+2019-09,Gandak,22.7,126.4,North Bihar,0
+2019-09,Bagmati,22.84,201,North Bihar,1
+2019-09,Punpun,13.71,81.4,Central Bihar,0
+2019-09,Sone,16.48,180.2,South Bihar,0
+2019-09,Kosi,22.82,24.1,North Bihar,0
+2019-09,Kamla Balan,12.41,208.9,North Bihar,0
+2019-09,Burhi Gandak,16.44,24.1,North Bihar,0
+2019-09,Phalgu,15.95,210.1,South Bihar,0
+2019-09,Burhi Gandak,16.94,0.8,North Bihar,0
+2019-09,Kosi,19.43,6.4,North Bihar,0
+2019-09,Sone,20.41,161.6,South Bihar,0
+2019-09,Punpun,15.77,46.4,Central Bihar,0
+2019-09,Phalgu,16.63,194.9,South Bihar,0
+2019-09,Burhi Gandak,14.66,21.9,North Bihar,0
+2019-09,Gandak,20.58,151.5,North Bihar,0
+2019-09,Kosi,22.08,110.5,North Bihar,0
+2019-09,Bagmati,23.65,246.3,North Bihar,1
+2019-09,Kamla Balan,17.94,40.1,East Bihar,0
+2019-09,Kosi,20.68,45,North Bihar,0
+2019-09,Punpun,12.13,40.4,South Bihar,0
+2019-09,Burhi Gandak,15.73,225.6,North Bihar,0
+2019-09,Phalgu,10.82,18.7,South Bihar,0
+2019-09,Punpun,10.05,15.8,Central Bihar,0
+2019-09,Ganga,22.08,35.4,Central Bihar,0
+2019-09,Punpun,13.55,28.8,South Bihar,0
+2019-09,Mahananda,20.13,169.7,East Bihar,1
+2019-09,Phalgu,15.43,158.4,Central Bihar,0
+2019-09,Ganga,21.69,0,Central Bihar,0
+2019-09,Burhi Gandak,12.51,99.8,North Bihar,0
+2019-09,Sone,21.22,253.4,South Bihar,1
+2019-09,Gandak,17.98,0,West Bihar,0
+2019-09,Kosi,21.37,169.3,North Bihar,0
+2019-09,Burhi Gandak,15.22,196.4,North Bihar,0
+2019-09,Kosi,18.54,154.2,East Bihar,0
+2019-09,Kosi,22.85,283,East Bihar,0
+2019-09,Bagmati,18.21,42.4,North Bihar,0
+2019-09,Gandak,20.31,17.2,North Bihar,0
+2019-09,Kosi,24.51,23,North Bihar,0
+2019-09,Kamla Balan,11.72,39.5,North Bihar,0
+2019-09,Bagmati,17.54,25.9,North Bihar,0
+2019-10,Ganga,24.36,20.9,North Bihar,0
+2019-10,Burhi Gandak,18.09,141.9,North Bihar,0
+2019-10,Phalgu,13.87,198.2,Central Bihar,0
+2019-10,Punpun,14.16,16.5,Central Bihar,0
+2019-10,Kosi,23.51,192.8,East Bihar,0
+2019-10,Sone,17.84,17.8,South Bihar,0
+2019-10,Kosi,22.24,0,North Bihar,0
+2019-10,Ganga,28.21,14.3,North Bihar,0
+2019-10,Kamla Balan,13.14,27.9,North Bihar,0
+2019-10,Ganga,24.48,22,Central Bihar,0
+2019-10,Punpun,14.79,194.1,South Bihar,0
+2019-10,Kamla Balan,10.53,0,East Bihar,0
+2019-10,Bagmati,19.79,219.9,North Bihar,0
+2019-10,Mahananda,18.37,289.3,North Bihar,0
+2019-10,Mahananda,18.84,140.9,East Bihar,0
+2019-10,Ganga,24.25,153.2,North Bihar,0
+2019-10,Sone,15.02,0,South Bihar,0
+2019-10,Burhi Gandak,18.86,136.7,North Bihar,0
+2019-10,Mahananda,15.21,32.9,East Bihar,0
+2019-10,Kosi,23.06,240.3,East Bihar,0
+2019-10,Kamla Balan,10.01,21.7,North Bihar,0
+2019-10,Sone,17.24,7.5,South Bihar,0
+2019-10,Kamla Balan,11.5,16.5,East Bihar,0
+2019-10,Mahananda,19.22,0.9,East Bihar,0
+2019-10,Bagmati,18.22,26.7,North Bihar,0
+2019-10,Gandak,23.07,226.1,West Bihar,0
+2019-11,Phalgu,12.17,47.7,South Bihar,0
+2019-11,Ganga,28.05,18.4,North Bihar,0
+2019-11,Phalgu,12.54,31.2,South Bihar,0
+2019-11,Sone,18.77,327.9,South Bihar,0
+2019-11,Punpun,15.6,33.7,South Bihar,0
+2019-11,Bagmati,17.63,32.9,North Bihar,0
+2019-11,Burhi Gandak,13.32,30,North Bihar,0
+2019-11,Burhi Gandak,21.82,167.5,North Bihar,1
+2019-11,Mahananda,18.65,30,East Bihar,0
+2019-11,Mahananda,15.7,34.8,East Bihar,0
+2019-11,Ganga,21.93,28.3,Central Bihar,0
+2019-11,Kamla Balan,14.34,32.4,North Bihar,0
+2019-11,Burhi Gandak,15.79,34.7,North Bihar,0
+2019-11,Ganga,25.04,16.4,Central Bihar,0
+2019-11,Phalgu,12.72,20.8,South Bihar,0
+2019-11,Punpun,15.57,175.2,South Bihar,0
+2019-11,Gandak,20.41,33.7,West Bihar,0
+2019-11,Burhi Gandak,17.36,168.7,North Bihar,0
+2019-11,Ganga,29.45,34.7,North Bihar,0
+2019-11,Punpun,12.49,22,South Bihar,0
+2019-11,Ganga,22.49,111.8,Central Bihar,0
+2019-11,Gandak,23.5,224.8,North Bihar,0
+2019-11,Sone,21.18,215.5,South Bihar,1
+2019-11,Burhi Gandak,17.85,178.1,North Bihar,0
+2019-11,Punpun,15.56,40.6,South Bihar,0
+2019-11,Burhi Gandak,19.06,17.1,North Bihar,0
+2019-11,Ganga,24.66,35.7,North Bihar,0
+2019-11,Gandak,21.2,313.2,North Bihar,0
+2019-11,Ganga,23.6,159.8,North Bihar,0
+2019-11,Phalgu,14.99,34.4,Central Bihar,0
+2019-12,Kosi,20.1,39.7,North Bihar,0
+2019-12,Sone,14.87,0,West Bihar,0
+2019-12,Phalgu,14.37,29.4,South Bihar,0
+2019-12,Burhi Gandak,14.48,7.8,North Bihar,0
+2019-12,Mahananda,19.16,33.5,North Bihar,0
+2019-12,Kamla Balan,14.46,231.1,North Bihar,0
+2019-12,Burhi Gandak,17.88,43.1,North Bihar,0
+2019-12,Phalgu,13.67,126.5,South Bihar,0
+2019-12,Kamla Balan,13.84,232.4,North Bihar,0
+2019-12,Burhi Gandak,13.76,46.1,North Bihar,0
+2019-12,Kosi,25.25,225.7,North Bihar,1
+2019-12,Ganga,31.03,259.7,Central Bihar,1
+2019-12,Kosi,20.17,19.3,North Bihar,0
+2019-12,Sone,14.34,0.6,West Bihar,0
+2019-12,Phalgu,13.63,12.1,South Bihar,0
+2019-12,Sone,11.27,17.4,West Bihar,0
+2019-12,Kamla Balan,13.28,56.5,North Bihar,0
+2019-12,Phalgu,14.58,29.6,South Bihar,0
+2019-12,Sone,19.28,28.5,South Bihar,0
+2019-12,Bagmati,20.62,25.9,North Bihar,0
+2019-12,Sone,18.91,17.2,West Bihar,0
+2019-12,Burhi Gandak,15.96,2.4,North Bihar,0
+2019-12,Bagmati,15.28,26.8,North Bihar,0
+2019-12,Ganga,22.2,49.1,North Bihar,0
+2019-12,Bagmati,19.1,29.9,North Bihar,0
+2019-12,Sone,18,66.6,West Bihar,0
+2019-12,Burhi Gandak,14.57,9.4,North Bihar,0
+2019-12,Kosi,23.94,48.7,North Bihar,0
+2019-12,Punpun,16.02,298.8,South Bihar,0
+2019-12,Mahananda,17.59,153.3,North Bihar,0
+2019-12,Phalgu,13.16,161.8,South Bihar,0
+2019-12,Kamla Balan,14.26,211.5,North Bihar,0
+2019-12,Kamla Balan,13.63,37.1,East Bihar,0
+2019-12,Punpun,13.26,9.9,South Bihar,0
+2020-01,Burhi Gandak,12.92,42.3,North Bihar,0
+2020-01,Sone,20.18,76.1,South Bihar,0
+2020-01,Phalgu,14.39,55.8,South Bihar,0
+2020-01,Burhi Gandak,13.73,27.8,North Bihar,0
+2020-01,Mahananda,13.55,7.4,North Bihar,0
+2020-01,Phalgu,8.9,77.7,South Bihar,0
+2020-01,Bagmati,17.42,21.7,North Bihar,0
+2020-01,Burhi Gandak,18.53,181.8,North Bihar,0
+2020-01,Mahananda,16.94,142.2,East Bihar,0
+2020-01,Phalgu,10.93,35.1,South Bihar,0
+2020-01,Mahananda,18.23,197.3,East Bihar,0
+2020-01,Mahananda,18.48,20.9,East Bihar,0
+2020-01,Punpun,17.77,36.2,South Bihar,0
+2020-01,Punpun,16.98,30.3,South Bihar,0
+2020-01,Sone,17.04,18.8,South Bihar,0
+2020-01,Sone,16.49,11.7,South Bihar,0
+2020-01,Kosi,18.04,25.2,East Bihar,0
+2020-01,Kamla Balan,14.79,37.3,North Bihar,0
+2020-01,Mahananda,13.93,8.5,East Bihar,0
+2020-01,Bagmati,15.87,21.2,North Bihar,0
+2020-01,Punpun,13.63,19.5,South Bihar,0
+2020-01,Ganga,26.21,261.7,Central Bihar,0
+2020-01,Bagmati,20.94,5,North Bihar,0
+2020-01,Sone,16.22,12.9,South Bihar,0
+2020-01,Phalgu,16.13,230.8,South Bihar,0
+2020-01,Sone,14.81,17,South Bihar,0
+2020-01,Mahananda,18.53,32.4,East Bihar,0
+2020-01,Kosi,21.2,123.3,North Bihar,0
+2020-01,Sone,17.85,261.6,South Bihar,0
+2020-01,Phalgu,13.84,40,Central Bihar,0
+2020-01,Punpun,11.53,28.9,South Bihar,0
+2020-01,Burhi Gandak,16.46,56.4,North Bihar,0
+2020-01,Bagmati,18.85,196.4,North Bihar,0
+2020-01,Sone,22.47,169.5,South Bihar,1
+2020-01,Ganga,26.93,47,Central Bihar,0
+2020-01,Sone,18.86,217.5,South Bihar,0
+2020-01,Kosi,24,25.8,East Bihar,0
+2020-01,Sone,18.06,62.3,South Bihar,0
+2020-01,Punpun,13.63,13.1,South Bihar,0
+2020-01,Burhi Gandak,17.6,23.3,North Bihar,0
+2020-01,Kamla Balan,13.78,218.6,North Bihar,0
+2020-01,Punpun,14.67,37.1,Central Bihar,0
+2020-02,Kosi,20.98,36,East Bihar,0
+2020-02,Ganga,29.2,220.8,North Bihar,1
+2020-02,Ganga,21.31,10.8,North Bihar,0
+2020-02,Kosi,19.04,172.5,East Bihar,0
+2020-02,Gandak,20.07,45.9,North Bihar,0
+2020-02,Kosi,21.82,18.2,East Bihar,0
+2020-02,Ganga,24.93,42.5,Central Bihar,0
+2020-02,Mahananda,16.35,110.5,East Bihar,0
+2020-02,Mahananda,15.16,29.7,East Bihar,0
+2020-02,Punpun,13.21,8.7,South Bihar,0
+2020-02,Punpun,14,38.2,South Bihar,0
+2020-02,Ganga,22.82,6.4,North Bihar,0
+2020-02,Phalgu,10.74,314.6,South Bihar,0
+2020-02,Phalgu,14.71,24.2,South Bihar,0
+2020-02,Phalgu,12.47,21.1,South Bihar,0
+2020-02,Punpun,12.73,23.1,South Bihar,0
+2020-02,Bagmati,20.07,24,North Bihar,0
+2020-02,Burhi Gandak,15.39,14.2,North Bihar,0
+2020-02,Phalgu,14.77,30.5,South Bihar,0
+2020-02,Punpun,15.05,27,South Bihar,0
+2020-02,Kosi,24.47,35.9,East Bihar,0
+2020-02,Bagmati,17.2,35.2,North Bihar,0
+2020-02,Phalgu,16.04,21.4,Central Bihar,0
+2020-02,Sone,17.78,49.8,South Bihar,0
+2020-02,Kamla Balan,11.61,187.5,East Bihar,0
+2020-02,Phalgu,10.95,20.5,South Bihar,0
+2020-02,Bagmati,18.15,18.6,North Bihar,0
+2020-02,Kosi,20.04,18.6,North Bihar,0
+2020-02,Kamla Balan,11.52,6.5,East Bihar,0
+2020-02,Gandak,15.82,29.5,North Bihar,0
+2020-02,Phalgu,14.34,21.6,South Bihar,0
+2020-02,Ganga,24.81,99.3,Central Bihar,0
+2020-02,Punpun,14.72,29.8,South Bihar,0
+2020-02,Ganga,24.15,131.6,North Bihar,0
+2020-03,Burhi Gandak,18.59,212.6,North Bihar,0
+2020-03,Sone,20.29,41.8,South Bihar,0
+2020-03,Sone,14.24,46.9,West Bihar,0
+2020-03,Burhi Gandak,17.14,19.2,North Bihar,0
+2020-03,Phalgu,9.71,108.8,South Bihar,0
+2020-03,Sone,16.91,188.9,South Bihar,0
+2020-03,Kamla Balan,13.59,187.8,North Bihar,0
+2020-03,Gandak,20.97,118.8,West Bihar,0
+2020-03,Punpun,18.75,244.4,South Bihar,1
+2020-03,Ganga,25.92,29.8,Central Bihar,0
+2020-03,Burhi Gandak,12.52,42.1,North Bihar,0
+2020-03,Bagmati,20.31,179.9,North Bihar,0
+2020-03,Burhi Gandak,13.16,30.7,North Bihar,0
+2020-03,Bagmati,18.04,16.5,North Bihar,0
+2020-03,Punpun,18.63,113.4,South Bihar,0
+2020-03,Mahananda,17.63,14.9,East Bihar,0
+2020-03,Phalgu,11.39,32.6,South Bihar,0
+2020-03,Burhi Gandak,12.41,24.2,North Bihar,0
+2020-03,Bagmati,18.49,48.7,North Bihar,0
+2020-03,Punpun,14.89,37.2,Central Bihar,0
+2020-03,Ganga,26.6,10.5,Central Bihar,0
+2020-03,Kosi,20.95,46.3,North Bihar,0
+2020-03,Sone,19.23,0,South Bihar,0
+2020-03,Ganga,24.75,281.2,Central Bihar,0
+2020-03,Sone,20.9,0,West Bihar,0
+2020-03,Gandak,17.69,31.3,North Bihar,0
+2020-03,Kamla Balan,13.33,14.3,East Bihar,0
+2020-03,Punpun,18.86,331.1,Central Bihar,1
+2020-03,Phalgu,12.31,158.7,South Bihar,0
+2020-03,Kosi,25.27,24.3,North Bihar,0
+2020-03,Burhi Gandak,16.65,161.1,North Bihar,0
+2020-03,Kamla Balan,14.19,185.5,East Bihar,0
+2020-03,Ganga,26.18,25.3,North Bihar,0
+2020-03,Gandak,19.17,21.3,North Bihar,0
+2020-03,Sone,20.05,245.8,West Bihar,0
+2020-03,Ganga,21.75,41.5,North Bihar,0
+2020-03,Gandak,21.69,31.8,West Bihar,0
+2020-03,Punpun,15.3,185.3,Central Bihar,0
+2020-03,Bagmati,20.28,227,North Bihar,0
+2020-03,Burhi Gandak,16.16,95.7,North Bihar,0
+2020-03,Kamla Balan,11.46,182.2,North Bihar,0
+2020-03,Sone,19.66,93.8,West Bihar,0
+2020-03,Kamla Balan,13.7,30.7,North Bihar,0
+2020-03,Burhi Gandak,19.32,49.9,North Bihar,0
+2020-03,Kosi,21.68,18.8,North Bihar,0
+2020-03,Ganga,26.28,179.2,North Bihar,0
+2020-03,Ganga,24.88,154,North Bihar,0
+2020-04,Bagmati,16.71,199.1,North Bihar,0
+2020-04,Bagmati,19.54,17.7,North Bihar,0
+2020-04,Kosi,19.78,0.5,East Bihar,0
+2020-04,Mahananda,18.92,38.5,North Bihar,0
+2020-04,Kamla Balan,12.16,53.6,North Bihar,0
+2020-04,Ganga,25.71,294.1,Central Bihar,0
+2020-04,Kamla Balan,11.15,30.7,East Bihar,0
+2020-04,Gandak,14.64,11.7,North Bihar,0
+2020-04,Bagmati,20.6,81.2,North Bihar,0
+2020-04,Ganga,27.52,261.5,Central Bihar,0
+2020-04,Punpun,14.26,23.9,South Bihar,0
+2020-04,Ganga,26.17,174.9,North Bihar,0
+2020-04,Ganga,25.34,19.5,North Bihar,0
+2020-04,Kamla Balan,12.07,219.5,North Bihar,0
+2020-04,Ganga,23.56,34.3,Central Bihar,0
+2020-04,Sone,18.13,20.7,South Bihar,0
+2020-04,Kosi,21.3,20,East Bihar,0
+2020-04,Kamla Balan,14.17,31,North Bihar,0
+2020-04,Bagmati,16.85,16.8,North Bihar,0
+2020-04,Burhi Gandak,15.49,26.1,North Bihar,0
+2020-04,Mahananda,14.46,31,North Bihar,0
+2020-04,Ganga,28.56,242.1,North Bihar,1
+2020-04,Ganga,24.26,232.7,North Bihar,0
+2020-04,Sone,19.18,44.4,South Bihar,0
+2020-04,Kosi,17.14,22.9,East Bihar,0
+2020-04,Gandak,23.41,24.4,North Bihar,0
+2020-04,Bagmati,19.85,24.8,North Bihar,0
+2020-04,Gandak,21.49,36.7,North Bihar,0
+2020-04,Gandak,20.64,123.3,West Bihar,0
+2020-04,Kosi,21.87,76.8,North Bihar,0
+2020-04,Phalgu,16.99,19.3,South Bihar,0
+2020-04,Bagmati,15.72,16.2,North Bihar,0
+2020-04,Kamla Balan,14.91,258.9,East Bihar,0
+2020-04,Kamla Balan,14.4,33.9,North Bihar,0
+2020-04,Mahananda,16.23,1.1,East Bihar,0
+2020-04,Bagmati,19.8,17,North Bihar,0
+2020-05,Punpun,12.44,1.3,South Bihar,0
+2020-05,Ganga,24.54,16.3,North Bihar,0
+2020-05,Burhi Gandak,15.89,2,North Bihar,0
+2020-05,Sone,15.76,17.4,South Bihar,0
+2020-05,Ganga,25.13,19.1,North Bihar,0
+2020-05,Bagmati,20.95,52.9,North Bihar,0
+2020-05,Gandak,24.54,24.9,North Bihar,0
+2020-05,Punpun,14.45,57.1,South Bihar,0
+2020-05,Phalgu,14.44,41.7,South Bihar,0
+2020-05,Ganga,20.73,18,North Bihar,0
+2020-05,Phalgu,14.33,20.5,Central Bihar,0
+2020-05,Bagmati,20.1,27.9,North Bihar,0
+2020-05,Ganga,26.65,36,Central Bihar,0
+2020-05,Mahananda,19.71,27.1,East Bihar,0
+2020-05,Gandak,18.38,120.2,North Bihar,0
+2020-05,Mahananda,13.77,26,East Bihar,0
+2020-05,Kosi,22.88,9.9,North Bihar,0
+2020-05,Mahananda,15.21,19.2,East Bihar,0
+2020-05,Gandak,17.81,8.6,North Bihar,0
+2020-05,Sone,19.63,266.9,South Bihar,0
+2020-05,Gandak,21.45,113.7,North Bihar,0
+2020-05,Punpun,16.71,30.2,South Bihar,0
+2020-05,Punpun,11.45,186.2,Central Bihar,0
+2020-05,Kosi,20.05,256.4,North Bihar,0
+2020-05,Gandak,19.74,105.1,North Bihar,0
+2020-05,Burhi Gandak,14.65,177,North Bihar,0
+2020-05,Punpun,12.78,35.6,South Bihar,0
+2020-05,Kosi,24.69,174.2,East Bihar,0
+2020-05,Phalgu,15.28,19.2,South Bihar,0
+2020-05,Kosi,22.32,160.1,North Bihar,0
+2020-05,Ganga,25.69,29.3,North Bihar,0
+2020-05,Ganga,25.81,211.8,Central Bihar,0
+2020-05,Ganga,27.6,123.9,North Bihar,0
+2020-05,Ganga,25.4,36.9,North Bihar,0
+2020-06,Kamla Balan,12.61,250.8,North Bihar,0
+2020-06,Sone,23.07,282.4,South Bihar,1
+2020-06,Kamla Balan,7.89,28,North Bihar,0
+2020-06,Sone,18.54,24.9,West Bihar,0
+2020-06,Phalgu,12.69,147.2,South Bihar,0
+2020-06,Bagmati,16.96,16.5,North Bihar,0
+2020-06,Gandak,22.06,286.9,North Bihar,0
+2020-06,Burhi Gandak,16.65,7.3,North Bihar,0
+2020-06,Sone,20.23,95.7,South Bihar,0
+2020-06,Gandak,23.46,6.6,North Bihar,0
+2020-06,Kosi,25.11,168.7,East Bihar,1
+2020-06,Gandak,21.98,241.9,West Bihar,0
+2020-06,Punpun,12.94,229.7,South Bihar,0
+2020-06,Kosi,22.37,192.3,North Bihar,0
+2020-06,Kosi,21.29,23.4,North Bihar,0
+2020-06,Kamla Balan,13.73,154.4,North Bihar,0
+2020-06,Mahananda,18.7,196.4,East Bihar,0
+2020-06,Gandak,18.53,8.4,North Bihar,0
+2020-06,Kamla Balan,8.67,17.9,North Bihar,0
+2020-06,Kosi,20.35,43.7,East Bihar,0
+2020-06,Kamla Balan,12.24,20.6,North Bihar,0
+2020-06,Punpun,13.44,22.2,South Bihar,0
+2020-06,Bagmati,21.65,123,North Bihar,0
+2020-06,Burhi Gandak,15.66,131.6,North Bihar,0
+2020-06,Mahananda,15.05,22.9,North Bihar,0
+2020-06,Gandak,16.96,25.2,West Bihar,0
+2020-06,Kosi,18.6,0,North Bihar,0
+2020-06,Burhi Gandak,21.15,34.1,North Bihar,0
+2020-06,Sone,16.56,166.7,South Bihar,0
+2020-06,Burhi Gandak,19.14,6,North Bihar,0
+2020-06,Mahananda,15.64,43,East Bihar,0
+2020-06,Gandak,23.24,46.8,West Bihar,0
+2020-06,Phalgu,11.31,38.8,South Bihar,0
+2020-06,Burhi Gandak,13.66,26.5,North Bihar,0
+2020-06,Ganga,20.88,13.4,North Bihar,0
+2020-06,Punpun,13.88,13.5,South Bihar,0
+2020-06,Mahananda,15.04,13.6,North Bihar,0
+2020-06,Mahananda,15.3,146,East Bihar,0
+2020-06,Ganga,23.39,203,North Bihar,0
+2020-06,Phalgu,15.59,180.2,Central Bihar,0
+2020-06,Gandak,23.89,197.8,North Bihar,0
+2020-06,Kamla Balan,12.67,139.4,North Bihar,0
+2020-06,Bagmati,16.16,259.9,North Bihar,0
+2020-06,Punpun,17.46,160.5,South Bihar,0
+2020-06,Burhi Gandak,17.02,44.8,North Bihar,0
+2020-06,Kosi,25.72,200.2,North Bihar,1
+2020-06,Kamla Balan,12.16,52,North Bihar,0
+2020-06,Phalgu,14.22,84.8,South Bihar,0
+2020-06,Bagmati,18.27,22.9,North Bihar,0
+2020-06,Mahananda,19.43,257.7,East Bihar,0
+2020-06,Punpun,18.74,224.3,South Bihar,1
+2020-06,Punpun,17.57,10.4,South Bihar,0
+2020-06,Burhi Gandak,14.51,33.6,North Bihar,0
+2020-06,Mahananda,16.3,1.3,East Bihar,0
+2020-06,Gandak,18.81,22.5,North Bihar,0
+2020-06,Gandak,21.25,179.6,North Bihar,0
+2020-06,Gandak,20.97,201.2,West Bihar,0
+2020-06,Burhi Gandak,18.03,167.9,North Bihar,0
+2020-06,Sone,20.87,225.2,South Bihar,0
+2020-06,Mahananda,16.76,207.6,East Bihar,0
+2020-06,Phalgu,14.41,231.9,Central Bihar,0
+2020-06,Mahananda,14.61,18.6,East Bihar,0
+2020-06,Kamla Balan,11.56,37.8,East Bihar,0
+2020-06,Kosi,22.35,18.4,East Bihar,0
+2020-06,Ganga,27.94,248.8,North Bihar,0
+2020-06,Phalgu,12.41,20.7,South Bihar,0
+2020-06,Kamla Balan,8.39,13.9,North Bihar,0
+2020-06,Burhi Gandak,14.48,28.8,North Bihar,0
+2020-06,Punpun,17.18,178.8,Central Bihar,0
+2020-06,Gandak,22.23,54.1,North Bihar,0
+2020-06,Punpun,15.22,30.1,Central Bihar,0
+2020-06,Phalgu,16.1,26,South Bihar,0
+2020-06,Kosi,25.65,36.8,North Bihar,0
+2020-06,Bagmati,18.22,205.7,North Bihar,0
+2020-06,Phalgu,9.92,38,Central Bihar,0
+2020-06,Kosi,18.19,51.2,East Bihar,0
+2020-06,Burhi Gandak,17.33,262.6,North Bihar,0
+2020-06,Burhi Gandak,14.54,0,North Bihar,0
+2020-06,Kamla Balan,13.25,170.7,North Bihar,0
+2020-06,Kamla Balan,15.26,13.1,North Bihar,0
+2020-06,Burhi Gandak,11.73,27.8,North Bihar,0
+2020-06,Burhi Gandak,11.86,17.4,North Bihar,0
+2020-06,Kosi,24.15,14,North Bihar,0
+2020-06,Kamla Balan,7.51,26.1,North Bihar,0
+2020-06,Ganga,24.76,166.4,North Bihar,0
+2020-06,Mahananda,18.11,173.2,East Bihar,0
+2020-06,Phalgu,17.5,20.9,South Bihar,0
+2020-06,Burhi Gandak,19.21,220.2,North Bihar,1
+2020-06,Kosi,19.38,24.5,East Bihar,0
+2020-06,Punpun,17.93,34.3,South Bihar,0
+2020-06,Kamla Balan,12.07,1.3,North Bihar,0
+2020-06,Burhi Gandak,15.08,0,North Bihar,0
+2020-06,Gandak,20.87,171.9,North Bihar,0
+2020-06,Sone,16.19,25.3,West Bihar,0
+2020-06,Sone,18.38,236.2,South Bihar,0
+2020-06,Punpun,15.9,56.1,Central Bihar,0
+2020-06,Kosi,21.74,162.8,North Bihar,0
+2020-06,Sone,18.95,49.5,West Bihar,0
+2020-06,Mahananda,20.7,146.3,East Bihar,1
+2020-06,Kosi,25.41,92,East Bihar,0
+2020-06,Gandak,21.19,1.3,North Bihar,0
+2020-06,Ganga,24.71,252.5,Central Bihar,0
+2020-06,Gandak,23.74,22.3,North Bihar,0
+2020-06,Burhi Gandak,13.39,12.7,North Bihar,0
+2020-06,Punpun,15.28,12,Central Bihar,0
+2020-06,Mahananda,15.88,0.3,East Bihar,0
+2020-06,Kosi,20.92,0,North Bihar,0
+2020-06,Phalgu,11.63,193.7,Central Bihar,0
+2020-07,Mahananda,19.33,93.6,East Bihar,0
+2020-07,Kosi,21.85,27.5,North Bihar,0
+2020-07,Bagmati,20.35,25.9,North Bihar,0
+2020-07,Burhi Gandak,16.35,0,North Bihar,0
+2020-07,Ganga,25.9,180.7,North Bihar,0
+2020-07,Kamla Balan,14.94,20.4,North Bihar,0
+2020-07,Phalgu,14.85,143.9,South Bihar,0
+2020-07,Mahananda,13.15,231.1,East Bihar,0
+2020-07,Bagmati,16.11,31.7,North Bihar,0
+2020-07,Sone,18.23,12.4,West Bihar,0
+2020-07,Bagmati,18.04,31.1,North Bihar,0
+2020-07,Kosi,21.18,190.2,North Bihar,0
+2020-07,Punpun,14.38,115.8,South Bihar,0
+2020-07,Mahananda,14.81,57.3,East Bihar,0
+2020-07,Bagmati,18.29,199.6,North Bihar,0
+2020-07,Bagmati,18.53,174.4,North Bihar,0
+2020-07,Kosi,24.21,157.8,North Bihar,0
+2020-07,Kamla Balan,9.57,14.3,East Bihar,0
+2020-07,Ganga,27.96,158,North Bihar,0
+2020-07,Ganga,28.44,194.6,North Bihar,1
+2020-07,Mahananda,15.59,22.5,East Bihar,0
+2020-07,Mahananda,18.16,94.4,East Bihar,0
+2020-07,Ganga,23.98,32.8,North Bihar,0
+2020-07,Gandak,22.32,163,North Bihar,0
+2020-07,Punpun,13.6,30.1,South Bihar,0
+2020-07,Bagmati,16.4,39,North Bihar,0
+2020-07,Sone,16.44,147.8,West Bihar,0
+2020-07,Kosi,21.63,220.6,East Bihar,0
+2020-07,Phalgu,12.98,9.9,South Bihar,0
+2020-07,Kosi,23.42,17.5,East Bihar,0
+2020-07,Phalgu,13.44,117.2,South Bihar,0
+2020-07,Kamla Balan,13.18,96.4,North Bihar,0
+2020-07,Gandak,23.75,20.3,West Bihar,0
+2020-07,Burhi Gandak,14.27,24.4,North Bihar,0
+2020-07,Burhi Gandak,16.97,253.5,North Bihar,0
+2020-07,Bagmati,15.89,51.6,North Bihar,0
+2020-07,Gandak,24.27,186.1,North Bihar,1
+2020-07,Phalgu,9.95,11.5,South Bihar,0
+2020-07,Punpun,16.36,200.1,South Bihar,0
+2020-07,Burhi Gandak,15.88,34,North Bihar,0
+2020-07,Gandak,18.08,0,North Bihar,0
+2020-07,Punpun,14.38,44.5,South Bihar,0
+2020-07,Phalgu,15.7,5.8,South Bihar,0
+2020-07,Punpun,16.47,157.9,Central Bihar,0
+2020-07,Mahananda,16.32,38.5,East Bihar,0
+2020-07,Gandak,21.17,27,North Bihar,0
+2020-07,Gandak,21.11,6.2,North Bihar,0
+2020-07,Mahananda,17.98,26.2,North Bihar,0
+2020-07,Gandak,20.29,67.5,North Bihar,0
+2020-07,Burhi Gandak,18.8,39.5,North Bihar,0
+2020-07,Kamla Balan,10.85,56.6,North Bihar,0
+2020-07,Sone,19,50.1,West Bihar,0
+2020-07,Kamla Balan,12.07,94.6,East Bihar,0
+2020-07,Burhi Gandak,13.12,55.4,North Bihar,0
+2020-07,Punpun,12.61,14.1,South Bihar,0
+2020-07,Punpun,16.61,22.1,South Bihar,0
+2020-07,Kosi,23.12,14.1,North Bihar,0
+2020-07,Kamla Balan,9.45,33.7,North Bihar,0
+2020-07,Ganga,25.09,35.2,North Bihar,0
+2020-07,Kosi,20.2,36.3,East Bihar,0
+2020-07,Kosi,19.58,155.9,North Bihar,0
+2020-07,Kamla Balan,8.93,45.1,East Bihar,0
+2020-07,Ganga,26.39,178.3,Central Bihar,0
+2020-07,Kamla Balan,14.15,14.2,North Bihar,0
+2020-07,Kosi,23.08,41.2,North Bihar,0
+2020-07,Mahananda,15.53,31.1,North Bihar,0
+2020-07,Gandak,21.6,52.6,North Bihar,0
+2020-07,Gandak,21.2,47.8,North Bihar,0
+2020-07,Kosi,23.55,37.2,East Bihar,0
+2020-07,Bagmati,22.11,136.8,North Bihar,1
+2020-07,Kamla Balan,11.86,119.3,North Bihar,0
+2020-07,Bagmati,19.13,27.6,North Bihar,0
+2020-07,Ganga,21.9,71.3,North Bihar,0
+2020-07,Mahananda,18.11,163,East Bihar,0
+2020-07,Sone,16.96,35.7,South Bihar,0
+2020-07,Kosi,22.91,30.1,North Bihar,0
+2020-07,Bagmati,19.58,0,North Bihar,0
+2020-07,Kamla Balan,13.33,46.8,North Bihar,0
+2020-07,Ganga,25.81,109.6,North Bihar,0
+2020-07,Phalgu,11.74,25.3,South Bihar,0
+2020-07,Burhi Gandak,15,116.9,North Bihar,0
+2020-07,Gandak,19.96,17,West Bihar,0
+2020-07,Kosi,24.19,10,North Bihar,0
+2020-07,Burhi Gandak,16.28,210,North Bihar,0
+2020-07,Ganga,22.12,19.7,North Bihar,0
+2020-07,Kosi,23.47,142,North Bihar,0
+2020-07,Punpun,12.91,26.1,South Bihar,0
+2020-07,Sone,17.24,15.5,South Bihar,0
+2020-07,Sone,15.33,10.8,West Bihar,0
+2020-07,Sone,14.85,21.3,South Bihar,0
+2020-07,Ganga,27.99,132.4,Central Bihar,0
+2020-07,Kosi,21.99,39.9,North Bihar,0
+2020-07,Bagmati,18,29.1,North Bihar,0
+2020-07,Mahananda,13.92,43,East Bihar,0
+2020-07,Mahananda,12.26,0,East Bihar,0
+2020-07,Mahananda,16.82,36.5,North Bihar,0
+2020-07,Kosi,19.01,11.8,East Bihar,0
+2020-07,Kamla Balan,12.52,20.7,North Bihar,0
+2020-07,Ganga,25.57,139.6,North Bihar,0
+2020-07,Burhi Gandak,15.04,40.7,North Bihar,0
+2020-07,Kamla Balan,17.76,296,North Bihar,1
+2020-07,Burhi Gandak,17.85,33.2,North Bihar,0
+2020-07,Mahananda,15.3,24.6,East Bihar,0
+2020-08,Phalgu,14.94,22.8,South Bihar,0
+2020-08,Bagmati,20.95,185.9,North Bihar,0
+2020-08,Ganga,26.09,102.7,Central Bihar,0
+2020-08,Burhi Gandak,14.23,118.1,North Bihar,0
+2020-08,Bagmati,16.56,18.3,North Bihar,0
+2020-08,Sone,18.25,33.5,West Bihar,0
+2020-08,Burhi Gandak,15.05,58.3,North Bihar,0
+2020-08,Ganga,25.19,42.5,North Bihar,0
+2020-08,Burhi Gandak,16.3,245.1,North Bihar,0
+2020-08,Gandak,18.43,1.9,North Bihar,0
+2020-08,Phalgu,14.25,20.8,Central Bihar,0
+2020-08,Phalgu,15.67,218.3,South Bihar,0
+2020-08,Kosi,23.75,35.7,North Bihar,0
+2020-08,Gandak,17.51,19.7,North Bihar,0
+2020-08,Burhi Gandak,21.76,205.4,North Bihar,1
+2020-08,Mahananda,17.53,24,East Bihar,0
+2020-08,Mahananda,17.06,31.4,East Bihar,0
+2020-08,Kosi,20.12,108,North Bihar,0
+2020-08,Sone,14.38,34.3,South Bihar,0
+2020-08,Mahananda,16.38,42.7,North Bihar,0
+2020-08,Bagmati,19.92,8,North Bihar,0
+2020-08,Ganga,25.53,21.9,Central Bihar,0
+2020-08,Kosi,25.45,23.4,North Bihar,0
+2020-08,Sone,18.01,29.2,South Bihar,0
+2020-08,Gandak,20.88,20.8,West Bihar,0
+2020-08,Phalgu,11.19,14,South Bihar,0
+2020-08,Mahananda,16.57,24.9,East Bihar,0
+2020-08,Sone,15.16,160.6,West Bihar,0
+2020-08,Phalgu,12.51,34.9,Central Bihar,0
+2020-08,Kosi,18.16,22,North Bihar,0
+2020-08,Kamla Balan,15,243.5,East Bihar,0
+2020-08,Ganga,24.36,48.2,Central Bihar,0
+2020-08,Burhi Gandak,18,25.5,North Bihar,0
+2020-08,Punpun,13.81,216.7,Central Bihar,0
+2020-08,Mahananda,17.82,132.8,North Bihar,0
+2020-08,Mahananda,16.11,13.3,North Bihar,0
+2020-08,Kamla Balan,14.11,36.4,North Bihar,0
+2020-08,Ganga,22.05,20.8,Central Bihar,0
+2020-08,Punpun,14.05,160.4,South Bihar,0
+2020-08,Burhi Gandak,15.42,21,North Bihar,0
+2020-08,Punpun,17.24,258.7,South Bihar,0
+2020-08,Gandak,21.74,175.5,West Bihar,0
+2020-08,Bagmati,16.99,0,North Bihar,0
+2020-08,Kamla Balan,16.28,208.4,East Bihar,1
+2020-08,Mahananda,18.22,54.7,East Bihar,0
+2020-08,Burhi Gandak,16.58,3.8,North Bihar,0
+2020-08,Kosi,26,232.1,East Bihar,1
+2020-08,Burhi Gandak,16.35,93.5,North Bihar,0
+2020-08,Ganga,23.78,24.4,North Bihar,0
+2020-08,Ganga,22.9,36.7,Central Bihar,0
+2020-08,Kosi,21.89,41.4,North Bihar,0
+2020-08,Gandak,19.26,158.5,North Bihar,0
+2020-08,Punpun,17.01,172.2,South Bihar,0
+2020-08,Mahananda,10.44,29.9,East Bihar,0
+2020-08,Sone,17.56,37.5,West Bihar,0
+2020-08,Burhi Gandak,18.18,116,North Bihar,0
+2020-08,Sone,19.65,45.2,West Bihar,0
+2020-08,Phalgu,13.36,170.3,South Bihar,0
+2020-08,Kosi,23.1,0,North Bihar,0
+2020-08,Kosi,19.78,17.3,North Bihar,0
+2020-08,Punpun,14.5,37.9,South Bihar,0
+2020-08,Kamla Balan,16.68,16.3,East Bihar,0
+2020-08,Phalgu,14.47,185.1,South Bihar,0
+2020-08,Gandak,18.67,30.8,West Bihar,0
+2020-08,Sone,20.36,21.4,South Bihar,0
+2020-08,Phalgu,11.71,47.1,South Bihar,0
+2020-08,Kamla Balan,12.85,33.8,North Bihar,0
+2020-08,Bagmati,19.5,48,North Bihar,0
+2020-08,Mahananda,16.25,12.9,North Bihar,0
+2020-08,Mahananda,18.47,0,East Bihar,0
+2020-08,Burhi Gandak,18.68,36.4,North Bihar,0
+2020-08,Bagmati,18.86,42.4,North Bihar,0
+2020-08,Punpun,17.97,149.5,Central Bihar,0
+2020-08,Mahananda,16.56,136.1,East Bihar,0
+2020-08,Phalgu,9.63,0,South Bihar,0
+2020-08,Punpun,12.36,76,South Bihar,0
+2020-08,Mahananda,17.36,277,East Bihar,0
+2020-08,Gandak,22.29,210.9,West Bihar,0
+2020-08,Gandak,21.66,35.8,North Bihar,0
+2020-08,Gandak,24.51,18.8,North Bihar,0
+2020-08,Bagmati,18.14,4,North Bihar,0
+2020-08,Bagmati,19.9,40.1,North Bihar,0
+2020-08,Bagmati,18.06,164.3,North Bihar,0
+2020-08,Sone,18.37,240.5,South Bihar,0
+2020-08,Gandak,23.38,67,North Bihar,0
+2020-08,Kosi,22.15,52.3,North Bihar,0
+2020-08,Punpun,14.84,26.1,Central Bihar,0
+2020-08,Gandak,21.65,25.7,North Bihar,0
+2020-08,Sone,15.99,39,West Bihar,0
+2020-08,Ganga,25.79,30.4,Central Bihar,0
+2020-08,Kamla Balan,13.44,25.6,East Bihar,0
+2020-08,Bagmati,21.35,31.9,North Bihar,0
+2020-08,Burhi Gandak,11.5,11.9,North Bihar,0
+2020-08,Ganga,20.84,32.8,North Bihar,0
+2020-08,Burhi Gandak,17.4,30.1,North Bihar,0
+2020-08,Bagmati,15.58,41.5,North Bihar,0
+2020-08,Gandak,17.89,25.4,North Bihar,0
+2020-08,Gandak,17.52,50.8,West Bihar,0
+2020-08,Kosi,19.63,38.9,North Bihar,0
+2020-08,Phalgu,12.09,185.1,Central Bihar,0
+2020-08,Bagmati,18.94,1.6,North Bihar,0
+2020-08,Ganga,23.21,124.4,Central Bihar,0
+2020-08,Gandak,19.48,20.8,North Bihar,0
+2020-09,Punpun,15.55,34.3,South Bihar,0
+2020-09,Kosi,21.16,4.5,North Bihar,0
+2020-09,Kosi,19.45,37.8,North Bihar,0
+2020-09,Mahananda,16.44,203.4,East Bihar,0
+2020-09,Punpun,15.59,111.7,South Bihar,0
+2020-09,Kosi,18.8,33.6,North Bihar,0
+2020-09,Mahananda,14.89,40.1,East Bihar,0
+2020-09,Kosi,18.41,26.4,North Bihar,0
+2020-09,Punpun,14.76,242,South Bihar,0
+2020-09,Punpun,15.29,137.5,South Bihar,0
+2020-09,Phalgu,15.26,191.5,South Bihar,0
+2020-09,Sone,21.09,262.6,South Bihar,1
+2020-09,Phalgu,15.29,126.8,South Bihar,0
+2020-09,Sone,14.68,25.1,West Bihar,0
+2020-09,Ganga,22.53,2.1,North Bihar,0
+2020-09,Kamla Balan,10.47,239.3,North Bihar,0
+2020-09,Phalgu,15.06,41.2,South Bihar,0
+2020-09,Kamla Balan,10.13,113,North Bihar,0
+2020-09,Kosi,19.42,219.3,North Bihar,0
+2020-09,Sone,19.11,160,South Bihar,0
+2020-09,Burhi Gandak,15.05,249.7,North Bihar,0
+2020-09,Mahananda,15.15,91.8,East Bihar,0
+2020-09,Burhi Gandak,17.45,21.5,North Bihar,0
+2020-09,Kosi,21.41,151.9,East Bihar,0
+2020-09,Sone,19.46,16.6,South Bihar,0
+2020-09,Gandak,21.51,54.6,West Bihar,0
+2020-09,Bagmati,17.93,41.4,North Bihar,0
+2020-09,Ganga,26.56,21.5,North Bihar,0
+2020-09,Ganga,25.03,45.1,North Bihar,0
+2020-09,Punpun,14.3,116.6,South Bihar,0
+2020-09,Kosi,20.66,15.4,East Bihar,0
+2020-09,Sone,20.06,165.2,West Bihar,0
+2020-09,Sone,21.32,247,West Bihar,1
+2020-09,Bagmati,12.55,26,North Bihar,0
+2020-09,Kosi,22.21,20.2,North Bihar,0
+2020-09,Burhi Gandak,19.44,109.7,North Bihar,0
+2020-09,Kosi,22.97,20.6,North Bihar,0
+2020-09,Mahananda,18.2,70.2,East Bihar,0
+2020-09,Punpun,12.23,24.8,Central Bihar,0
+2020-09,Kamla Balan,8.12,19.2,North Bihar,0
+2020-09,Sone,17.54,31.5,South Bihar,0
+2020-09,Bagmati,23.37,173.3,North Bihar,1
+2020-09,Punpun,15.94,209.2,South Bihar,0
+2020-09,Phalgu,10.17,26.4,South Bihar,0
+2020-09,Kosi,23.53,136.2,East Bihar,0
+2020-09,Gandak,20,36.8,North Bihar,0
+2020-09,Kosi,22.36,20.4,North Bihar,0
+2020-09,Gandak,20.86,156,North Bihar,0
+2020-09,Gandak,21.37,20.6,North Bihar,0
+2020-09,Sone,18.94,31.6,South Bihar,0
+2020-09,Mahananda,16.04,0,North Bihar,0
+2020-09,Kamla Balan,12.99,16.6,North Bihar,0
+2020-09,Ganga,27.75,151.8,North Bihar,0
+2020-09,Burhi Gandak,19.15,211.9,North Bihar,1
+2020-09,Bagmati,17.57,11.9,North Bihar,0
+2020-09,Mahananda,17.57,57,East Bihar,0
+2020-09,Sone,17.41,119,South Bihar,0
+2020-09,Mahananda,15.57,25.6,East Bihar,0
+2020-09,Bagmati,19.01,30.8,North Bihar,0
+2020-09,Mahananda,16.06,19.9,East Bihar,0
+2020-09,Ganga,21.06,95,North Bihar,0
+2020-09,Ganga,25.26,36.9,Central Bihar,0
+2020-09,Mahananda,14.31,20.9,East Bihar,0
+2020-09,Sone,13.92,0,South Bihar,0
+2020-09,Ganga,25.56,213.8,North Bihar,0
+2020-09,Bagmati,20.27,7.5,North Bihar,0
+2020-09,Kamla Balan,14.42,190.4,North Bihar,0
+2020-09,Sone,18.4,21.1,South Bihar,0
+2020-09,Kosi,19.38,57.4,North Bihar,0
+2020-09,Gandak,19.14,222.4,North Bihar,0
+2020-09,Burhi Gandak,15.08,11,North Bihar,0
+2020-09,Burhi Gandak,15.92,47.3,North Bihar,0
+2020-09,Gandak,21.06,35.9,North Bihar,0
+2020-09,Ganga,25.87,15.7,Central Bihar,0
+2020-09,Punpun,14.36,30.9,Central Bihar,0
+2020-09,Gandak,17.57,0,West Bihar,0
+2020-09,Ganga,22.55,24.2,North Bihar,0
+2020-09,Gandak,22.38,17.2,North Bihar,0
+2020-09,Kamla Balan,9.48,27.6,North Bihar,0
+2020-09,Gandak,18.04,33.6,North Bihar,0
+2020-09,Sone,18.1,6.3,South Bihar,0
+2020-09,Bagmati,18.31,40,North Bihar,0
+2020-09,Punpun,18.07,198.9,South Bihar,1
+2020-09,Sone,21.14,120.9,West Bihar,1
+2020-09,Punpun,14.35,230.5,South Bihar,0
+2020-09,Mahananda,20.51,93.8,North Bihar,0
+2020-09,Kosi,21.84,29.6,North Bihar,0
+2020-10,Sone,14.49,20.9,South Bihar,0
+2020-10,Phalgu,12.78,10.4,South Bihar,0
+2020-10,Ganga,23.94,29,Central Bihar,0
+2020-10,Kosi,21.08,28.8,North Bihar,0
+2020-10,Bagmati,16.96,10.1,North Bihar,0
+2020-10,Mahananda,19.17,21.6,East Bihar,0
+2020-10,Gandak,18.81,26.7,North Bihar,0
+2020-10,Gandak,19.24,15,North Bihar,0
+2020-10,Phalgu,16.15,50.4,Central Bihar,0
+2020-10,Bagmati,18.97,51.4,North Bihar,0
+2020-10,Kosi,21.13,42.2,North Bihar,0
+2020-10,Kamla Balan,13.26,15,East Bihar,0
+2020-10,Mahananda,21.78,255.1,East Bihar,1
+2020-10,Burhi Gandak,17.38,40.9,North Bihar,0
+2020-10,Bagmati,18.5,150.9,North Bihar,0
+2020-10,Ganga,24.35,140.7,Central Bihar,0
+2020-10,Kamla Balan,10.36,181.1,North Bihar,0
+2020-10,Phalgu,13.88,127.7,South Bihar,0
+2020-10,Phalgu,15.37,198.5,South Bihar,0
+2020-10,Kamla Balan,12.86,14,East Bihar,0
+2020-10,Kosi,23.5,91,North Bihar,0
+2020-10,Phalgu,11.83,2,South Bihar,0
+2020-10,Kosi,22.35,91.5,North Bihar,0
+2020-10,Ganga,24,28.5,North Bihar,0
+2020-10,Burhi Gandak,16.46,25.4,North Bihar,0
+2020-10,Phalgu,15.05,257.6,Central Bihar,0
+2020-10,Burhi Gandak,15.68,238.1,North Bihar,0
+2020-10,Burhi Gandak,18.84,227.9,North Bihar,0
+2020-10,Sone,17.08,13.2,West Bihar,0
+2020-10,Ganga,20.76,35.9,North Bihar,0
+2020-11,Bagmati,17.11,11.1,North Bihar,0
+2020-11,Phalgu,15.46,18.5,Central Bihar,0
+2020-11,Bagmati,17.37,14.8,North Bihar,0
+2020-11,Sone,15.92,38.8,West Bihar,0
+2020-11,Kosi,22.31,1.7,East Bihar,0
+2020-11,Mahananda,16.65,114,East Bihar,0
+2020-11,Ganga,24.68,32.6,Central Bihar,0
+2020-11,Sone,14.7,12.4,South Bihar,0
+2020-11,Kosi,24.24,45,North Bihar,0
+2020-11,Burhi Gandak,13.67,28.5,North Bihar,0
+2020-11,Phalgu,11.03,9.6,South Bihar,0
+2020-11,Burhi Gandak,14.87,75.3,North Bihar,0
+2020-11,Burhi Gandak,15.49,32.7,North Bihar,0
+2020-11,Kosi,20.45,21.7,North Bihar,0
+2020-11,Burhi Gandak,14.11,225.2,North Bihar,0
+2020-11,Sone,15.31,27,South Bihar,0
+2020-11,Punpun,11.12,65.9,South Bihar,0
+2020-11,Bagmati,17.24,40,North Bihar,0
+2020-11,Kosi,23.76,39.3,North Bihar,0
+2020-11,Kosi,23.21,0,North Bihar,0
+2020-11,Bagmati,19.74,254.4,North Bihar,0
+2020-11,Gandak,21.65,209.9,North Bihar,0
+2020-11,Ganga,25.1,127.3,North Bihar,0
+2020-11,Gandak,21.39,148.3,North Bihar,0
+2020-11,Phalgu,13.57,23.6,South Bihar,0
+2020-11,Phalgu,13.84,38.4,South Bihar,0
+2020-11,Burhi Gandak,15.7,0,North Bihar,0
+2020-11,Ganga,23,1.4,North Bihar,0
+2020-11,Sone,16.95,193.4,West Bihar,0
+2020-11,Kamla Balan,11.93,7.3,North Bihar,0
+2020-11,Kamla Balan,13.72,9.8,East Bihar,0
+2020-11,Punpun,17.63,245.6,South Bihar,0
+2020-11,Burhi Gandak,20.22,33.1,North Bihar,0
+2020-11,Ganga,24.15,26.5,North Bihar,0
+2020-11,Punpun,14.83,33,Central Bihar,0
+2020-11,Punpun,13.98,31.3,South Bihar,0
+2020-11,Gandak,22.75,211.8,North Bihar,0
+2020-11,Kamla Balan,15.49,18.7,North Bihar,0
+2020-11,Phalgu,11.93,0,South Bihar,0
+2020-11,Gandak,20.7,38.6,North Bihar,0
+2020-11,Punpun,13.33,51.3,Central Bihar,0
+2020-12,Kamla Balan,11.13,45.6,North Bihar,0
+2020-12,Phalgu,17.29,48.1,South Bihar,0
+2020-12,Kosi,21.43,10.4,East Bihar,0
+2020-12,Bagmati,17.03,9.7,North Bihar,0
+2020-12,Kosi,20.06,23.8,North Bihar,0
+2020-12,Phalgu,9.36,0.8,South Bihar,0
+2020-12,Bagmati,19.23,22.3,North Bihar,0
+2020-12,Kosi,19.89,77.9,North Bihar,0
+2020-12,Kamla Balan,9.95,26,North Bihar,0
+2020-12,Phalgu,15.01,7.5,Central Bihar,0
+2020-12,Mahananda,20.66,136.3,North Bihar,1
+2020-12,Bagmati,22.75,19.4,North Bihar,0
+2020-12,Punpun,11.77,50.9,South Bihar,0
+2020-12,Kamla Balan,10.73,0.9,North Bihar,0
+2020-12,Burhi Gandak,16.9,170.7,North Bihar,0
+2020-12,Kamla Balan,11.78,55.3,North Bihar,0
+2020-12,Bagmati,21.7,93.4,North Bihar,0
+2020-12,Mahananda,19.55,176.4,North Bihar,0
+2020-12,Gandak,20.54,35.7,North Bihar,0
+2020-12,Bagmati,20.03,159.5,North Bihar,0
+2020-12,Phalgu,12.7,3.6,South Bihar,0
+2020-12,Burhi Gandak,14.15,39.3,North Bihar,0
+2020-12,Burhi Gandak,13.31,25.9,North Bihar,0
+2020-12,Mahananda,15.57,0,East Bihar,0
+2020-12,Kamla Balan,11.02,17.6,East Bihar,0
+2020-12,Phalgu,15.12,51.6,South Bihar,0
+2020-12,Ganga,23.32,25.9,Central Bihar,0
+2020-12,Gandak,16.88,0,North Bihar,0
+2020-12,Ganga,26.34,144.5,North Bihar,0
+2020-12,Phalgu,13.48,0,Central Bihar,0
+2020-12,Kamla Balan,11.63,25.8,East Bihar,0
+2020-12,Gandak,16.8,5.8,North Bihar,0
+2020-12,Burhi Gandak,17.53,32.6,North Bihar,0
+2020-12,Gandak,20.1,10.6,North Bihar,0
+2020-12,Mahananda,17.04,17.6,East Bihar,0
+2020-12,Kosi,22.54,39.6,North Bihar,0
+2020-12,Gandak,20.25,10.8,North Bihar,0
+2020-12,Gandak,24.56,222.3,West Bihar,1
+2020-12,Gandak,20.26,38,North Bihar,0
+2020-12,Mahananda,14.32,22.1,East Bihar,0
+2020-12,Kosi,20.92,9.7,East Bihar,0
+2020-12,Gandak,23.5,162.2,West Bihar,0
+2020-12,Kamla Balan,14.16,120,East Bihar,0
+2020-12,Gandak,21.82,146.2,North Bihar,0
+2020-12,Sone,17.58,18.6,South Bihar,0
+2021-01,Ganga,27.84,210.6,Central Bihar,0
+2021-01,Kosi,23.85,21.7,East Bihar,0
+2021-01,Gandak,23.28,47.5,North Bihar,0
+2021-01,Kosi,20.05,111.3,East Bihar,0
+2021-01,Bagmati,18.39,269.8,North Bihar,0
+2021-01,Kamla Balan,10.81,9,North Bihar,0
+2021-01,Mahananda,13.48,11.3,East Bihar,0
+2021-01,Kosi,22.49,22.6,East Bihar,0
+2021-01,Kosi,21.85,44.3,North Bihar,0
+2021-01,Bagmati,21.2,245,North Bihar,0
+2021-01,Mahananda,17.82,149.6,East Bihar,0
+2021-01,Burhi Gandak,14.36,38.4,North Bihar,0
+2021-01,Phalgu,11.81,15.6,Central Bihar,0
+2021-01,Kosi,26.15,44.4,East Bihar,0
+2021-01,Gandak,22.72,20.8,North Bihar,0
+2021-01,Sone,15.36,0,West Bihar,0
+2021-01,Gandak,23.62,76.7,North Bihar,0
+2021-01,Phalgu,14.3,41.5,South Bihar,0
+2021-01,Sone,14.67,127.5,South Bihar,0
+2021-01,Kamla Balan,14.55,159.3,North Bihar,0
+2021-01,Burhi Gandak,18.93,219.6,North Bihar,0
+2021-01,Burhi Gandak,16.12,41.4,North Bihar,0
+2021-01,Punpun,12.95,20.2,Central Bihar,0
+2021-01,Mahananda,18.01,235.7,North Bihar,0
+2021-01,Mahananda,15.38,27.5,North Bihar,0
+2021-01,Kamla Balan,14.37,22.7,East Bihar,0
+2021-01,Burhi Gandak,18.53,6.9,North Bihar,0
+2021-01,Kosi,23.95,168.7,North Bihar,0
+2021-01,Ganga,25.43,4.6,North Bihar,0
+2021-01,Burhi Gandak,19.13,203,North Bihar,1
+2021-01,Bagmati,17.98,20.9,North Bihar,0
+2021-01,Punpun,14.11,0,Central Bihar,0
+2021-01,Phalgu,12.63,30.8,South Bihar,0
+2021-01,Kosi,23.45,21.7,North Bihar,0
+2021-01,Kamla Balan,11.29,23.6,East Bihar,0
+2021-02,Phalgu,14.12,8.7,Central Bihar,0
+2021-02,Burhi Gandak,14.35,157.8,North Bihar,0
+2021-02,Kamla Balan,10.51,130.1,East Bihar,0
+2021-02,Phalgu,11.87,42.9,South Bihar,0
+2021-02,Punpun,17.4,12.1,South Bihar,0
+2021-02,Bagmati,18.95,18.4,North Bihar,0
+2021-02,Sone,22.75,263.5,South Bihar,1
+2021-02,Gandak,19.58,31.1,West Bihar,0
+2021-02,Ganga,22.18,30.3,North Bihar,0
+2021-02,Kamla Balan,12.98,50.5,North Bihar,0
+2021-02,Mahananda,17.2,46,North Bihar,0
+2021-02,Phalgu,18.32,48.2,Central Bihar,0
+2021-02,Gandak,17.93,217.8,North Bihar,0
+2021-02,Kamla Balan,11.5,36.2,North Bihar,0
+2021-02,Gandak,20.6,17.9,North Bihar,0
+2021-02,Phalgu,12.1,41.4,South Bihar,0
+2021-02,Gandak,23.99,101.1,West Bihar,0
+2021-02,Phalgu,10.75,15,South Bihar,0
+2021-02,Kosi,23.85,281.6,North Bihar,0
+2021-02,Burhi Gandak,14.91,24.1,North Bihar,0
+2021-02,Gandak,24.58,286.2,North Bihar,1
+2021-02,Sone,18.98,197,South Bihar,0
+2021-02,Kamla Balan,16.3,163.5,North Bihar,1
+2021-02,Bagmati,19.04,0.1,North Bihar,0
+2021-02,Kosi,20.8,187.1,East Bihar,0
+2021-02,Bagmati,13.86,20.5,North Bihar,0
+2021-02,Kamla Balan,14.93,151.6,North Bihar,0
+2021-02,Burhi Gandak,14.54,39.3,North Bihar,0
+2021-02,Sone,16.43,20,South Bihar,0
+2021-02,Sone,16.7,188,West Bihar,0
+2021-02,Kamla Balan,13.52,191.6,North Bihar,0
+2021-03,Phalgu,14.01,47.4,Central Bihar,0
+2021-03,Sone,17.17,0,West Bihar,0
+2021-03,Ganga,22.18,36.3,North Bihar,0
+2021-03,Phalgu,14.46,29,South Bihar,0
+2021-03,Punpun,13.29,54.4,South Bihar,0
+2021-03,Burhi Gandak,16.45,113.7,North Bihar,0
+2021-03,Mahananda,12.87,18.1,East Bihar,0
+2021-03,Kosi,23.13,326.7,North Bihar,0
+2021-03,Kosi,26.04,185.1,East Bihar,1
+2021-03,Sone,18.52,13.6,West Bihar,0
+2021-03,Ganga,25.63,9.1,Central Bihar,0
+2021-03,Phalgu,10.85,25.6,South Bihar,0
+2021-03,Mahananda,16.69,20.1,North Bihar,0
+2021-03,Sone,20.58,140.5,West Bihar,0
+2021-03,Phalgu,11.45,12.6,Central Bihar,0
+2021-03,Mahananda,17.28,46.8,East Bihar,0
+2021-03,Kamla Balan,10.29,31,North Bihar,0
+2021-03,Gandak,19.21,17.6,North Bihar,0
+2021-03,Bagmati,16.69,75.3,North Bihar,0
+2021-03,Punpun,18.45,222.9,South Bihar,1
+2021-03,Kamla Balan,14.84,138,North Bihar,0
+2021-03,Punpun,16.6,228,South Bihar,0
+2021-03,Gandak,20.62,113.5,North Bihar,0
+2021-03,Burhi Gandak,14.43,28.7,North Bihar,0
+2021-03,Kamla Balan,9.18,31.2,North Bihar,0
+2021-03,Phalgu,12.3,20.6,Central Bihar,0
+2021-03,Burhi Gandak,14.82,189.3,North Bihar,0
+2021-03,Phalgu,12.35,27.4,Central Bihar,0
+2021-03,Kamla Balan,11.47,30,East Bihar,0
+2021-03,Burhi Gandak,17.26,150.7,North Bihar,0
+2021-03,Burhi Gandak,16.07,12.9,North Bihar,0
+2021-03,Kosi,22.89,44.2,East Bihar,0
+2021-03,Mahananda,15.56,28,North Bihar,0
+2021-03,Mahananda,19.82,141.7,North Bihar,0
+2021-03,Burhi Gandak,13.12,34.3,North Bihar,0
+2021-03,Mahananda,18.18,35.2,North Bihar,0
+2021-03,Kamla Balan,13.08,257,East Bihar,0
+2021-03,Sone,18.44,12.1,South Bihar,0
+2021-04,Phalgu,12.31,190.5,South Bihar,0
+2021-04,Punpun,19.45,323.3,Central Bihar,1
+2021-04,Mahananda,16.06,35.6,East Bihar,0
+2021-04,Punpun,11.6,33.2,South Bihar,0
+2021-04,Burhi Gandak,16.77,153.7,North Bihar,0
+2021-04,Gandak,20.18,0,North Bihar,0
+2021-04,Gandak,18.44,32.8,West Bihar,0
+2021-04,Ganga,25.2,238.9,North Bihar,0
+2021-04,Bagmati,18.74,222.2,North Bihar,0
+2021-04,Phalgu,13.11,204.2,South Bihar,0
+2021-04,Ganga,20.67,10.5,North Bihar,0
+2021-04,Sone,17.3,206.7,West Bihar,0
+2021-04,Punpun,16.24,39.5,South Bihar,0
+2021-04,Kosi,20.27,19.9,North Bihar,0
+2021-04,Punpun,13.18,38.6,South Bihar,0
+2021-04,Burhi Gandak,15.1,18,North Bihar,0
+2021-04,Kosi,19.63,15.9,North Bihar,0
+2021-04,Sone,19.05,35.6,South Bihar,0
+2021-04,Burhi Gandak,15.2,17.9,North Bihar,0
+2021-04,Sone,19.35,29.6,South Bihar,0
+2021-04,Punpun,16.28,198.6,Central Bihar,0
+2021-04,Burhi Gandak,15.57,18.9,North Bihar,0
+2021-04,Kosi,23.63,22.1,North Bihar,0
+2021-04,Bagmati,19.86,17,North Bihar,0
+2021-04,Gandak,19.97,0.9,West Bihar,0
+2021-04,Phalgu,11.86,29,Central Bihar,0
+2021-04,Kosi,27.66,253.2,North Bihar,1
+2021-04,Sone,14.61,45.4,South Bihar,0
+2021-04,Mahananda,18.87,38.7,East Bihar,0
+2021-04,Phalgu,13.15,27.9,Central Bihar,0
+2021-04,Phalgu,12.68,169.1,South Bihar,0
+2021-04,Bagmati,21.49,20.9,North Bihar,0
+2021-04,Kosi,25.26,30.8,North Bihar,0
+2021-04,Bagmati,17.98,23.2,North Bihar,0
+2021-04,Ganga,24.34,36.2,North Bihar,0
+2021-04,Gandak,18.79,29.7,North Bihar,0
+2021-04,Gandak,23.76,32,North Bihar,0
+2021-04,Kosi,21.76,36.3,North Bihar,0
+2021-04,Sone,16.13,15.9,South Bihar,0
+2021-04,Kamla Balan,13.22,15,East Bihar,0
+2021-04,Burhi Gandak,15.13,10.6,North Bihar,0
+2021-05,Bagmati,20.56,214.9,North Bihar,0
+2021-05,Sone,20.42,334.2,South Bihar,0
+2021-05,Punpun,14.07,1.7,Central Bihar,0
+2021-05,Ganga,23.6,20.6,Central Bihar,0
+2021-05,Mahananda,15.46,6.7,East Bihar,0
+2021-05,Mahananda,11.94,20.1,East Bihar,0
+2021-05,Kamla Balan,16.81,201.6,North Bihar,1
+2021-05,Sone,15.19,36.7,South Bihar,0
+2021-05,Gandak,16.42,88.4,North Bihar,0
+2021-05,Bagmati,22.07,167.2,North Bihar,1
+2021-05,Sone,20.3,125.4,South Bihar,0
+2021-05,Punpun,16.62,19.9,South Bihar,0
+2021-05,Kosi,20.72,234.7,North Bihar,0
+2021-05,Kosi,20.84,158.7,North Bihar,0
+2021-05,Kamla Balan,13.82,105.3,North Bihar,0
+2021-05,Kosi,22.45,126.6,North Bihar,0
+2021-05,Punpun,14.24,19,South Bihar,0
+2021-05,Kosi,23.23,215.3,North Bihar,0
+2021-05,Kosi,21.88,104.5,North Bihar,0
+2021-05,Punpun,11.66,46.8,South Bihar,0
+2021-05,Kamla Balan,14.74,120,East Bihar,0
+2021-05,Mahananda,18.1,206.9,East Bihar,0
+2021-05,Kosi,23.03,196,North Bihar,0
+2021-05,Gandak,22.48,34.4,North Bihar,0
+2021-05,Burhi Gandak,18.85,19.5,North Bihar,0
+2021-05,Bagmati,19.65,13.9,North Bihar,0
+2021-05,Ganga,23.84,42,North Bihar,0
+2021-05,Ganga,22.89,31.3,North Bihar,0
+2021-05,Mahananda,16.06,191.6,East Bihar,0
+2021-05,Burhi Gandak,14.6,219.7,North Bihar,0
+2021-05,Burhi Gandak,15.52,21.4,North Bihar,0
+2021-05,Kamla Balan,14.17,238.3,North Bihar,0
+2021-05,Gandak,21.93,60.7,North Bihar,0
+2021-05,Ganga,27.05,42.8,North Bihar,0
+2021-05,Mahananda,15.35,217.8,East Bihar,0
+2021-05,Mahananda,17.2,111.3,East Bihar,0
+2021-05,Bagmati,16.86,8.7,North Bihar,0
+2021-06,Sone,13.91,17,West Bihar,0
+2021-06,Mahananda,17.22,23.3,East Bihar,0
+2021-06,Bagmati,18.88,19.7,North Bihar,0
+2021-06,Punpun,14.27,88.6,South Bihar,0
+2021-06,Kosi,19.95,170.1,North Bihar,0
+2021-06,Mahananda,18.78,24.5,North Bihar,0
+2021-06,Mahananda,15.45,17,East Bihar,0
+2021-06,Kosi,21.8,183,East Bihar,0
+2021-06,Mahananda,18.36,146.2,East Bihar,0
+2021-06,Phalgu,14.9,17.1,South Bihar,0
+2021-06,Bagmati,19.64,7.2,North Bihar,0
+2021-06,Mahananda,17.29,31.4,East Bihar,0
+2021-06,Bagmati,16.37,56.6,North Bihar,0
+2021-06,Gandak,23.26,9.2,North Bihar,0
+2021-06,Sone,14.44,9.1,South Bihar,0
+2021-06,Punpun,14.97,270.8,South Bihar,0
+2021-06,Kosi,24.66,175,North Bihar,0
+2021-06,Ganga,27.86,44.3,North Bihar,0
+2021-06,Mahananda,18.94,41.1,North Bihar,0
+2021-06,Gandak,20.85,6.5,North Bihar,0
+2021-06,Phalgu,15.03,197.8,South Bihar,0
+2021-06,Ganga,24.33,38.8,Central Bihar,0
+2021-06,Gandak,21.86,116.3,North Bihar,0
+2021-06,Kamla Balan,14.71,249.1,East Bihar,0
+2021-06,Kamla Balan,15.14,250.7,North Bihar,0
+2021-06,Bagmati,19.12,28.9,North Bihar,0
+2021-06,Burhi Gandak,13.62,76.7,North Bihar,0
+2021-06,Kosi,24.45,231.8,North Bihar,0
+2021-06,Phalgu,11.26,37,South Bihar,0
+2021-06,Ganga,27.33,207.6,Central Bihar,0
+2021-06,Punpun,12.11,6.3,Central Bihar,0
+2021-06,Sone,19.72,22.4,South Bihar,0
+2021-06,Phalgu,12.9,244.9,Central Bihar,0
+2021-06,Kamla Balan,10.92,0.2,North Bihar,0
+2021-06,Sone,13.99,19.8,South Bihar,0
+2021-06,Burhi Gandak,18.48,152.6,North Bihar,0
+2021-06,Ganga,23.15,173.1,North Bihar,0
+2021-06,Punpun,14.59,7.9,Central Bihar,0
+2021-06,Mahananda,13.63,32.8,North Bihar,0
+2021-06,Kosi,26.38,247.1,East Bihar,1
+2021-06,Bagmati,18.06,18,North Bihar,0
+2021-06,Punpun,17.53,13.1,Central Bihar,0
+2021-06,Punpun,16.65,17.3,South Bihar,0
+2021-06,Kosi,22.89,193.8,East Bihar,0
+2021-06,Sone,19.4,36.6,South Bihar,0
+2021-06,Kamla Balan,12.3,14.3,North Bihar,0
+2021-06,Punpun,14.54,50.3,South Bihar,0
+2021-06,Burhi Gandak,13.81,15.7,North Bihar,0
+2021-06,Punpun,14.42,106.3,Central Bihar,0
+2021-06,Mahananda,19.38,28.6,East Bihar,0
+2021-06,Gandak,19.31,186.5,West Bihar,0
+2021-06,Phalgu,12.03,22.2,Central Bihar,0
+2021-06,Sone,19.24,148.6,West Bihar,0
+2021-06,Kosi,21.89,5.5,East Bihar,0
+2021-06,Kosi,21.5,15.4,East Bihar,0
+2021-06,Kosi,21.9,114.8,North Bihar,0
+2021-06,Punpun,18.32,256.3,South Bihar,1
+2021-06,Punpun,14.92,31.6,South Bihar,0
+2021-06,Mahananda,13.02,19,East Bihar,0
+2021-06,Punpun,15.26,22.9,South Bihar,0
+2021-06,Bagmati,16.52,5.8,North Bihar,0
+2021-06,Kamla Balan,13.87,13.2,North Bihar,0
+2021-06,Mahananda,17.59,50.8,East Bihar,0
+2021-06,Phalgu,18.58,232,South Bihar,1
+2021-06,Gandak,19.99,57.3,North Bihar,0
+2021-06,Kamla Balan,12.95,166.3,North Bihar,0
+2021-06,Ganga,28.86,128.4,North Bihar,1
+2021-06,Ganga,23.36,131.6,Central Bihar,0
+2021-06,Sone,18.69,34.8,West Bihar,0
+2021-06,Mahananda,18.14,23.2,North Bihar,0
+2021-06,Burhi Gandak,13.15,23.1,North Bihar,0
+2021-06,Punpun,12.08,272.1,Central Bihar,0
+2021-06,Kamla Balan,12.39,194,North Bihar,0
+2021-06,Kosi,22.83,27.5,East Bihar,0
+2021-06,Phalgu,13.16,37.1,South Bihar,0
+2021-06,Mahananda,19.17,20.7,North Bihar,0
+2021-06,Sone,17.01,150.6,South Bihar,0
+2021-06,Kamla Balan,14.75,10.4,North Bihar,0
+2021-06,Mahananda,16.31,1.7,East Bihar,0
+2021-06,Ganga,23.89,37.6,North Bihar,0
+2021-06,Burhi Gandak,16.47,0,North Bihar,0
+2021-06,Ganga,22.12,146.2,North Bihar,0
+2021-06,Kosi,24.97,54.7,North Bihar,0
+2021-06,Ganga,22.37,112.2,North Bihar,0
+2021-06,Kamla Balan,9.69,9,North Bihar,0
+2021-06,Sone,12.47,23.8,South Bihar,0
+2021-06,Punpun,15.54,26,South Bihar,0
+2021-06,Burhi Gandak,14.11,29,North Bihar,0
+2021-06,Bagmati,17.61,15.5,North Bihar,0
+2021-06,Kamla Balan,12.2,124.6,North Bihar,0
+2021-06,Burhi Gandak,17.29,64.3,North Bihar,0
+2021-06,Kamla Balan,13.76,117.6,North Bihar,0
+2021-06,Phalgu,15.69,0,South Bihar,0
+2021-06,Gandak,23.94,126.5,North Bihar,0
+2021-06,Kosi,22.18,14.6,East Bihar,0
+2021-06,Punpun,13.64,57.3,Central Bihar,0
+2021-06,Kamla Balan,10.42,203.7,East Bihar,0
+2021-06,Burhi Gandak,14.36,32.2,North Bihar,0
+2021-06,Mahananda,18.63,81.2,North Bihar,0
+2021-06,Bagmati,19.32,191.8,North Bihar,0
+2021-07,Bagmati,19.67,19,North Bihar,0
+2021-07,Burhi Gandak,11.81,5.8,North Bihar,0
+2021-07,Phalgu,12.75,0,South Bihar,0
+2021-07,Mahananda,21.94,40.3,East Bihar,0
+2021-07,Ganga,22.11,37.5,Central Bihar,0
+2021-07,Gandak,21.75,28.8,West Bihar,0
+2021-07,Bagmati,18.45,30.7,North Bihar,0
+2021-07,Bagmati,18.57,25.9,North Bihar,0
+2021-07,Burhi Gandak,16.54,230.5,North Bihar,0
+2021-07,Punpun,11.5,23.7,South Bihar,0
+2021-07,Kamla Balan,12.13,19.2,East Bihar,0
+2021-07,Bagmati,18.84,18,North Bihar,0
+2021-07,Punpun,16.01,76.2,South Bihar,0
+2021-07,Bagmati,20.7,157.2,North Bihar,0
+2021-07,Bagmati,18.01,30.2,North Bihar,0
+2021-07,Burhi Gandak,15.98,38.9,North Bihar,0
+2021-07,Mahananda,14.52,46.3,East Bihar,0
+2021-07,Kamla Balan,12.51,187.6,North Bihar,0
+2021-07,Burhi Gandak,12.94,19.3,North Bihar,0
+2021-07,Mahananda,16.46,0,East Bihar,0
+2021-07,Kamla Balan,14.98,28.8,North Bihar,0
+2021-07,Ganga,30.79,299.3,Central Bihar,1
+2021-07,Kosi,20.78,12.6,East Bihar,0
+2021-07,Ganga,24.99,26.5,North Bihar,0
+2021-07,Kamla Balan,12.06,140.9,North Bihar,0
+2021-07,Mahananda,16.18,31.1,North Bihar,0
+2021-07,Bagmati,19.63,25.8,North Bihar,0
+2021-07,Ganga,21.47,31.7,Central Bihar,0
+2021-07,Phalgu,13.85,88.4,South Bihar,0
+2021-07,Kosi,22.48,207.7,East Bihar,0
+2021-07,Mahananda,13.64,15.5,East Bihar,0
+2021-07,Burhi Gandak,18.35,178.3,North Bihar,0
+2021-07,Punpun,15.85,30.6,South Bihar,0
+2021-07,Mahananda,16.28,93.9,East Bihar,0
+2021-07,Burhi Gandak,19.22,188.3,North Bihar,1
+2021-07,Phalgu,12.14,42.8,South Bihar,0
+2021-07,Kosi,24.77,232.9,North Bihar,0
+2021-07,Punpun,17.19,0,South Bihar,0
+2021-07,Burhi Gandak,17.03,21.5,North Bihar,0
+2021-07,Punpun,15.68,8.6,South Bihar,0
+2021-07,Ganga,24.96,12.6,Central Bihar,0
+2021-07,Punpun,15.53,31.2,Central Bihar,0
+2021-07,Gandak,16.59,33.4,North Bihar,0
+2021-07,Sone,20.58,19.6,South Bihar,0
+2021-07,Bagmati,18.79,19.5,North Bihar,0
+2021-07,Ganga,21.77,71.3,Central Bihar,0
+2021-07,Mahananda,17.03,206.6,East Bihar,0
+2021-07,Punpun,16.33,1.1,South Bihar,0
+2021-07,Gandak,22.53,29.6,North Bihar,0
+2021-07,Gandak,21.94,146.2,West Bihar,0
+2021-07,Sone,18.15,44.1,West Bihar,0
+2021-07,Gandak,20.29,96.8,West Bihar,0
+2021-07,Bagmati,19.97,129.3,North Bihar,0
+2021-07,Punpun,11.43,20.8,South Bihar,0
+2021-07,Sone,18.04,253.3,West Bihar,0
+2021-07,Sone,18.4,28.5,South Bihar,0
+2021-07,Punpun,15.74,22.7,South Bihar,0
+2021-07,Kosi,24.18,13.3,North Bihar,0
+2021-07,Punpun,12.87,33.4,South Bihar,0
+2021-07,Sone,15.18,23.8,South Bihar,0
+2021-07,Bagmati,18.35,31.4,North Bihar,0
+2021-07,Ganga,24.35,0,North Bihar,0
+2021-07,Gandak,20.85,112.1,North Bihar,0
+2021-07,Ganga,24.61,20.8,North Bihar,0
+2021-07,Punpun,12.43,24.7,Central Bihar,0
+2021-07,Ganga,24.46,32.9,North Bihar,0
+2021-07,Bagmati,19.47,183.1,North Bihar,0
+2021-07,Mahananda,18.14,149.3,East Bihar,0
+2021-07,Sone,16.41,0,West Bihar,0
+2021-07,Mahananda,19.8,202.9,North Bihar,0
+2021-07,Punpun,13.13,3.9,South Bihar,0
+2021-07,Kosi,23.82,12.2,North Bihar,0
+2021-07,Kamla Balan,13.65,19.6,North Bihar,0
+2021-07,Kosi,19.64,28.4,North Bihar,0
+2021-07,Sone,19.25,189.8,South Bihar,0
+2021-07,Ganga,24.65,17.9,Central Bihar,0
+2021-07,Sone,17.15,31.2,South Bihar,0
+2021-07,Phalgu,11.17,11.8,South Bihar,0
+2021-07,Phalgu,13.51,20.3,Central Bihar,0
+2021-07,Punpun,12.92,21.8,Central Bihar,0
+2021-07,Gandak,19.47,131.4,North Bihar,0
+2021-07,Kamla Balan,10.91,21.9,East Bihar,0
+2021-07,Sone,16.99,103.3,South Bihar,0
+2021-07,Mahananda,14.41,25.2,East Bihar,0
+2021-07,Kosi,23.74,30,North Bihar,0
+2021-07,Burhi Gandak,13.52,177.2,North Bihar,0
+2021-07,Kosi,23.43,29.5,East Bihar,0
+2021-07,Bagmati,21.06,20.2,North Bihar,0
+2021-07,Kamla Balan,12.99,9.5,East Bihar,0
+2021-07,Mahananda,15.17,45.5,East Bihar,0
+2021-07,Mahananda,15.34,3.5,East Bihar,0
+2021-07,Kamla Balan,11.3,45.9,North Bihar,0
+2021-08,Punpun,19.8,216.8,Central Bihar,1
+2021-08,Kamla Balan,12.26,170.5,North Bihar,0
+2021-08,Ganga,23.1,23.5,Central Bihar,0
+2021-08,Kamla Balan,13.8,270.6,East Bihar,0
+2021-08,Mahananda,17.25,43.7,East Bihar,0
+2021-08,Mahananda,16.97,24.6,East Bihar,0
+2021-08,Kamla Balan,9.6,46.7,East Bihar,0
+2021-08,Phalgu,11.23,9.3,South Bihar,0
+2021-08,Sone,20.12,257.3,South Bihar,0
+2021-08,Punpun,12.82,30.9,South Bihar,0
+2021-08,Sone,17.78,131.7,South Bihar,0
+2021-08,Bagmati,15.09,25.1,North Bihar,0
+2021-08,Kamla Balan,10.51,31.1,North Bihar,0
+2021-08,Punpun,16.37,253,South Bihar,0
+2021-08,Kosi,23.57,288.8,North Bihar,0
+2021-08,Punpun,13.04,212.6,South Bihar,0
+2021-08,Burhi Gandak,13.66,25,North Bihar,0
+2021-08,Sone,17.44,20,South Bihar,0
+2021-08,Mahananda,18.51,18.9,East Bihar,0
+2021-08,Ganga,23.64,26.5,North Bihar,0
+2021-08,Bagmati,19.16,88.4,North Bihar,0
+2021-08,Kosi,21.86,218.1,East Bihar,0
+2021-08,Burhi Gandak,14.7,31.7,North Bihar,0
+2021-08,Kamla Balan,13.66,8,North Bihar,0
+2021-08,Phalgu,14.16,27.4,Central Bihar,0
+2021-08,Kamla Balan,13.79,25.2,East Bihar,0
+2021-08,Mahananda,16.67,20.1,East Bihar,0
+2021-08,Bagmati,16.95,34.9,North Bihar,0
+2021-08,Burhi Gandak,15.61,16.9,North Bihar,0
+2021-08,Kosi,21.72,21,North Bihar,0
+2021-08,Ganga,23.18,22.6,North Bihar,0
+2021-08,Gandak,18.28,10.3,North Bihar,0
+2021-08,Kamla Balan,12.44,29.6,North Bihar,0
+2021-08,Sone,18.11,274.9,West Bihar,0
+2021-08,Punpun,11.52,35.2,Central Bihar,0
+2021-08,Sone,20.67,21.8,West Bihar,0
+2021-08,Mahananda,16.69,0.6,East Bihar,0
+2021-08,Mahananda,15.57,43.8,East Bihar,0
+2021-08,Sone,17.05,95.4,South Bihar,0
+2021-08,Punpun,12.95,5.6,South Bihar,0
+2021-08,Ganga,27.12,170.5,North Bihar,0
+2021-08,Phalgu,12.6,185.7,South Bihar,0
+2021-08,Kosi,19.62,14.1,North Bihar,0
+2021-08,Kosi,20.6,30.9,North Bihar,0
+2021-08,Kamla Balan,15.12,35.9,East Bihar,0
+2021-08,Phalgu,10.86,21.3,South Bihar,0
+2021-08,Kamla Balan,11.78,134.9,East Bihar,0
+2021-08,Bagmati,19.99,241.7,North Bihar,0
+2021-08,Bagmati,17.93,47,North Bihar,0
+2021-08,Sone,15.87,34.3,South Bihar,0
+2021-08,Burhi Gandak,17.99,230.8,North Bihar,0
+2021-08,Punpun,13.94,189.6,South Bihar,0
+2021-08,Sone,20.86,238.7,South Bihar,0
+2021-08,Gandak,20.31,0.6,North Bihar,0
+2021-08,Punpun,15.96,96.6,South Bihar,0
+2021-08,Ganga,24.6,22.6,Central Bihar,0
+2021-08,Sone,16.8,32.1,South Bihar,0
+2021-08,Ganga,26.69,23.4,Central Bihar,0
+2021-08,Ganga,24.53,43.8,Central Bihar,0
+2021-08,Bagmati,19.79,38.3,North Bihar,0
+2021-08,Phalgu,17.47,198.8,South Bihar,1
+2021-08,Kamla Balan,12.79,30.7,East Bihar,0
+2021-08,Phalgu,12.71,17.5,South Bihar,0
+2021-08,Gandak,19.9,232.1,North Bihar,0
+2021-08,Kamla Balan,13.75,36.3,North Bihar,0
+2021-08,Sone,21.71,246,South Bihar,1
+2021-08,Sone,15.01,37.4,West Bihar,0
+2021-08,Bagmati,19.67,147.2,North Bihar,0
+2021-08,Kosi,17.95,31.7,North Bihar,0
+2021-08,Kosi,21.64,40.7,North Bihar,0
+2021-08,Mahananda,17.93,155.5,North Bihar,0
+2021-08,Punpun,16.53,15.2,South Bihar,0
+2021-08,Gandak,19.3,16.2,West Bihar,0
+2021-08,Kosi,21.97,32.3,North Bihar,0
+2021-08,Gandak,21.71,8.8,West Bihar,0
+2021-08,Gandak,21.18,244.6,North Bihar,0
+2021-08,Bagmati,15.46,50.5,North Bihar,0
+2021-08,Mahananda,19.46,1.9,East Bihar,0
+2021-08,Burhi Gandak,19.28,208.8,North Bihar,1
+2021-08,Kosi,22.13,206.8,North Bihar,0
+2021-08,Mahananda,19.65,224.1,East Bihar,0
+2021-08,Bagmati,16.75,0,North Bihar,0
+2021-08,Phalgu,12.7,22.8,South Bihar,0
+2021-08,Kosi,21.27,59.4,North Bihar,0
+2021-08,Burhi Gandak,15.03,14.5,North Bihar,0
+2021-08,Ganga,24.04,23.1,North Bihar,0
+2021-08,Punpun,12.65,2,Central Bihar,0
+2021-08,Kamla Balan,14.08,28.8,North Bihar,0
+2021-08,Kosi,22.16,25.2,North Bihar,0
+2021-08,Bagmati,17.27,34.1,North Bihar,0
+2021-08,Kosi,18.24,206.5,North Bihar,0
+2021-08,Sone,14,8.4,West Bihar,0
+2021-08,Kosi,20.95,19.1,East Bihar,0
+2021-08,Mahananda,17.96,99.7,East Bihar,0
+2021-08,Bagmati,21.99,13,North Bihar,0
+2021-09,Ganga,23.92,28.3,Central Bihar,0
+2021-09,Mahananda,17.2,186.1,East Bihar,0
+2021-09,Bagmati,21,10.6,North Bihar,0
+2021-09,Gandak,21.74,161.9,West Bihar,0
+2021-09,Kamla Balan,11.15,39.6,East Bihar,0
+2021-09,Ganga,26.93,18,Central Bihar,0
+2021-09,Kosi,23.28,232.1,North Bihar,0
+2021-09,Burhi Gandak,16.75,33.2,North Bihar,0
+2021-09,Phalgu,14.01,135.6,South Bihar,0
+2021-09,Phalgu,15.12,1.6,Central Bihar,0
+2021-09,Kamla Balan,13.51,123.7,North Bihar,0
+2021-09,Bagmati,18.15,0,North Bihar,0
+2021-09,Ganga,24.09,39.6,North Bihar,0
+2021-09,Kosi,20.73,26.6,East Bihar,0
+2021-09,Gandak,20.71,174.3,North Bihar,0
+2021-09,Bagmati,21.78,35.8,North Bihar,0
+2021-09,Mahananda,18.21,129.4,East Bihar,0
+2021-09,Gandak,21.39,26.2,North Bihar,0
+2021-09,Kamla Balan,16.9,153.1,North Bihar,1
+2021-09,Kosi,22.18,210.7,North Bihar,0
+2021-09,Phalgu,12.77,11.8,South Bihar,0
+2021-09,Mahananda,19.23,180.7,East Bihar,0
+2021-09,Mahananda,14.55,0,East Bihar,0
+2021-09,Mahananda,16.98,36.1,East Bihar,0
+2021-09,Sone,18.62,95,South Bihar,0
+2021-09,Burhi Gandak,17.13,144.2,North Bihar,0
+2021-09,Kamla Balan,13.6,34.7,North Bihar,0
+2021-09,Gandak,24.2,227.5,West Bihar,1
+2021-09,Sone,14.86,14.2,West Bihar,0
+2021-09,Gandak,20.35,29.2,North Bihar,0
+2021-09,Ganga,24.75,20.8,North Bihar,0
+2021-09,Mahananda,14.84,32.1,North Bihar,0
+2021-09,Mahananda,17.19,240.5,East Bihar,0
+2021-09,Kamla Balan,12.01,162.6,East Bihar,0
+2021-09,Gandak,22.29,8.7,North Bihar,0
+2021-09,Kamla Balan,11.76,85.6,North Bihar,0
+2021-09,Gandak,21.88,34.6,North Bihar,0
+2021-09,Kamla Balan,12.01,11.1,East Bihar,0
+2021-09,Phalgu,12.44,3.3,South Bihar,0
+2021-09,Ganga,25.79,17.3,North Bihar,0
+2021-09,Mahananda,19.87,52.9,East Bihar,0
+2021-09,Sone,19.28,33,South Bihar,0
+2021-09,Mahananda,17.85,34.6,North Bihar,0
+2021-09,Gandak,22.99,4.4,North Bihar,0
+2021-09,Phalgu,12.2,23,South Bihar,0
+2021-09,Kamla Balan,11.69,4.9,North Bihar,0
+2021-09,Gandak,23.77,90.1,North Bihar,0
+2021-09,Ganga,25.91,246,Central Bihar,0
+2021-09,Ganga,22.89,99.4,North Bihar,0
+2021-09,Punpun,17.01,214.1,South Bihar,0
+2021-09,Punpun,15,34.2,South Bihar,0
+2021-09,Kosi,25.83,50.7,North Bihar,0
+2021-09,Punpun,14.47,29.9,Central Bihar,0
+2021-09,Burhi Gandak,13.34,56.3,North Bihar,0
+2021-09,Bagmati,20.72,135.4,North Bihar,0
+2021-09,Kamla Balan,15.3,263.4,East Bihar,0
+2021-09,Ganga,23.82,26.5,North Bihar,0
+2021-09,Burhi Gandak,13.88,35.3,North Bihar,0
+2021-09,Gandak,22.59,86.8,North Bihar,0
+2021-09,Kosi,25.57,166,North Bihar,1
+2021-09,Phalgu,13.13,49.5,South Bihar,0
+2021-09,Gandak,21.14,35.7,West Bihar,0
+2021-09,Sone,19.84,147.1,West Bihar,0
+2021-09,Mahananda,15.59,30.9,North Bihar,0
+2021-09,Phalgu,12.29,14.5,South Bihar,0
+2021-09,Mahananda,17.83,37,East Bihar,0
+2021-09,Burhi Gandak,17,200.7,North Bihar,0
+2021-09,Kamla Balan,12.77,5.3,East Bihar,0
+2021-09,Kosi,21.76,16.3,North Bihar,0
+2021-09,Mahananda,18.17,104.4,East Bihar,0
+2021-09,Phalgu,10.71,36.9,South Bihar,0
+2021-09,Gandak,21.12,45.8,North Bihar,0
+2021-09,Punpun,10.33,6.5,South Bihar,0
+2021-09,Ganga,22.9,30,North Bihar,0
+2021-09,Sone,16.46,58.4,South Bihar,0
+2021-09,Burhi Gandak,17.06,197.6,North Bihar,0
+2021-09,Ganga,25.72,83.4,North Bihar,0
+2021-09,Gandak,19.73,14.5,North Bihar,0
+2021-09,Sone,17.57,19.7,West Bihar,0
+2021-09,Burhi Gandak,15.04,24.5,North Bihar,0
+2021-09,Gandak,17.62,0,North Bihar,0
+2021-09,Sone,17.95,11.3,South Bihar,0
+2021-09,Punpun,17.41,105.7,Central Bihar,0
+2021-09,Burhi Gandak,13.42,61.9,North Bihar,0
+2021-09,Ganga,26,228.2,Central Bihar,0
+2021-09,Ganga,26,37.3,North Bihar,0
+2021-09,Gandak,18.54,27.7,North Bihar,0
+2021-09,Kosi,21.81,34.5,North Bihar,0
+2021-09,Phalgu,13.34,54.4,South Bihar,0
+2021-09,Burhi Gandak,12.95,17.1,North Bihar,0
+2021-10,Ganga,27.83,34.3,North Bihar,0
+2021-10,Kosi,21.87,12,East Bihar,0
+2021-10,Phalgu,11.67,14.1,Central Bihar,0
+2021-10,Kosi,19.05,17.6,East Bihar,0
+2021-10,Phalgu,14.25,112.3,South Bihar,0
+2021-10,Ganga,26.55,160.4,North Bihar,0
+2021-10,Phalgu,10.5,24.1,Central Bihar,0
+2021-10,Kosi,25.57,27.3,North Bihar,0
+2021-10,Mahananda,19.1,17.7,East Bihar,0
+2021-10,Kosi,24.55,217.2,North Bihar,0
+2021-10,Phalgu,14.21,27.3,Central Bihar,0
+2021-10,Bagmati,19.27,53,North Bihar,0
+2021-10,Kosi,22.73,220.8,East Bihar,0
+2021-10,Kosi,23.77,129.3,North Bihar,0
+2021-10,Kosi,24.64,47.3,North Bihar,0
+2021-10,Burhi Gandak,19.02,86.8,North Bihar,0
+2021-10,Burhi Gandak,14.48,39.5,North Bihar,0
+2021-10,Punpun,14.85,28.1,South Bihar,0
+2021-10,Bagmati,19.74,241.6,North Bihar,0
+2021-10,Kosi,21.68,187.9,North Bihar,0
+2021-10,Punpun,15.89,42.9,South Bihar,0
+2021-10,Bagmati,24.33,219.4,North Bihar,1
+2021-10,Burhi Gandak,16.42,14.6,North Bihar,0
+2021-10,Ganga,26.4,49.8,Central Bihar,0
+2021-10,Kosi,20.58,41.7,North Bihar,0
+2021-10,Mahananda,18.18,232.1,North Bihar,0
+2021-10,Burhi Gandak,14.17,122.5,North Bihar,0
+2021-10,Sone,16.17,17.3,South Bihar,0
+2021-10,Punpun,11.05,20.6,South Bihar,0
+2021-10,Phalgu,11.58,20.7,South Bihar,0
+2021-10,Bagmati,15.31,25.3,North Bihar,0
+2021-10,Bagmati,20.26,195.3,North Bihar,0
+2021-10,Mahananda,17.93,175.1,North Bihar,0
+2021-10,Bagmati,19.34,41.7,North Bihar,0
+2021-10,Kamla Balan,15.84,92.9,East Bihar,0
+2021-10,Mahananda,13.07,38.9,East Bihar,0
+2021-10,Ganga,26.5,38.4,Central Bihar,0
+2021-10,Phalgu,14.64,117.2,South Bihar,0
+2021-11,Kosi,20.4,29.8,East Bihar,0
+2021-11,Phalgu,11.61,36.3,Central Bihar,0
+2021-11,Ganga,22.34,27.7,North Bihar,0
+2021-11,Kamla Balan,14.88,165.7,North Bihar,0
+2021-11,Punpun,12.85,24.3,South Bihar,0
+2021-11,Kosi,20.85,8.7,North Bihar,0
+2021-11,Mahananda,18.68,274.1,East Bihar,0
+2021-11,Gandak,19.51,181.4,North Bihar,0
+2021-11,Gandak,20.08,8.6,North Bihar,0
+2021-11,Burhi Gandak,15.39,27.1,North Bihar,0
+2021-11,Kamla Balan,12.04,0,North Bihar,0
+2021-11,Kosi,24.94,92.6,North Bihar,0
+2021-11,Sone,16.28,5.5,West Bihar,0
+2021-11,Ganga,21.97,23.8,Central Bihar,0
+2021-11,Sone,15.36,41.9,West Bihar,0
+2021-11,Ganga,25.97,10.7,North Bihar,0
+2021-11,Burhi Gandak,11.9,35.9,North Bihar,0
+2021-11,Burhi Gandak,13.61,12.6,North Bihar,0
+2021-11,Punpun,15.16,25.4,South Bihar,0
+2021-11,Ganga,27.26,200,North Bihar,0
+2021-11,Mahananda,13.82,24.2,East Bihar,0
+2021-11,Burhi Gandak,19.6,274.1,North Bihar,1
+2021-11,Bagmati,18.21,101.2,North Bihar,0
+2021-11,Kamla Balan,13,19.5,North Bihar,0
+2021-11,Mahananda,15.53,33.9,East Bihar,0
+2021-11,Bagmati,16.88,41.5,North Bihar,0
+2021-11,Gandak,16.21,37,North Bihar,0
+2021-11,Gandak,18.5,13,North Bihar,0
+2021-11,Burhi Gandak,16.47,22.1,North Bihar,0
+2021-11,Kamla Balan,13.01,27.4,North Bihar,0
+2021-11,Kosi,19.31,18.4,North Bihar,0
+2021-11,Sone,17.6,25.9,West Bihar,0
+2021-11,Sone,21,115.4,South Bihar,0
+2021-11,Gandak,22.32,0,North Bihar,0
+2021-12,Bagmati,19.2,28.5,North Bihar,0
+2021-12,Burhi Gandak,19.36,229.1,North Bihar,1
+2021-12,Mahananda,16.06,26.1,East Bihar,0
+2021-12,Gandak,22.89,13,North Bihar,0
+2021-12,Burhi Gandak,16.88,58.2,North Bihar,0
+2021-12,Burhi Gandak,16.01,19.1,North Bihar,0
+2021-12,Punpun,17.9,212.2,Central Bihar,0
+2021-12,Sone,16.61,0.9,South Bihar,0
+2021-12,Punpun,13.01,211.4,Central Bihar,0
+2021-12,Kosi,22.18,40.5,North Bihar,0
+2021-12,Kosi,22.39,176.9,North Bihar,0
+2021-12,Sone,17.96,232.1,South Bihar,0
+2021-12,Ganga,22.9,39.9,Central Bihar,0
+2021-12,Kamla Balan,10.05,39.4,East Bihar,0
+2021-12,Phalgu,14.69,154.3,Central Bihar,0
+2021-12,Mahananda,14.75,309.6,East Bihar,0
+2021-12,Gandak,24.92,238,North Bihar,1
+2021-12,Burhi Gandak,14.03,162,North Bihar,0
+2021-12,Ganga,28.52,133.3,Central Bihar,1
+2021-12,Punpun,14.97,39.9,South Bihar,0
+2021-12,Punpun,9.86,25.7,South Bihar,0
+2021-12,Ganga,20.74,13.9,North Bihar,0
+2021-12,Phalgu,14.32,39.5,South Bihar,0
+2021-12,Sone,16.81,37.2,South Bihar,0
+2021-12,Sone,16.96,17.8,South Bihar,0
+2021-12,Ganga,23.37,22.5,North Bihar,0
+2021-12,Kosi,22.88,34.9,North Bihar,0
+2021-12,Burhi Gandak,15.41,109.1,North Bihar,0
+2021-12,Mahananda,20.06,110,East Bihar,0
+2021-12,Kosi,22.29,0,North Bihar,0
+2021-12,Mahananda,19.27,215.4,North Bihar,0
+2021-12,Bagmati,19.59,28.6,North Bihar,0
+2021-12,Phalgu,18.76,218.6,South Bihar,1
+2021-12,Phalgu,10.66,36.3,Central Bihar,0
+2021-12,Mahananda,17.29,134.7,East Bihar,0
+2021-12,Punpun,16.95,214,Central Bihar,0
+2022-01,Gandak,21,15.6,North Bihar,0
+2022-01,Sone,18.16,38.5,West Bihar,0
+2022-01,Gandak,21.38,245.5,North Bihar,0
+2022-01,Kamla Balan,14.58,174.7,North Bihar,0
+2022-01,Sone,17.7,35.9,South Bihar,0
+2022-01,Gandak,19.17,30.1,North Bihar,0
+2022-01,Mahananda,18.7,135.7,North Bihar,0
+2022-01,Bagmati,19.91,17.6,North Bihar,0
+2022-01,Punpun,12.81,25.3,South Bihar,0
+2022-01,Burhi Gandak,15.02,26.1,North Bihar,0
+2022-01,Burhi Gandak,18.01,10.1,North Bihar,0
+2022-01,Burhi Gandak,14.81,8,North Bihar,0
+2022-01,Sone,21.21,239.7,South Bihar,1
+2022-01,Bagmati,18.38,232.1,North Bihar,0
+2022-01,Punpun,17.23,38.5,South Bihar,0
+2022-01,Phalgu,13.29,27.9,South Bihar,0
+2022-01,Kamla Balan,12.47,153.8,East Bihar,0
+2022-01,Ganga,25.47,17.3,North Bihar,0
+2022-01,Kosi,19.65,40.3,North Bihar,0
+2022-01,Phalgu,14.74,0,South Bihar,0
+2022-01,Sone,17.52,5.6,South Bihar,0
+2022-01,Kamla Balan,10.42,27.2,North Bihar,0
+2022-01,Kamla Balan,6.23,17.6,North Bihar,0
+2022-01,Phalgu,15.22,105,Central Bihar,0
+2022-01,Kamla Balan,14.43,1.8,North Bihar,0
+2022-01,Burhi Gandak,15.46,198,North Bihar,0
+2022-01,Kamla Balan,12.45,45.3,East Bihar,0
+2022-01,Kosi,20.82,5,North Bihar,0
+2022-01,Punpun,11.28,24.8,South Bihar,0
+2022-01,Phalgu,17.89,285.5,Central Bihar,1
+2022-01,Punpun,15.35,273.2,South Bihar,0
+2022-01,Bagmati,18.52,25.9,North Bihar,0
+2022-01,Kamla Balan,11.2,172.1,North Bihar,0
+2022-01,Mahananda,15.13,0,East Bihar,0
+2022-01,Punpun,12.82,0,South Bihar,0
+2022-01,Burhi Gandak,16.97,167.4,North Bihar,0
+2022-01,Punpun,13.28,53.6,Central Bihar,0
+2022-01,Sone,15.29,25.1,South Bihar,0
+2022-01,Ganga,21.31,18.6,North Bihar,0
+2022-01,Punpun,12.1,17.5,Central Bihar,0
+2022-01,Phalgu,14.32,53.6,South Bihar,0
+2022-01,Gandak,20.15,30.8,West Bihar,0
+2022-01,Sone,17.93,21.6,South Bihar,0
+2022-02,Bagmati,19.35,184.2,North Bihar,0
+2022-02,Punpun,14.51,23.4,South Bihar,0
+2022-02,Punpun,14.54,48.2,Central Bihar,0
+2022-02,Mahananda,17.89,171.2,East Bihar,0
+2022-02,Ganga,28.06,107.9,North Bihar,0
+2022-02,Kamla Balan,10.75,187.4,North Bihar,0
+2022-02,Sone,19.78,8.3,West Bihar,0
+2022-02,Phalgu,13.08,36.4,South Bihar,0
+2022-02,Burhi Gandak,19.15,185.5,North Bihar,1
+2022-02,Gandak,18.8,21.4,North Bihar,0
+2022-02,Kosi,22.33,171.3,North Bihar,0
+2022-02,Punpun,17.16,244.3,South Bihar,0
+2022-02,Kosi,23.76,149.8,North Bihar,0
+2022-02,Phalgu,15.12,154.2,South Bihar,0
+2022-02,Kamla Balan,13.49,193.8,North Bihar,0
+2022-02,Gandak,19.55,163,North Bihar,0
+2022-02,Mahananda,18.05,39.8,East Bihar,0
+2022-02,Gandak,18.28,25,North Bihar,0
+2022-02,Phalgu,11.38,115.8,South Bihar,0
+2022-02,Phalgu,14.01,49.4,South Bihar,0
+2022-02,Mahananda,17.57,37.1,East Bihar,0
+2022-02,Burhi Gandak,16.73,215.2,North Bihar,0
+2022-02,Burhi Gandak,15.35,117.6,North Bihar,0
+2022-02,Bagmati,15.83,45.6,North Bihar,0
+2022-02,Kamla Balan,10.09,88.6,North Bihar,0
+2022-02,Kosi,18.85,24.2,North Bihar,0
+2022-02,Bagmati,16.08,39.1,North Bihar,0
+2022-02,Mahananda,15.22,17.7,East Bihar,0
+2022-02,Bagmati,18.92,16.9,North Bihar,0
+2022-02,Phalgu,14.6,119.8,Central Bihar,0
+2022-02,Gandak,19.68,24.7,North Bihar,0
+2022-02,Kosi,20.51,27.5,North Bihar,0
+2022-02,Mahananda,16.71,6.8,North Bihar,0
+2022-02,Sone,19.6,31.9,South Bihar,0
+2022-03,Kosi,25.14,150.4,North Bihar,1
+2022-03,Punpun,10.71,45.8,Central Bihar,0
+2022-03,Burhi Gandak,16.47,19.6,North Bihar,0
+2022-03,Punpun,14.37,35.9,South Bihar,0
+2022-03,Ganga,21.83,33.2,North Bihar,0
+2022-03,Kamla Balan,12.8,22.7,North Bihar,0
+2022-03,Mahananda,15.7,31.1,East Bihar,0
+2022-03,Mahananda,16.78,253.4,East Bihar,0
+2022-03,Punpun,12.09,28.9,Central Bihar,0
+2022-03,Phalgu,16.7,28.4,South Bihar,0
+2022-03,Kamla Balan,12.9,22.4,East Bihar,0
+2022-03,Burhi Gandak,16.4,33.4,North Bihar,0
+2022-03,Mahananda,14.85,105,North Bihar,0
+2022-03,Mahananda,16.13,41.8,East Bihar,0
+2022-03,Kosi,23.96,238.4,North Bihar,0
+2022-03,Punpun,18.4,170.6,South Bihar,1
+2022-03,Gandak,23.24,238,North Bihar,0
+2022-03,Bagmati,21.99,198.8,North Bihar,0
+2022-03,Kamla Balan,12.48,0,North Bihar,0
+2022-03,Kosi,20.15,37.2,North Bihar,0
+2022-03,Burhi Gandak,17.84,32.6,North Bihar,0
+2022-03,Mahananda,17.81,198.7,North Bihar,0
+2022-03,Burhi Gandak,15.87,154.3,North Bihar,0
+2022-03,Burhi Gandak,18.67,6,North Bihar,0
+2022-03,Burhi Gandak,13.56,160,North Bihar,0
+2022-03,Bagmati,17.89,267.4,North Bihar,0
+2022-03,Ganga,23.58,9.6,North Bihar,0
+2022-03,Gandak,17.56,18.9,West Bihar,0
+2022-03,Gandak,16.53,31.8,North Bihar,0
+2022-03,Kamla Balan,11.63,84.7,North Bihar,0
+2022-03,Mahananda,18.96,162.6,East Bihar,0
+2022-03,Burhi Gandak,15.36,43.6,North Bihar,0
+2022-03,Kamla Balan,13.8,185.4,North Bihar,0
+2022-03,Punpun,15.15,25.2,South Bihar,0
+2022-03,Kosi,23.09,3.2,East Bihar,0
+2022-03,Mahananda,15.38,29,North Bihar,0
+2022-03,Kosi,22.49,57,North Bihar,0
+2022-03,Burhi Gandak,15.27,241.6,North Bihar,0
+2022-03,Ganga,21.09,10.1,Central Bihar,0
+2022-03,Punpun,15.3,25.8,South Bihar,0
+2022-03,Punpun,15.34,30.5,Central Bihar,0
+2022-03,Kamla Balan,12.61,158.6,East Bihar,0
+2022-03,Bagmati,19.64,185.6,North Bihar,0
+2022-03,Kamla Balan,10.75,39.3,North Bihar,0
+2022-03,Kosi,19.68,35.8,East Bihar,0
+2022-03,Phalgu,12.87,263.2,Central Bihar,0
+2022-03,Sone,17.87,33,South Bihar,0
+2022-03,Kosi,19.51,25.3,North Bihar,0
+2022-03,Mahananda,17.26,264.2,East Bihar,0
+2022-03,Bagmati,20.94,22.7,North Bihar,0
+2022-03,Phalgu,15.89,28.7,Central Bihar,0
+2022-03,Bagmati,16.03,139.4,North Bihar,0
+2022-04,Punpun,13.48,23.1,South Bihar,0
+2022-04,Punpun,19.14,133.7,South Bihar,1
+2022-04,Bagmati,17.96,30.4,North Bihar,0
+2022-04,Punpun,13.84,213.1,South Bihar,0
+2022-04,Kosi,18.99,204.8,East Bihar,0
+2022-04,Bagmati,20.17,46.8,North Bihar,0
+2022-04,Phalgu,17.71,147.9,Central Bihar,1
+2022-04,Mahananda,17.85,267.3,East Bihar,0
+2022-04,Sone,17.22,51.5,West Bihar,0
+2022-04,Bagmati,18.34,20.9,North Bihar,0
+2022-04,Kosi,20.07,21.8,North Bihar,0
+2022-04,Sone,19.99,45.6,West Bihar,0
+2022-04,Ganga,26.84,220.6,Central Bihar,0
+2022-04,Punpun,13.22,27.6,Central Bihar,0
+2022-04,Phalgu,17.08,129.6,South Bihar,1
+2022-04,Kamla Balan,12.89,9.3,East Bihar,0
+2022-04,Bagmati,17.99,23.6,North Bihar,0
+2022-04,Bagmati,18.4,32.8,North Bihar,0
+2022-04,Kosi,23.37,240.4,East Bihar,0
+2022-04,Gandak,17.38,27.6,North Bihar,0
+2022-04,Kosi,22.77,35.3,East Bihar,0
+2022-04,Sone,17.1,151.3,South Bihar,0
+2022-04,Phalgu,14.42,19.8,Central Bihar,0
+2022-04,Burhi Gandak,15.66,40.5,North Bihar,0
+2022-04,Bagmati,16.6,25,North Bihar,0
+2022-04,Phalgu,15.21,35.4,South Bihar,0
+2022-04,Burhi Gandak,14.07,11,North Bihar,0
+2022-04,Punpun,12.86,37.5,South Bihar,0
+2022-04,Mahananda,17.5,180.7,East Bihar,0
+2022-04,Kamla Balan,12.15,48.1,East Bihar,0
+2022-04,Ganga,23.94,9.8,Central Bihar,0
+2022-04,Bagmati,20.46,13.1,North Bihar,0
+2022-04,Gandak,21.48,20.6,North Bihar,0
+2022-04,Punpun,12.3,55,South Bihar,0
+2022-04,Kamla Balan,14.04,46.8,East Bihar,0
+2022-04,Burhi Gandak,14.87,10.4,North Bihar,0
+2022-04,Gandak,22.8,40.3,West Bihar,0
+2022-04,Kosi,20.04,18.2,North Bihar,0
+2022-04,Kosi,19.65,24.7,North Bihar,0
+2022-04,Kosi,24.04,56.1,North Bihar,0
+2022-04,Gandak,20.1,30.3,North Bihar,0
+2022-04,Punpun,9.71,29.9,South Bihar,0
+2022-04,Kosi,21.32,68.9,East Bihar,0
+2022-04,Burhi Gandak,17.33,18.9,North Bihar,0
+2022-04,Bagmati,15.89,111.3,North Bihar,0
+2022-04,Ganga,23.09,13.8,North Bihar,0
+2022-04,Gandak,20.09,165.8,North Bihar,0
+2022-04,Kamla Balan,11.59,27.1,East Bihar,0
+2022-05,Kosi,19.56,4.8,North Bihar,0
+2022-05,Kosi,20.09,21.2,East Bihar,0
+2022-05,Sone,16.12,147.2,West Bihar,0
+2022-05,Mahananda,20.66,34.8,East Bihar,0
+2022-05,Gandak,20.62,95.7,North Bihar,0
+2022-05,Sone,22.6,238.3,West Bihar,1
+2022-05,Burhi Gandak,16.18,84.7,North Bihar,0
+2022-05,Bagmati,17.34,157.6,North Bihar,0
+2022-05,Sone,18.84,16.1,South Bihar,0
+2022-05,Burhi Gandak,19.18,144.6,North Bihar,1
+2022-05,Burhi Gandak,16.12,149,North Bihar,0
+2022-05,Phalgu,14.56,81.7,Central Bihar,0
+2022-05,Kamla Balan,15.43,163.4,North Bihar,0
+2022-05,Sone,17.09,23.1,South Bihar,0
+2022-05,Punpun,18.75,225.8,Central Bihar,1
+2022-05,Kosi,19.06,33.4,North Bihar,0
+2022-05,Kosi,24.34,157.3,North Bihar,0
+2022-05,Punpun,17.2,13.4,South Bihar,0
+2022-05,Kosi,17.74,8.3,East Bihar,0
+2022-05,Phalgu,12.58,175.9,South Bihar,0
+2022-05,Sone,16.25,5.6,South Bihar,0
+2022-05,Phalgu,14.35,10.7,Central Bihar,0
+2022-05,Mahananda,16.82,17.8,North Bihar,0
+2022-05,Burhi Gandak,13.83,23.1,North Bihar,0
+2022-05,Sone,16.06,14.1,South Bihar,0
+2022-05,Mahananda,17.81,13.6,East Bihar,0
+2022-05,Kosi,18.45,57.9,North Bihar,0
+2022-05,Sone,22,249.7,West Bihar,1
+2022-05,Mahananda,17.13,33.5,North Bihar,0
+2022-05,Bagmati,16.84,31.3,North Bihar,0
+2022-05,Burhi Gandak,17.31,266.2,North Bihar,0
+2022-05,Gandak,18.61,29.6,North Bihar,0
+2022-05,Kosi,23.84,280.1,North Bihar,0
+2022-05,Mahananda,14.64,14.3,East Bihar,0
+2022-05,Kosi,22.07,20.1,North Bihar,0
+2022-05,Punpun,15.36,117.7,South Bihar,0
+2022-05,Gandak,19.76,20,West Bihar,0
+2022-05,Punpun,13.85,48.6,Central Bihar,0
+2022-05,Kamla Balan,12.4,31.8,North Bihar,0
+2022-05,Burhi Gandak,16.48,221.5,North Bihar,0
+2022-05,Bagmati,19.94,208.8,North Bihar,0
+2022-05,Mahananda,16.69,21,East Bihar,0
+2022-05,Sone,16.56,25.2,South Bihar,0
+2022-05,Phalgu,9.02,18.5,Central Bihar,0
+2022-06,Gandak,25.16,269.3,North Bihar,1
+2022-06,Kamla Balan,14.2,112.5,East Bihar,0
+2022-06,Kosi,22.08,28.5,East Bihar,0
+2022-06,Kosi,24.38,170.5,East Bihar,0
+2022-06,Mahananda,16.4,0,East Bihar,0
+2022-06,Bagmati,20.19,117.5,North Bihar,0
+2022-06,Kosi,22.89,208.3,East Bihar,0
+2022-06,Mahananda,16.67,8.3,North Bihar,0
+2022-06,Phalgu,12.82,30.6,Central Bihar,0
+2022-06,Sone,19.83,32.7,South Bihar,0
+2022-06,Burhi Gandak,14.95,46.2,North Bihar,0
+2022-06,Gandak,20.81,15.3,North Bihar,0
+2022-06,Gandak,22.85,163.1,North Bihar,0
+2022-06,Burhi Gandak,16.21,105.9,North Bihar,0
+2022-06,Burhi Gandak,18.99,272,North Bihar,0
+2022-06,Kamla Balan,12.55,175.9,East Bihar,0
+2022-06,Kamla Balan,11.28,20.5,North Bihar,0
+2022-06,Sone,14.91,19.3,South Bihar,0
+2022-06,Sone,17.62,288.6,South Bihar,0
+2022-06,Phalgu,10.82,45.1,South Bihar,0
+2022-06,Bagmati,19.21,37.3,North Bihar,0
+2022-06,Burhi Gandak,18.31,34.7,North Bihar,0
+2022-06,Punpun,13.72,36.6,South Bihar,0
+2022-06,Kosi,19.93,34.1,North Bihar,0
+2022-06,Gandak,22.13,17.1,North Bihar,0
+2022-06,Punpun,10.43,44.3,South Bihar,0
+2022-06,Bagmati,19.09,129.2,North Bihar,0
+2022-06,Gandak,22.42,137,North Bihar,0
+2022-06,Phalgu,15.02,9.4,South Bihar,0
+2022-06,Mahananda,13.29,44.6,North Bihar,0
+2022-06,Mahananda,18.84,132.9,East Bihar,0
+2022-06,Punpun,11.23,48.1,Central Bihar,0
+2022-06,Kosi,23.7,1.7,North Bihar,0
+2022-06,Bagmati,18.99,51.1,North Bihar,0
+2022-06,Bagmati,19.62,19.9,North Bihar,0
+2022-06,Kosi,22.71,216.7,North Bihar,0
+2022-06,Burhi Gandak,16.2,265.2,North Bihar,0
+2022-06,Punpun,15.05,29.5,Central Bihar,0
+2022-06,Kamla Balan,12.43,43.8,North Bihar,0
+2022-06,Kamla Balan,14.97,0.3,North Bihar,0
+2022-06,Burhi Gandak,14.63,27.1,North Bihar,0
+2022-06,Burhi Gandak,16.36,62,North Bihar,0
+2022-06,Gandak,18.09,33.3,West Bihar,0
+2022-06,Bagmati,17.53,33.2,North Bihar,0
+2022-06,Bagmati,18.45,222.1,North Bihar,0
+2022-06,Bagmati,21.1,10.9,North Bihar,0
+2022-06,Phalgu,13.71,0,South Bihar,0
+2022-06,Kosi,20.77,38.2,North Bihar,0
+2022-06,Bagmati,19.81,40.5,North Bihar,0
+2022-06,Phalgu,15.63,24.2,Central Bihar,0
+2022-06,Ganga,23.49,170.3,North Bihar,0
+2022-06,Bagmati,17.04,24,North Bihar,0
+2022-06,Kamla Balan,12.43,100.8,North Bihar,0
+2022-06,Phalgu,13.43,29.2,Central Bihar,0
+2022-06,Punpun,13.66,7.5,South Bihar,0
+2022-06,Kamla Balan,12.39,7,East Bihar,0
+2022-06,Kosi,19.85,18.5,North Bihar,0
+2022-06,Kamla Balan,15.41,131,North Bihar,0
+2022-06,Gandak,17.81,29,West Bihar,0
+2022-06,Burhi Gandak,16.01,104.4,North Bihar,0
+2022-06,Mahananda,11.32,10,East Bihar,0
+2022-06,Kosi,22.72,40,North Bihar,0
+2022-06,Burhi Gandak,14.14,30.9,North Bihar,0
+2022-06,Phalgu,16.8,184.1,South Bihar,0
+2022-06,Bagmati,19.48,191,North Bihar,0
+2022-06,Kamla Balan,9.15,246.3,North Bihar,0
+2022-06,Punpun,13.35,45,Central Bihar,0
+2022-06,Burhi Gandak,17.06,11.9,North Bihar,0
+2022-06,Phalgu,12.91,119.7,Central Bihar,0
+2022-06,Kamla Balan,12.23,33.3,North Bihar,0
+2022-06,Phalgu,12.64,0,Central Bihar,0
+2022-06,Phalgu,15.69,223.3,South Bihar,0
+2022-06,Punpun,19.84,212.8,Central Bihar,1
+2022-06,Phalgu,15.21,225.4,South Bihar,0
+2022-06,Bagmati,15.5,28.3,North Bihar,0
+2022-06,Kosi,22.18,174.2,East Bihar,0
+2022-06,Kamla Balan,11.06,346.3,North Bihar,0
+2022-06,Bagmati,17.68,36.8,North Bihar,0
+2022-06,Sone,19.69,332.5,South Bihar,0
+2022-06,Kosi,19.58,27.5,North Bihar,0
+2022-06,Kosi,23.96,74.5,East Bihar,0
+2022-06,Sone,20.49,183.6,West Bihar,0
+2022-06,Mahananda,15.81,100.2,North Bihar,0
+2022-06,Gandak,19.25,206,North Bihar,0
+2022-06,Mahananda,16.62,10,North Bihar,0
+2022-06,Mahananda,16.04,50.5,North Bihar,0
+2022-06,Sone,18.1,12.4,South Bihar,0
+2022-06,Mahananda,16.6,140.3,East Bihar,0
+2022-06,Mahananda,13.28,26.1,East Bihar,0
+2022-06,Bagmati,18.45,47.5,North Bihar,0
+2022-06,Ganga,25.39,28,Central Bihar,0
+2022-07,Bagmati,21.02,200.4,North Bihar,0
+2022-07,Burhi Gandak,14.29,20.3,North Bihar,0
+2022-07,Bagmati,21.41,189.9,North Bihar,0
+2022-07,Sone,18.42,30.5,South Bihar,0
+2022-07,Punpun,12.37,42.2,South Bihar,0
+2022-07,Gandak,21.03,15.7,North Bihar,0
+2022-07,Kosi,22.79,52.1,North Bihar,0
+2022-07,Mahananda,13.75,38.8,East Bihar,0
+2022-07,Sone,20.57,3.8,South Bihar,0
+2022-07,Phalgu,15.98,30,Central Bihar,0
+2022-07,Sone,18.72,25.7,West Bihar,0
+2022-07,Bagmati,19.5,289.2,North Bihar,0
+2022-07,Mahananda,19.59,251.4,East Bihar,0
+2022-07,Kamla Balan,14.31,186.8,East Bihar,0
+2022-07,Phalgu,9.17,45.1,South Bihar,0
+2022-07,Kosi,20.37,7.2,North Bihar,0
+2022-07,Burhi Gandak,16.58,25.3,North Bihar,0
+2022-07,Burhi Gandak,16.37,1.7,North Bihar,0
+2022-07,Bagmati,18.33,18,North Bihar,0
+2022-07,Phalgu,11.36,19.3,Central Bihar,0
+2022-07,Gandak,19.41,0,West Bihar,0
+2022-07,Burhi Gandak,12.02,11.5,North Bihar,0
+2022-07,Phalgu,11.08,4.5,Central Bihar,0
+2022-07,Punpun,14.7,192.9,South Bihar,0
+2022-07,Phalgu,15.14,279.3,Central Bihar,0
+2022-07,Kosi,22.29,18.5,North Bihar,0
+2022-07,Sone,13.77,34,West Bihar,0
+2022-07,Sone,16.78,55.2,West Bihar,0
+2022-07,Mahananda,15.71,166.8,North Bihar,0
+2022-07,Ganga,23.08,0,Central Bihar,0
+2022-07,Mahananda,14.25,15.8,East Bihar,0
+2022-07,Sone,17.4,24.8,West Bihar,0
+2022-07,Ganga,25.38,16.5,North Bihar,0
+2022-07,Kosi,20.66,49.9,North Bihar,0
+2022-07,Punpun,12.53,143,South Bihar,0
+2022-07,Phalgu,18.82,235.4,Central Bihar,1
+2022-07,Ganga,23.96,185.4,Central Bihar,0
+2022-07,Burhi Gandak,15.53,64.1,North Bihar,0
+2022-07,Phalgu,9.68,0,South Bihar,0
+2022-07,Kosi,19.71,33.3,East Bihar,0
+2022-07,Burhi Gandak,19.3,169.1,North Bihar,1
+2022-07,Burhi Gandak,13.75,291.4,North Bihar,0
+2022-07,Mahananda,17.99,7.5,East Bihar,0
+2022-07,Kamla Balan,12.36,47.8,North Bihar,0
+2022-07,Burhi Gandak,20.87,202.8,North Bihar,1
+2022-07,Gandak,17.55,53.6,West Bihar,0
+2022-07,Sone,17.06,42.7,South Bihar,0
+2022-07,Kamla Balan,12.32,9.8,North Bihar,0
+2022-07,Punpun,14.33,34.4,Central Bihar,0
+2022-07,Gandak,19.44,29.1,West Bihar,0
+2022-07,Kosi,24.39,106,North Bihar,0
+2022-07,Punpun,17.17,15.1,South Bihar,0
+2022-07,Sone,19.97,355,South Bihar,0
+2022-07,Gandak,20.09,24.9,North Bihar,0
+2022-07,Kosi,21.51,133.9,North Bihar,0
+2022-07,Kamla Balan,12.64,194.7,North Bihar,0
+2022-07,Sone,19.29,41,South Bihar,0
+2022-07,Bagmati,17.52,16,North Bihar,0
+2022-07,Burhi Gandak,12.99,29.6,North Bihar,0
+2022-07,Ganga,25.21,28.9,North Bihar,0
+2022-07,Sone,20.37,22.7,South Bihar,0
+2022-07,Kosi,23.63,9.2,North Bihar,0
+2022-07,Kosi,23.94,160.7,North Bihar,0
+2022-07,Mahananda,18.08,1.5,North Bihar,0
+2022-07,Ganga,22.03,25.8,Central Bihar,0
+2022-07,Burhi Gandak,14.83,277.9,North Bihar,0
+2022-07,Punpun,16.42,11,South Bihar,0
+2022-07,Mahananda,16.44,53.8,East Bihar,0
+2022-07,Kamla Balan,12.9,51.8,North Bihar,0
+2022-07,Punpun,13.59,176.5,South Bihar,0
+2022-07,Punpun,15.26,237.3,South Bihar,0
+2022-07,Kamla Balan,10.93,36.8,North Bihar,0
+2022-07,Gandak,19.21,36.8,West Bihar,0
+2022-07,Gandak,21.79,29.1,West Bihar,0
+2022-07,Sone,14.47,28,West Bihar,0
+2022-07,Gandak,21.77,65.8,North Bihar,0
+2022-07,Burhi Gandak,15.07,146.3,North Bihar,0
+2022-07,Mahananda,15.82,27.4,North Bihar,0
+2022-07,Bagmati,21.91,182.9,North Bihar,0
+2022-07,Kamla Balan,12.43,13.5,East Bihar,0
+2022-07,Mahananda,20.59,286.4,East Bihar,1
+2022-07,Punpun,12.61,17.8,South Bihar,0
+2022-07,Kosi,21.32,24.7,North Bihar,0
+2022-07,Ganga,26.33,42.8,Central Bihar,0
+2022-07,Ganga,25.21,158.2,North Bihar,0
+2022-08,Ganga,26.65,196.7,North Bihar,0
+2022-08,Ganga,23.13,9.4,North Bihar,0
+2022-08,Punpun,14.38,13.4,South Bihar,0
+2022-08,Bagmati,18.56,154,North Bihar,0
+2022-08,Gandak,18.69,23.4,North Bihar,0
+2022-08,Gandak,21.04,40.4,West Bihar,0
+2022-08,Kosi,24.31,257.2,North Bihar,0
+2022-08,Kosi,24.55,190.2,North Bihar,0
+2022-08,Phalgu,12.09,132.1,South Bihar,0
+2022-08,Bagmati,15.39,0,North Bihar,0
+2022-08,Ganga,21.52,0,North Bihar,0
+2022-08,Kamla Balan,12.34,35.2,North Bihar,0
+2022-08,Mahananda,16.21,36.2,East Bihar,0
+2022-08,Kamla Balan,12.16,267.6,East Bihar,0
+2022-08,Kosi,21.97,120.4,North Bihar,0
+2022-08,Mahananda,15.85,197,East Bihar,0
+2022-08,Bagmati,19.31,12.2,North Bihar,0
+2022-08,Mahananda,16.16,23.5,North Bihar,0
+2022-08,Burhi Gandak,17.36,28.8,North Bihar,0
+2022-08,Mahananda,17.07,15.6,East Bihar,0
+2022-08,Kamla Balan,14.55,26.3,North Bihar,0
+2022-08,Sone,22.84,186.7,South Bihar,1
+2022-08,Burhi Gandak,16.45,20.9,North Bihar,0
+2022-08,Gandak,20.5,31,North Bihar,0
+2022-08,Gandak,22.17,134.4,West Bihar,0
+2022-08,Kosi,19.48,32.5,North Bihar,0
+2022-08,Burhi Gandak,16.33,252.3,North Bihar,0
+2022-08,Sone,16.3,25.5,South Bihar,0
+2022-08,Sone,21.17,172,South Bihar,1
+2022-08,Punpun,13.76,15.9,South Bihar,0
+2022-08,Gandak,19.19,24.3,North Bihar,0
+2022-08,Mahananda,19.54,111.4,East Bihar,0
+2022-08,Kamla Balan,6.79,14.1,North Bihar,0
+2022-08,Sone,17.5,18.3,South Bihar,0
+2022-08,Punpun,10.44,34.3,South Bihar,0
+2022-08,Phalgu,13.85,195,South Bihar,0
+2022-08,Mahananda,19.36,142.4,North Bihar,0
+2022-08,Gandak,20.26,230.9,West Bihar,0
+2022-08,Gandak,20.43,0,North Bihar,0
+2022-08,Burhi Gandak,11.26,39.9,North Bihar,0
+2022-08,Punpun,13.19,51,South Bihar,0
+2022-08,Bagmati,19.82,236.3,North Bihar,0
+2022-08,Ganga,24.94,171.9,North Bihar,0
+2022-08,Sone,17.56,91.5,South Bihar,0
+2022-08,Kamla Balan,13.53,35,East Bihar,0
+2022-08,Kosi,21.5,56.1,North Bihar,0
+2022-08,Sone,16.57,32.5,West Bihar,0
+2022-08,Kosi,18.22,0,North Bihar,0
+2022-08,Gandak,22.9,40.6,North Bihar,0
+2022-08,Gandak,23.63,15,North Bihar,0
+2022-08,Punpun,13.92,36,South Bihar,0
+2022-08,Mahananda,16.98,24.4,East Bihar,0
+2022-08,Kamla Balan,15.59,196.2,North Bihar,0
+2022-08,Sone,15.66,25.3,West Bihar,0
+2022-08,Phalgu,14.07,31,South Bihar,0
+2022-08,Sone,14.76,37.3,South Bihar,0
+2022-08,Bagmati,15.78,43.1,North Bihar,0
+2022-08,Mahananda,16.84,47.4,East Bihar,0
+2022-08,Bagmati,17.54,17,North Bihar,0
+2022-08,Gandak,20.49,42.2,North Bihar,0
+2022-08,Bagmati,20.81,169.1,North Bihar,0
+2022-08,Ganga,25.59,261.7,Central Bihar,0
+2022-08,Punpun,11.13,167.8,South Bihar,0
+2022-08,Sone,15.15,6.5,West Bihar,0
+2022-08,Kamla Balan,11.42,41.4,East Bihar,0
+2022-08,Mahananda,12.74,23.1,East Bihar,0
+2022-08,Kosi,21.56,154.9,East Bihar,0
+2022-08,Kamla Balan,9.68,23.4,East Bihar,0
+2022-08,Bagmati,17.24,153.4,North Bihar,0
+2022-08,Kosi,18.95,0,East Bihar,0
+2022-08,Gandak,21.56,245.7,North Bihar,0
+2022-08,Kamla Balan,13.74,13,North Bihar,0
+2022-08,Sone,18.68,24.4,West Bihar,0
+2022-08,Kamla Balan,15.87,233.4,North Bihar,0
+2022-08,Mahananda,17.75,34.5,East Bihar,0
+2022-08,Punpun,11.99,2.9,South Bihar,0
+2022-08,Ganga,24.59,10.4,North Bihar,0
+2022-08,Punpun,14.98,32.3,South Bihar,0
+2022-08,Mahananda,18.65,33,East Bihar,0
+2022-08,Ganga,27.46,151.9,North Bihar,0
+2022-08,Sone,19.5,106.5,West Bihar,0
+2022-08,Punpun,9.05,24.5,South Bihar,0
+2022-08,Burhi Gandak,13.38,154.1,North Bihar,0
+2022-08,Mahananda,16.65,124.4,North Bihar,0
+2022-08,Mahananda,17.22,16.3,East Bihar,0
+2022-08,Sone,16.18,25.3,South Bihar,0
+2022-08,Gandak,22.2,260.2,West Bihar,0
+2022-08,Kamla Balan,13.01,160,North Bihar,0
+2022-08,Ganga,24.25,39.2,North Bihar,0
+2022-08,Punpun,14.43,36.8,South Bihar,0
+2022-08,Kosi,23.55,51.4,North Bihar,0
+2022-08,Ganga,26.45,33.8,North Bihar,0
+2022-08,Phalgu,12.2,39.7,South Bihar,0
+2022-08,Sone,18.11,58.8,South Bihar,0
+2022-08,Sone,19.06,25.4,South Bihar,0
+2022-08,Phalgu,14.33,32.1,Central Bihar,0
+2022-08,Mahananda,19.09,23.5,East Bihar,0
+2022-08,Punpun,13.99,28.9,South Bihar,0
+2022-08,Burhi Gandak,14.88,35,North Bihar,0
+2022-08,Phalgu,15.83,24.2,South Bihar,0
+2022-09,Sone,17.92,35.3,South Bihar,0
+2022-09,Phalgu,14.2,94,South Bihar,0
+2022-09,Phalgu,14.53,256.2,South Bihar,0
+2022-09,Ganga,23.16,0,North Bihar,0
+2022-09,Kosi,24.24,170.6,North Bihar,0
+2022-09,Phalgu,11.88,28.8,South Bihar,0
+2022-09,Punpun,12.35,16.2,South Bihar,0
+2022-09,Sone,14.88,104.3,South Bihar,0
+2022-09,Burhi Gandak,15.5,13.5,North Bihar,0
+2022-09,Burhi Gandak,14.87,186.4,North Bihar,0
+2022-09,Mahananda,15.66,232.4,East Bihar,0
+2022-09,Kosi,22.94,282.3,North Bihar,0
+2022-09,Phalgu,13.76,14.5,South Bihar,0
+2022-09,Punpun,18.29,29,South Bihar,0
+2022-09,Bagmati,20.66,32,North Bihar,0
+2022-09,Bagmati,20.98,50.9,North Bihar,0
+2022-09,Mahananda,18.89,129.6,East Bihar,0
+2022-09,Burhi Gandak,13.26,32.9,North Bihar,0
+2022-09,Bagmati,21.42,49.3,North Bihar,0
+2022-09,Kosi,27.99,250.8,North Bihar,1
+2022-09,Sone,20.09,37.7,South Bihar,0
+2022-09,Phalgu,11.6,25,South Bihar,0
+2022-09,Gandak,16.41,16.4,North Bihar,0
+2022-09,Kamla Balan,11.95,43.2,North Bihar,0
+2022-09,Mahananda,16.69,10.7,East Bihar,0
+2022-09,Sone,20.11,159.7,South Bihar,0
+2022-09,Burhi Gandak,14.6,45.6,North Bihar,0
+2022-09,Burhi Gandak,16.16,6.5,North Bihar,0
+2022-09,Burhi Gandak,15.97,25.9,North Bihar,0
+2022-09,Kosi,20.61,15.6,North Bihar,0
+2022-09,Kosi,22.99,142.4,North Bihar,0
+2022-09,Sone,16.18,21.7,South Bihar,0
+2022-09,Phalgu,14.86,97.5,South Bihar,0
+2022-09,Punpun,14.75,224.3,South Bihar,0
+2022-09,Mahananda,17.19,18.3,North Bihar,0
+2022-09,Kosi,24.52,34.9,North Bihar,0
+2022-09,Phalgu,11.74,39.2,South Bihar,0
+2022-09,Mahananda,19.7,165.4,East Bihar,0
+2022-09,Gandak,18.23,40.1,North Bihar,0
+2022-09,Mahananda,17.91,28.2,North Bihar,0
+2022-09,Burhi Gandak,19.25,13.4,North Bihar,0
+2022-09,Phalgu,12.85,152,South Bihar,0
+2022-09,Punpun,16.15,25.4,South Bihar,0
+2022-09,Kamla Balan,11.19,178,North Bihar,0
+2022-09,Kamla Balan,9.34,33,East Bihar,0
+2022-09,Bagmati,17.07,19.8,North Bihar,0
+2022-09,Phalgu,9.95,24.6,South Bihar,0
+2022-09,Mahananda,16.61,38.6,East Bihar,0
+2022-09,Kamla Balan,12.48,164.4,North Bihar,0
+2022-09,Sone,21.97,46,West Bihar,0
+2022-09,Burhi Gandak,13.82,106.3,North Bihar,0
+2022-09,Phalgu,15.18,174,South Bihar,0
+2022-09,Bagmati,18.99,197.9,North Bihar,0
+2022-09,Sone,19.18,175.4,South Bihar,0
+2022-09,Sone,18.55,224.2,South Bihar,0
+2022-09,Gandak,21.16,169,West Bihar,0
+2022-09,Punpun,13.75,187.2,South Bihar,0
+2022-09,Bagmati,18.07,63.7,North Bihar,0
+2022-09,Bagmati,17.51,27.4,North Bihar,0
+2022-09,Burhi Gandak,14.11,155.3,North Bihar,0
+2022-09,Punpun,15.73,22,South Bihar,0
+2022-09,Ganga,23.13,43,North Bihar,0
+2022-09,Kamla Balan,14.87,178.6,North Bihar,0
+2022-09,Ganga,23.91,21,North Bihar,0
+2022-09,Mahananda,12.66,29.2,East Bihar,0
+2022-09,Punpun,16.29,20.2,Central Bihar,0
+2022-09,Bagmati,16.18,20.4,North Bihar,0
+2022-09,Kamla Balan,12.29,29.7,North Bihar,0
+2022-09,Phalgu,14.36,43.4,South Bihar,0
+2022-09,Punpun,13.91,41.2,South Bihar,0
+2022-09,Bagmati,19.47,228.3,North Bihar,0
+2022-09,Sone,15.75,24,West Bihar,0
+2022-09,Bagmati,21.11,108.3,North Bihar,0
+2022-09,Bagmati,20.57,232.8,North Bihar,0
+2022-09,Ganga,23.89,12.2,Central Bihar,0
+2022-09,Burhi Gandak,17.47,1.2,North Bihar,0
+2022-09,Sone,17.4,157.4,South Bihar,0
+2022-09,Ganga,30.81,311.8,North Bihar,1
+2022-09,Sone,16.81,26.2,South Bihar,0
+2022-09,Burhi Gandak,15.24,43.8,North Bihar,0
+2022-09,Kamla Balan,12.44,18.6,East Bihar,0
+2022-09,Phalgu,11.42,17,South Bihar,0
+2022-09,Burhi Gandak,15.5,140.7,North Bihar,0
+2022-09,Kamla Balan,13.57,11,North Bihar,0
+2022-09,Burhi Gandak,15.17,162.9,North Bihar,0
+2022-09,Phalgu,14.44,31.2,South Bihar,0
+2022-09,Ganga,24.85,35.3,North Bihar,0
+2022-09,Sone,17.91,19,South Bihar,0
+2022-09,Ganga,24.08,29.8,Central Bihar,0
+2022-09,Gandak,22.89,72.4,North Bihar,0
+2022-09,Sone,17.21,32.7,South Bihar,0
+2022-09,Sone,16.79,298.7,South Bihar,0
+2022-09,Bagmati,20.1,156.6,North Bihar,0
+2022-09,Mahananda,17.15,11.3,North Bihar,0
+2022-10,Mahananda,17.39,164.6,North Bihar,0
+2022-10,Mahananda,18.34,30.7,East Bihar,0
+2022-10,Burhi Gandak,16.04,0.5,North Bihar,0
+2022-10,Punpun,16.75,22.5,South Bihar,0
+2022-10,Mahananda,17.75,268.4,East Bihar,0
+2022-10,Mahananda,14.14,57.8,North Bihar,0
+2022-10,Sone,18.11,88.5,West Bihar,0
+2022-10,Gandak,22.15,12.9,North Bihar,0
+2022-10,Ganga,28.6,12,Central Bihar,0
+2022-10,Sone,14.19,41,South Bihar,0
+2022-10,Ganga,28.68,252.1,North Bihar,1
+2022-10,Kosi,20.85,173.6,East Bihar,0
+2022-10,Mahananda,18.44,207.6,North Bihar,0
+2022-10,Punpun,16.07,170.4,South Bihar,0
+2022-10,Ganga,22.23,14.7,North Bihar,0
+2022-10,Gandak,20.36,25.1,North Bihar,0
+2022-10,Burhi Gandak,16.27,104.5,North Bihar,0
+2022-10,Punpun,17.88,215,Central Bihar,0
+2022-10,Gandak,20.03,31.4,West Bihar,0
+2022-10,Kamla Balan,9.55,42,North Bihar,0
+2022-10,Burhi Gandak,13.95,188.1,North Bihar,0
+2022-10,Bagmati,18.61,222.2,North Bihar,0
+2022-10,Gandak,21.91,258.9,North Bihar,0
+2022-10,Sone,18.13,161.1,West Bihar,0
+2022-10,Bagmati,16.62,126.2,North Bihar,0
+2022-10,Bagmati,17.37,6.8,North Bihar,0
+2022-10,Punpun,10.58,33.4,South Bihar,0
+2022-10,Sone,15.89,21.5,West Bihar,0
+2022-10,Ganga,21.31,18.6,Central Bihar,0
+2022-10,Punpun,15.88,36.6,South Bihar,0
+2022-10,Bagmati,19.39,210.3,North Bihar,0
+2022-10,Sone,16.65,29.1,South Bihar,0
+2022-10,Kamla Balan,12.86,25.4,North Bihar,0
+2022-10,Ganga,23.93,14.6,North Bihar,0
+2022-10,Bagmati,20.9,154.9,North Bihar,0
+2022-10,Bagmati,19.96,178,North Bihar,0
+2022-10,Kamla Balan,12.55,36.2,North Bihar,0
+2022-10,Punpun,16.38,6.8,South Bihar,0
+2022-10,Bagmati,20.78,14.6,North Bihar,0
+2022-10,Kamla Balan,14.13,97.1,North Bihar,0
+2022-11,Gandak,22.74,208.7,North Bihar,0
+2022-11,Kosi,20.82,34.7,North Bihar,0
+2022-11,Burhi Gandak,17.49,113.9,North Bihar,0
+2022-11,Mahananda,15.63,19,East Bihar,0
+2022-11,Kosi,23.25,236.2,North Bihar,0
+2022-11,Sone,17.04,2.4,South Bihar,0
+2022-11,Gandak,22.77,30.4,North Bihar,0
+2022-11,Ganga,26.12,125.8,North Bihar,0
+2022-11,Punpun,17.47,25.6,Central Bihar,0
+2022-11,Sone,16.49,225.9,South Bihar,0
+2022-11,Bagmati,18.35,148.8,North Bihar,0
+2022-11,Gandak,21.02,162.1,North Bihar,0
+2022-11,Sone,18.54,146,South Bihar,0
+2022-11,Ganga,24.45,325.6,North Bihar,0
+2022-11,Ganga,26.04,29.8,Central Bihar,0
+2022-11,Mahananda,18.52,12.7,East Bihar,0
+2022-11,Punpun,17.15,16.4,Central Bihar,0
+2022-11,Kamla Balan,11.76,36.7,North Bihar,0
+2022-11,Gandak,25.25,237.7,North Bihar,1
+2022-11,Gandak,21.44,16.5,West Bihar,0
+2022-11,Kamla Balan,13.54,186,North Bihar,0
+2022-11,Bagmati,19.02,20.6,North Bihar,0
+2022-11,Gandak,24.77,194.3,North Bihar,1
+2022-11,Kosi,22.32,46.2,East Bihar,0
+2022-11,Kosi,22.83,23.8,East Bihar,0
+2022-11,Phalgu,13.21,16.8,Central Bihar,0
+2022-11,Mahananda,17.55,12.3,East Bihar,0
+2022-11,Punpun,12.95,30,Central Bihar,0
+2022-11,Ganga,23.05,14.6,Central Bihar,0
+2022-11,Burhi Gandak,14.12,32.3,North Bihar,0
+2022-11,Burhi Gandak,14.93,15.3,North Bihar,0
+2022-11,Punpun,16.68,16.6,Central Bihar,0
+2022-11,Kamla Balan,12.52,158.4,North Bihar,0
+2022-11,Sone,19.3,10.4,South Bihar,0
+2022-11,Gandak,20.04,0,North Bihar,0
+2022-12,Bagmati,18.84,30.2,North Bihar,0
+2022-12,Kamla Balan,8.94,23,East Bihar,0
+2022-12,Punpun,12.69,241.7,Central Bihar,0
+2022-12,Burhi Gandak,14.59,75.4,North Bihar,0
+2022-12,Sone,18.53,35.1,West Bihar,0
+2022-12,Punpun,15.43,138.6,South Bihar,0
+2022-12,Kamla Balan,13.29,37.4,North Bihar,0
+2022-12,Kamla Balan,13.36,191.8,North Bihar,0
+2022-12,Mahananda,14.63,32.2,North Bihar,0
+2022-12,Kosi,24.37,213.4,North Bihar,0
+2022-12,Sone,17.99,42.7,South Bihar,0
+2022-12,Burhi Gandak,17.55,150.5,North Bihar,0
+2022-12,Kamla Balan,11.24,104.8,North Bihar,0
+2022-12,Burhi Gandak,14.14,0,North Bihar,0
+2022-12,Kosi,21.12,54.7,North Bihar,0
+2022-12,Phalgu,14.22,34.7,Central Bihar,0
+2022-12,Kamla Balan,8.84,0,East Bihar,0
+2022-12,Burhi Gandak,15.26,26,North Bihar,0
+2022-12,Burhi Gandak,18.5,31.6,North Bihar,0
+2022-12,Kosi,21.55,51.7,North Bihar,0
+2022-12,Punpun,11.72,36.6,South Bihar,0
+2022-12,Bagmati,21.9,149.6,North Bihar,0
+2022-12,Kamla Balan,14.24,202.3,North Bihar,0
+2022-12,Sone,19.62,138.9,West Bihar,0
+2022-12,Mahananda,14.99,28,North Bihar,0
+2022-12,Gandak,21,18.9,North Bihar,0
+2022-12,Kosi,19.9,201.2,North Bihar,0
+2022-12,Burhi Gandak,17.47,23.6,North Bihar,0
+2022-12,Bagmati,21.21,32.7,North Bihar,0
+2022-12,Gandak,20.31,18.3,North Bihar,0
+2022-12,Ganga,22.83,0,North Bihar,0
+2022-12,Ganga,26.96,214.9,Central Bihar,0
+2022-12,Punpun,14.63,23.2,South Bihar,0
+2022-12,Mahananda,18.59,119.4,East Bihar,0
+2023-01,Bagmati,19.05,273.2,North Bihar,0
+2023-01,Punpun,13.12,29.4,South Bihar,0
+2023-01,Phalgu,12.29,16,South Bihar,0
+2023-01,Ganga,21.17,43,Central Bihar,0
+2023-01,Sone,17.19,0,West Bihar,0
+2023-01,Kamla Balan,13.27,27.3,East Bihar,0
+2023-01,Burhi Gandak,16.42,33.4,North Bihar,0
+2023-01,Mahananda,13.62,26.7,North Bihar,0
+2023-01,Burhi Gandak,17.24,21.9,North Bihar,0
+2023-01,Bagmati,21.7,36.9,North Bihar,0
+2023-01,Punpun,13.81,187.6,South Bihar,0
+2023-01,Phalgu,12.58,145.5,South Bihar,0
+2023-01,Burhi Gandak,14.79,214.6,North Bihar,0
+2023-01,Phalgu,14.11,4.3,South Bihar,0
+2023-01,Kamla Balan,11.62,0.2,East Bihar,0
+2023-01,Kosi,17.44,4.5,East Bihar,0
+2023-01,Mahananda,18.37,10,East Bihar,0
+2023-01,Mahananda,14.38,154.7,North Bihar,0
+2023-01,Gandak,20.46,21.3,North Bihar,0
+2023-01,Punpun,13.55,13.1,South Bihar,0
+2023-01,Bagmati,20.68,22.9,North Bihar,0
+2023-01,Ganga,22.63,5.8,Central Bihar,0
+2023-01,Kosi,19.53,71.6,East Bihar,0
+2023-01,Burhi Gandak,17.34,111.3,North Bihar,0
+2023-01,Bagmati,18.87,45.6,North Bihar,0
+2023-01,Sone,17.1,15.7,West Bihar,0
+2023-01,Sone,19.92,21.2,South Bihar,0
+2023-01,Phalgu,16.44,133.5,South Bihar,0
+2023-01,Mahananda,16.58,29.6,North Bihar,0
+2023-01,Burhi Gandak,17.64,24.6,North Bihar,0
+2023-01,Kamla Balan,13.58,36.7,North Bihar,0
+2023-01,Phalgu,11.8,32.6,South Bihar,0
+2023-01,Punpun,14.47,169.3,South Bihar,0
+2023-01,Kosi,19.93,13.4,East Bihar,0
+2023-01,Bagmati,21.41,25.1,North Bihar,0
+2023-01,Gandak,20.08,28.3,North Bihar,0
+2023-01,Sone,16.69,52.5,South Bihar,0
+2023-01,Ganga,26.85,283.1,North Bihar,0
+2023-01,Sone,18.1,40.8,West Bihar,0
+2023-01,Punpun,17.35,116,South Bihar,0
+2023-01,Ganga,23.62,24.8,North Bihar,0
+2023-02,Mahananda,17.93,145.1,East Bihar,0
+2023-02,Mahananda,20.78,253.5,North Bihar,1
+2023-02,Phalgu,15.75,213.6,South Bihar,0
+2023-02,Gandak,20.3,4.8,North Bihar,0
+2023-02,Gandak,14.98,33.7,North Bihar,0
+2023-02,Gandak,21.14,103.7,North Bihar,0
+2023-02,Kamla Balan,13.42,183.4,East Bihar,0
+2023-02,Kamla Balan,14.48,37.6,East Bihar,0
+2023-02,Mahananda,19.74,44.4,North Bihar,0
+2023-02,Phalgu,11.9,15.8,South Bihar,0
+2023-02,Gandak,22.51,23.2,North Bihar,0
+2023-02,Mahananda,18.01,2.3,East Bihar,0
+2023-02,Kamla Balan,16.77,7.2,North Bihar,0
+2023-02,Gandak,21.05,15.4,North Bihar,0
+2023-02,Bagmati,20.99,39,North Bihar,0
+2023-02,Burhi Gandak,16.28,35.2,North Bihar,0
+2023-02,Ganga,24.24,223.4,Central Bihar,0
+2023-02,Kamla Balan,10.94,27.6,North Bihar,0
+2023-02,Kamla Balan,9.32,26.3,North Bihar,0
+2023-02,Sone,19.23,0.2,South Bihar,0
+2023-02,Sone,19.18,14.3,South Bihar,0
+2023-02,Kosi,20.41,34.8,North Bihar,0
+2023-02,Sone,19.92,28.9,South Bihar,0
+2023-02,Mahananda,14.38,144.8,North Bihar,0
+2023-02,Phalgu,12.17,34.1,Central Bihar,0
+2023-02,Gandak,21.8,191.1,West Bihar,0
+2023-02,Kosi,22.65,19,East Bihar,0
+2023-02,Kamla Balan,15.04,13.4,North Bihar,0
+2023-02,Kamla Balan,10.54,12.1,North Bihar,0
+2023-02,Kosi,21.18,9,East Bihar,0
+2023-02,Kosi,21.74,28.2,East Bihar,0
+2023-02,Kosi,20.66,31,East Bihar,0
+2023-02,Bagmati,16.68,24.1,North Bihar,0
+2023-03,Gandak,20.16,5.6,West Bihar,0
+2023-03,Mahananda,15.26,12.8,East Bihar,0
+2023-03,Bagmati,19.52,158.2,North Bihar,0
+2023-03,Kamla Balan,15.74,0,North Bihar,0
+2023-03,Punpun,14.46,8.9,Central Bihar,0
+2023-03,Punpun,18.6,216.4,South Bihar,1
+2023-03,Kamla Balan,9.43,164.6,North Bihar,0
+2023-03,Gandak,20.1,81.6,North Bihar,0
+2023-03,Punpun,15.97,205.1,South Bihar,0
+2023-03,Kosi,21.23,44.7,North Bihar,0
+2023-03,Mahananda,18.83,26.9,East Bihar,0
+2023-03,Sone,22.51,29.9,South Bihar,0
+2023-03,Punpun,9.21,13.7,Central Bihar,0
+2023-03,Punpun,16.89,22.7,Central Bihar,0
+2023-03,Sone,18.65,34.8,West Bihar,0
+2023-03,Sone,16.99,7.6,South Bihar,0
+2023-03,Burhi Gandak,13.56,79.1,North Bihar,0
+2023-03,Sone,17.56,39.6,South Bihar,0
+2023-03,Mahananda,13.91,20.3,North Bihar,0
+2023-03,Kamla Balan,13.81,65.2,East Bihar,0
+2023-03,Sone,17.4,57,West Bihar,0
+2023-03,Phalgu,13.35,20.6,South Bihar,0
+2023-03,Phalgu,14.54,17.3,South Bihar,0
+2023-03,Sone,15.86,21,West Bihar,0
+2023-03,Punpun,11.06,37.1,South Bihar,0
+2023-03,Sone,16.34,30.8,West Bihar,0
+2023-03,Sone,19.22,0,South Bihar,0
+2023-03,Kamla Balan,13.08,184.3,North Bihar,0
+2023-03,Phalgu,12.75,202.7,South Bihar,0
+2023-03,Kamla Balan,15.36,36.1,East Bihar,0
+2023-03,Mahananda,18.05,40.4,North Bihar,0
+2023-03,Bagmati,18.76,39.1,North Bihar,0
+2023-03,Burhi Gandak,17.54,26,North Bihar,0
+2023-04,Phalgu,15.48,94.9,South Bihar,0
+2023-04,Mahananda,16.03,38.4,East Bihar,0
+2023-04,Kamla Balan,13.17,18.2,East Bihar,0
+2023-04,Sone,18,198.2,South Bihar,0
+2023-04,Punpun,12.92,26.5,South Bihar,0
+2023-04,Kamla Balan,12.9,48.8,East Bihar,0
+2023-04,Burhi Gandak,13.55,40.7,North Bihar,0
+2023-04,Mahananda,19.93,13.6,East Bihar,0
+2023-04,Sone,16.79,41.4,South Bihar,0
+2023-04,Kamla Balan,9.84,36.7,East Bihar,0
+2023-04,Punpun,15.38,160.7,South Bihar,0
+2023-04,Bagmati,18.6,3.1,North Bihar,0
+2023-04,Burhi Gandak,17.3,31.9,North Bihar,0
+2023-04,Sone,15.49,80.6,West Bihar,0
+2023-04,Sone,15.97,80.9,South Bihar,0
+2023-04,Phalgu,11.7,0,Central Bihar,0
+2023-04,Bagmati,20.72,33.6,North Bihar,0
+2023-04,Punpun,15.07,170.7,Central Bihar,0
+2023-04,Phalgu,13.99,43.4,South Bihar,0
+2023-04,Mahananda,17.09,188.9,North Bihar,0
+2023-04,Sone,20.25,285.1,West Bihar,0
+2023-04,Kosi,24.66,3.7,North Bihar,0
+2023-04,Burhi Gandak,13.53,42.7,North Bihar,0
+2023-04,Kamla Balan,11.77,187.5,North Bihar,0
+2023-04,Kamla Balan,12.11,143.7,East Bihar,0
+2023-04,Phalgu,13,3.4,South Bihar,0
+2023-04,Bagmati,19.33,24.5,North Bihar,0
+2023-04,Phalgu,12.06,48.6,South Bihar,0
+2023-04,Punpun,13.07,6.1,South Bihar,0
+2023-04,Kosi,20.42,191.6,North Bihar,0
+2023-04,Phalgu,16.32,256.3,South Bihar,0
+2023-04,Bagmati,19.17,25.8,North Bihar,0
+2023-04,Gandak,18.4,10.4,North Bihar,0
+2023-04,Bagmati,19.12,33.9,North Bihar,0
+2023-04,Punpun,13.5,176.2,Central Bihar,0
+2023-04,Punpun,15.92,41.9,South Bihar,0
+2023-04,Gandak,18.57,18.9,North Bihar,0
+2023-04,Kamla Balan,11.74,61.6,North Bihar,0
+2023-05,Sone,23.52,346.7,West Bihar,1
+2023-05,Mahananda,18.12,131.1,East Bihar,0
+2023-05,Kosi,19.13,229.1,North Bihar,0
+2023-05,Gandak,19.31,138.7,North Bihar,0
+2023-05,Burhi Gandak,16.45,8.5,North Bihar,0
+2023-05,Mahananda,14.28,5.1,East Bihar,0
+2023-05,Burhi Gandak,15.96,23.5,North Bihar,0
+2023-05,Kamla Balan,10.79,66.9,East Bihar,0
+2023-05,Ganga,20.44,54.1,North Bihar,0
+2023-05,Mahananda,15.12,26.1,North Bihar,0
+2023-05,Ganga,24.47,39.9,North Bihar,0
+2023-05,Gandak,19.55,45.1,North Bihar,0
+2023-05,Mahananda,18.84,10.4,East Bihar,0
+2023-05,Ganga,23.72,172.4,Central Bihar,0
+2023-05,Kosi,19.9,51.6,East Bihar,0
+2023-05,Mahananda,16.39,257.1,East Bihar,0
+2023-05,Sone,17.85,35.6,West Bihar,0
+2023-05,Mahananda,13.05,37,East Bihar,0
+2023-05,Phalgu,11.17,19,South Bihar,0
+2023-05,Kamla Balan,14.73,42.4,North Bihar,0
+2023-05,Bagmati,15.9,30.2,North Bihar,0
+2023-05,Ganga,25.66,33.9,North Bihar,0
+2023-05,Punpun,14.36,82.2,Central Bihar,0
+2023-05,Kamla Balan,10.2,5.8,North Bihar,0
+2023-05,Bagmati,16.47,32.7,North Bihar,0
+2023-05,Ganga,21.64,28,North Bihar,0
+2023-05,Kosi,23.68,295.7,North Bihar,0
+2023-05,Kosi,17.57,42.3,North Bihar,0
+2023-05,Sone,21.94,233.4,South Bihar,1
+2023-05,Punpun,13.07,26.5,South Bihar,0
+2023-05,Bagmati,19.57,36.3,North Bihar,0
+2023-05,Phalgu,13.89,127.2,Central Bihar,0
+2023-05,Gandak,21.4,178.9,North Bihar,0
+2023-05,Mahananda,18.37,229,East Bihar,0
+2023-05,Mahananda,15.36,45.2,East Bihar,0
+2023-05,Sone,16.89,59.1,West Bihar,0
+2023-05,Kosi,23.14,131.4,North Bihar,0
+2023-05,Burhi Gandak,20.22,220.3,North Bihar,1
+2023-05,Punpun,13.27,38.3,Central Bihar,0
+2023-05,Bagmati,21.13,5.3,North Bihar,0
+2023-05,Ganga,25.77,258.3,North Bihar,0
+2023-05,Kamla Balan,13.59,16.5,North Bihar,0
+2023-05,Gandak,19.92,2.4,North Bihar,0
+2023-05,Sone,19.66,29.9,South Bihar,0
+2023-05,Kamla Balan,10.56,16.6,North Bihar,0
+2023-05,Ganga,23.71,80.9,North Bihar,0
+2023-06,Phalgu,11.84,15.7,South Bihar,0
+2023-06,Gandak,20.71,7.1,North Bihar,0
+2023-06,Phalgu,14.1,192.6,South Bihar,0
+2023-06,Kamla Balan,11.31,37.6,North Bihar,0
+2023-06,Bagmati,18.1,15.6,North Bihar,0
+2023-06,Bagmati,17.87,78.2,North Bihar,0
+2023-06,Phalgu,13,22.6,South Bihar,0
+2023-06,Burhi Gandak,17.95,217.1,North Bihar,0
+2023-06,Phalgu,14.48,13.1,Central Bihar,0
+2023-06,Sone,18.72,26.5,South Bihar,0
+2023-06,Punpun,16.91,147.8,South Bihar,0
+2023-06,Phalgu,12.14,186.3,South Bihar,0
+2023-06,Kosi,22.56,48.9,North Bihar,0
+2023-06,Kosi,24.34,210.3,North Bihar,0
+2023-06,Mahananda,15.84,32.2,East Bihar,0
+2023-06,Ganga,21.41,29.5,North Bihar,0
+2023-06,Mahananda,15.1,24.1,East Bihar,0
+2023-06,Punpun,16.33,50.3,South Bihar,0
+2023-06,Punpun,16.35,7.8,South Bihar,0
+2023-06,Kosi,25.86,183,North Bihar,1
+2023-06,Punpun,13.46,127.4,South Bihar,0
+2023-06,Bagmati,21.17,193.9,North Bihar,0
+2023-06,Bagmati,18.4,38.2,North Bihar,0
+2023-06,Burhi Gandak,13.33,26.3,North Bihar,0
+2023-06,Gandak,20.97,13.4,West Bihar,0
+2023-06,Phalgu,15.91,45,Central Bihar,0
+2023-06,Punpun,16.89,19.3,Central Bihar,0
+2023-06,Sone,17.29,4.1,South Bihar,0
+2023-06,Sone,21.6,27.5,South Bihar,0
+2023-06,Punpun,15.8,39.3,South Bihar,0
+2023-06,Burhi Gandak,18.06,18.4,North Bihar,0
+2023-06,Mahananda,16.97,314.3,East Bihar,0
+2023-06,Gandak,21.08,27.3,West Bihar,0
+2023-06,Ganga,25.83,0,Central Bihar,0
+2023-06,Bagmati,20.48,219.4,North Bihar,0
+2023-06,Punpun,15.3,6,South Bihar,0
+2023-06,Mahananda,16.29,171.6,East Bihar,0
+2023-06,Burhi Gandak,19.46,150.2,North Bihar,1
+2023-06,Mahananda,16.08,8.2,East Bihar,0
+2023-06,Burhi Gandak,17.68,209.7,North Bihar,0
+2023-06,Gandak,23.7,105.4,West Bihar,0
+2023-06,Mahananda,15.49,2.2,East Bihar,0
+2023-06,Punpun,16.22,23,South Bihar,0
+2023-06,Phalgu,15.63,191,Central Bihar,0
+2023-06,Kosi,22.37,200.6,East Bihar,0
+2023-06,Bagmati,17.96,52.2,North Bihar,0
+2023-06,Burhi Gandak,14.38,34.7,North Bihar,0
+2023-06,Kosi,20.65,13.7,North Bihar,0
+2023-06,Ganga,21.24,17.9,North Bihar,0
+2023-06,Ganga,23.95,33.2,Central Bihar,0
+2023-06,Ganga,23.81,27.5,North Bihar,0
+2023-06,Burhi Gandak,16.6,20.4,North Bihar,0
+2023-06,Bagmati,16.14,17.9,North Bihar,0
+2023-06,Burhi Gandak,14.7,176.5,North Bihar,0
+2023-06,Burhi Gandak,10.1,18.2,North Bihar,0
+2023-06,Sone,18.12,19.6,South Bihar,0
+2023-06,Mahananda,17.26,221.5,North Bihar,0
+2023-06,Bagmati,19.76,153.3,North Bihar,0
+2023-06,Sone,19.68,169.4,West Bihar,0
+2023-06,Kamla Balan,11.25,37.2,North Bihar,0
+2023-06,Gandak,19.24,19.6,West Bihar,0
+2023-06,Phalgu,11.45,5.4,South Bihar,0
+2023-06,Mahananda,18.18,202.6,North Bihar,0
+2023-06,Mahananda,19.43,252.7,East Bihar,0
+2023-06,Kosi,22.19,0,East Bihar,0
+2023-06,Phalgu,13.08,10.1,South Bihar,0
+2023-06,Kamla Balan,13.11,2.8,East Bihar,0
+2023-06,Kosi,25.99,140.8,East Bihar,1
+2023-06,Mahananda,15.19,29.9,East Bihar,0
+2023-06,Gandak,18.96,22.4,North Bihar,0
+2023-06,Ganga,28.56,11.8,North Bihar,0
+2023-06,Sone,16.74,10,South Bihar,0
+2023-06,Bagmati,24.62,199.7,North Bihar,1
+2023-06,Kamla Balan,12.59,103.1,East Bihar,0
+2023-06,Gandak,19.22,14.1,North Bihar,0
+2023-06,Punpun,15.74,159.4,South Bihar,0
+2023-06,Phalgu,16.97,264,South Bihar,0
+2023-06,Mahananda,15.65,3.5,East Bihar,0
+2023-06,Mahananda,16.75,220.1,North Bihar,0
+2023-06,Kamla Balan,12.09,11.5,East Bihar,0
+2023-06,Mahananda,19.21,175,East Bihar,0
+2023-06,Burhi Gandak,16.45,41.2,North Bihar,0
+2023-06,Phalgu,16.69,284.9,South Bihar,0
+2023-06,Mahananda,17.51,241.8,North Bihar,0
+2023-06,Bagmati,20.39,315.6,North Bihar,0
+2023-06,Burhi Gandak,21.1,226.8,North Bihar,1
+2023-06,Punpun,11.87,85.7,South Bihar,0
+2023-06,Gandak,22.4,38.7,West Bihar,0
+2023-07,Burhi Gandak,15.58,32.5,North Bihar,0
+2023-07,Gandak,21.62,25.2,West Bihar,0
+2023-07,Mahananda,18.34,53.7,North Bihar,0
+2023-07,Phalgu,15.07,208.4,South Bihar,0
+2023-07,Sone,20.95,179.1,South Bihar,0
+2023-07,Ganga,26.08,6.7,North Bihar,0
+2023-07,Mahananda,19.84,168.5,East Bihar,0
+2023-07,Sone,14.74,44.6,South Bihar,0
+2023-07,Sone,18.17,191.8,South Bihar,0
+2023-07,Bagmati,19.46,170.3,North Bihar,0
+2023-07,Ganga,26.75,280.3,North Bihar,0
+2023-07,Punpun,13.24,10.7,South Bihar,0
+2023-07,Burhi Gandak,13.78,14.7,North Bihar,0
+2023-07,Ganga,25.48,14.6,North Bihar,0
+2023-07,Punpun,11.54,23.6,South Bihar,0
+2023-07,Phalgu,15.22,41.6,South Bihar,0
+2023-07,Gandak,22.66,262.2,North Bihar,0
+2023-07,Burhi Gandak,13.67,140.6,North Bihar,0
+2023-07,Kamla Balan,11.95,219.2,North Bihar,0
+2023-07,Punpun,13.7,64.5,South Bihar,0
+2023-07,Phalgu,13.81,2.2,South Bihar,0
+2023-07,Bagmati,19.73,96.4,North Bihar,0
+2023-07,Sone,17.18,16.4,South Bihar,0
+2023-07,Phalgu,14.21,209.1,South Bihar,0
+2023-07,Burhi Gandak,15.7,0,North Bihar,0
+2023-07,Burhi Gandak,14.69,45.6,North Bihar,0
+2023-07,Bagmati,18.8,17.5,North Bihar,0
+2023-07,Sone,17.37,40.9,South Bihar,0
+2023-07,Mahananda,15.13,19.1,East Bihar,0
+2023-07,Kamla Balan,13.56,233.3,North Bihar,0
+2023-07,Ganga,25.84,23.1,North Bihar,0
+2023-07,Sone,15.81,0,South Bihar,0
+2023-07,Mahananda,20.01,154.5,East Bihar,1
+2023-07,Gandak,20.58,121.2,West Bihar,0
+2023-07,Burhi Gandak,14.11,36,North Bihar,0
+2023-07,Ganga,27.1,2.2,North Bihar,0
+2023-07,Gandak,19.24,41.5,North Bihar,0
+2023-07,Burhi Gandak,15.19,68.4,North Bihar,0
+2023-07,Bagmati,20.95,45.4,North Bihar,0
+2023-07,Mahananda,17.55,26.3,East Bihar,0
+2023-07,Ganga,24.67,114.8,North Bihar,0
+2023-07,Ganga,24.32,6.6,Central Bihar,0
+2023-07,Phalgu,15.07,22.7,South Bihar,0
+2023-07,Kosi,21.74,6,East Bihar,0
+2023-07,Ganga,22.44,32.1,North Bihar,0
+2023-07,Kosi,26,215.4,North Bihar,1
+2023-07,Sone,17.11,46.3,West Bihar,0
+2023-07,Kosi,23.56,51.5,North Bihar,0
+2023-07,Gandak,21.96,46.9,North Bihar,0
+2023-07,Phalgu,10.45,20.9,Central Bihar,0
+2023-07,Gandak,19.44,28.1,North Bihar,0
+2023-07,Phalgu,12.77,31.3,Central Bihar,0
+2023-07,Kamla Balan,14.42,33.6,North Bihar,0
+2023-07,Punpun,15.7,112.1,South Bihar,0
+2023-07,Kamla Balan,10.92,10,North Bihar,0
+2023-07,Punpun,13.7,0,South Bihar,0
+2023-07,Phalgu,13.39,295.5,Central Bihar,0
+2023-07,Mahananda,16.76,152.2,East Bihar,0
+2023-07,Phalgu,13.02,56.8,Central Bihar,0
+2023-07,Phalgu,9.53,21.1,South Bihar,0
+2023-07,Sone,18.95,31.2,West Bihar,0
+2023-07,Phalgu,9.97,41.3,South Bihar,0
+2023-07,Gandak,19.53,25.2,North Bihar,0
+2023-07,Kamla Balan,11.08,213.4,North Bihar,0
+2023-07,Bagmati,21.75,265.6,North Bihar,0
+2023-07,Punpun,12.68,36,Central Bihar,0
+2023-07,Kosi,24.07,267.5,East Bihar,0
+2023-07,Punpun,15.21,72,South Bihar,0
+2023-07,Ganga,28.67,205.6,North Bihar,1
+2023-07,Punpun,14.97,34.2,South Bihar,0
+2023-07,Gandak,19.04,33.3,North Bihar,0
+2023-07,Kamla Balan,16,261.3,East Bihar,0
+2023-07,Kamla Balan,11.12,178,North Bihar,0
+2023-07,Kosi,21.43,56.9,North Bihar,0
+2023-07,Gandak,21.03,22.2,North Bihar,0
+2023-07,Kosi,18.89,132.7,East Bihar,0
+2023-07,Bagmati,18.79,19.7,North Bihar,0
+2023-07,Punpun,18.04,147.9,Central Bihar,1
+2023-07,Burhi Gandak,13.69,36.5,North Bihar,0
+2023-07,Ganga,26.07,183.9,Central Bihar,0
+2023-07,Phalgu,14.45,45.4,South Bihar,0
+2023-07,Gandak,20.84,16.1,North Bihar,0
+2023-07,Mahananda,17.81,162.9,East Bihar,0
+2023-07,Phalgu,9.06,0,South Bihar,0
+2023-07,Punpun,16,141.2,South Bihar,0
+2023-07,Mahananda,16.23,24.8,East Bihar,0
+2023-07,Mahananda,19.91,190.9,North Bihar,0
+2023-07,Burhi Gandak,19.22,232.8,North Bihar,1
+2023-07,Kamla Balan,12.11,144.8,North Bihar,0
+2023-07,Bagmati,16.07,14.2,North Bihar,0
+2023-07,Phalgu,11.69,18,South Bihar,0
+2023-07,Gandak,20.57,22.8,North Bihar,0
+2023-07,Gandak,18.77,26.1,North Bihar,0
+2023-07,Gandak,21.43,18.9,North Bihar,0
+2023-07,Gandak,22.78,32.7,West Bihar,0
+2023-07,Ganga,21.7,36.6,Central Bihar,0
+2023-07,Mahananda,19.65,0,North Bihar,0
+2023-07,Mahananda,14.07,17.6,North Bihar,0
+2023-07,Gandak,22.53,153.4,West Bihar,0
+2023-07,Burhi Gandak,17.68,26.2,North Bihar,0
+2023-07,Mahananda,17.57,9.3,North Bihar,0
+2023-07,Gandak,22.59,199.1,North Bihar,0
+2023-08,Kosi,24.27,237.8,East Bihar,0
+2023-08,Kamla Balan,12.67,37.3,East Bihar,0
+2023-08,Kamla Balan,12.78,30.4,North Bihar,0
+2023-08,Gandak,19.84,27.4,North Bihar,0
+2023-08,Bagmati,19.96,20.7,North Bihar,0
+2023-08,Kamla Balan,11.45,13.8,North Bihar,0
+2023-08,Kosi,19.51,16.1,East Bihar,0
+2023-08,Kosi,18.28,131,East Bihar,0
+2023-08,Burhi Gandak,13.61,41.7,North Bihar,0
+2023-08,Phalgu,11.6,27.2,South Bihar,0
+2023-08,Bagmati,17.78,42.6,North Bihar,0
+2023-08,Bagmati,21.3,8.6,North Bihar,0
+2023-08,Punpun,13.6,30.3,South Bihar,0
+2023-08,Kamla Balan,11.99,41.9,North Bihar,0
+2023-08,Bagmati,14.44,0,North Bihar,0
+2023-08,Phalgu,11.14,30.7,Central Bihar,0
+2023-08,Kamla Balan,8.91,12.7,East Bihar,0
+2023-08,Mahananda,13.18,29,East Bihar,0
+2023-08,Gandak,24.07,42.4,West Bihar,0
+2023-08,Sone,18.62,13,West Bihar,0
+2023-08,Bagmati,19.02,334.2,North Bihar,0
+2023-08,Phalgu,15.09,14.1,Central Bihar,0
+2023-08,Punpun,13.83,19.3,South Bihar,0
+2023-08,Bagmati,20.08,16.7,North Bihar,0
+2023-08,Mahananda,20.34,330.7,East Bihar,1
+2023-08,Kamla Balan,11.08,5.7,East Bihar,0
+2023-08,Punpun,13.95,13.6,South Bihar,0
+2023-08,Burhi Gandak,18.56,184.7,North Bihar,0
+2023-08,Kamla Balan,14.02,28,North Bihar,0
+2023-08,Ganga,28.93,153.1,North Bihar,1
+2023-08,Ganga,23.07,34,Central Bihar,0
+2023-08,Gandak,19.87,17.7,North Bihar,0
+2023-08,Phalgu,12.53,18.1,South Bihar,0
+2023-08,Kosi,20.65,28.8,North Bihar,0
+2023-08,Phalgu,14.2,176.9,South Bihar,0
+2023-08,Sone,18.3,11.9,West Bihar,0
+2023-08,Mahananda,17.22,35.9,North Bihar,0
+2023-08,Sone,18.31,165.8,South Bihar,0
+2023-08,Kamla Balan,15.53,204.8,North Bihar,0
+2023-08,Ganga,26.97,154.8,North Bihar,0
+2023-08,Kosi,18.77,20.1,East Bihar,0
+2023-08,Punpun,15.53,30.7,Central Bihar,0
+2023-08,Kosi,20.09,35.7,North Bihar,0
+2023-08,Punpun,13.08,305.9,Central Bihar,0
+2023-08,Burhi Gandak,13.05,18,North Bihar,0
+2023-08,Punpun,16.56,26.7,South Bihar,0
+2023-08,Sone,15.27,35.1,South Bihar,0
+2023-08,Mahananda,18.93,58.1,North Bihar,0
+2023-08,Mahananda,14.55,45.5,North Bihar,0
+2023-08,Ganga,22.81,229.6,Central Bihar,0
+2023-08,Gandak,19.55,2.7,North Bihar,0
+2023-08,Kamla Balan,16.02,143.3,North Bihar,1
+2023-08,Bagmati,20.5,6,North Bihar,0
+2023-08,Bagmati,17.07,31.5,North Bihar,0
+2023-08,Burhi Gandak,17.64,19.5,North Bihar,0
+2023-08,Bagmati,17.39,18.1,North Bihar,0
+2023-08,Ganga,24.97,157.1,North Bihar,0
+2023-08,Burhi Gandak,14.87,189.5,North Bihar,0
+2023-08,Phalgu,13.41,27.6,South Bihar,0
+2023-08,Gandak,18.03,26.9,West Bihar,0
+2023-08,Sone,16.28,17.2,South Bihar,0
+2023-08,Ganga,22.54,0.1,Central Bihar,0
+2023-08,Gandak,22.15,0,North Bihar,0
+2023-08,Burhi Gandak,14.98,161.6,North Bihar,0
+2023-08,Punpun,17.58,19.1,Central Bihar,0
+2023-08,Gandak,20.61,71,North Bihar,0
+2023-08,Gandak,20.6,24.5,West Bihar,0
+2023-08,Mahananda,17.22,28.5,East Bihar,0
+2023-08,Punpun,14.45,20.3,South Bihar,0
+2023-08,Kosi,22.63,6.6,North Bihar,0
+2023-08,Punpun,14.75,32.8,South Bihar,0
+2023-08,Sone,15.5,38.8,South Bihar,0
+2023-08,Sone,18.98,219.6,West Bihar,0
+2023-08,Kamla Balan,11.42,95.9,East Bihar,0
+2023-08,Kosi,22.44,24.2,North Bihar,0
+2023-08,Phalgu,14.99,259.4,South Bihar,0
+2023-08,Mahananda,19.11,249.9,North Bihar,0
+2023-08,Bagmati,17.13,55.7,North Bihar,0
+2023-08,Gandak,20.51,18.2,North Bihar,0
+2023-08,Ganga,22.51,37.7,Central Bihar,0
+2023-08,Phalgu,14.12,37.7,South Bihar,0
+2023-08,Mahananda,17.2,13.3,East Bihar,0
+2023-08,Sone,16.27,26.3,West Bihar,0
+2023-08,Ganga,23.08,23.8,Central Bihar,0
+2023-08,Burhi Gandak,14.64,46.6,North Bihar,0
+2023-08,Sone,17.23,31.7,South Bihar,0
+2023-08,Punpun,13.78,8.6,Central Bihar,0
+2023-08,Bagmati,20.4,171.8,North Bihar,0
+2023-09,Mahananda,11.88,15.6,East Bihar,0
+2023-09,Burhi Gandak,14.97,11.9,North Bihar,0
+2023-09,Bagmati,15.4,19.4,North Bihar,0
+2023-09,Gandak,19.83,75.1,West Bihar,0
+2023-09,Ganga,26.03,184.5,North Bihar,0
+2023-09,Sone,18.54,32.6,West Bihar,0
+2023-09,Bagmati,18.99,7.7,North Bihar,0
+2023-09,Bagmati,17.95,13.4,North Bihar,0
+2023-09,Punpun,14.15,46,Central Bihar,0
+2023-09,Phalgu,15.01,120.6,South Bihar,0
+2023-09,Bagmati,21.69,185.2,North Bihar,0
+2023-09,Gandak,19.78,3.3,North Bihar,0
+2023-09,Bagmati,19.65,42.8,North Bihar,0
+2023-09,Kosi,22.77,36.5,East Bihar,0
+2023-09,Burhi Gandak,16.36,10.5,North Bihar,0
+2023-09,Punpun,13.82,28.7,Central Bihar,0
+2023-09,Gandak,22.24,16.1,North Bihar,0
+2023-09,Ganga,22.33,42.5,Central Bihar,0
+2023-09,Phalgu,13.87,5.5,Central Bihar,0
+2023-09,Mahananda,14.89,19.4,North Bihar,0
+2023-09,Phalgu,11.03,12.5,Central Bihar,0
+2023-09,Ganga,24.59,167.8,North Bihar,0
+2023-09,Punpun,18.24,251,Central Bihar,1
+2023-09,Gandak,16.12,37.9,North Bihar,0
+2023-09,Bagmati,19.05,28.4,North Bihar,0
+2023-09,Kosi,23.27,261.8,North Bihar,0
+2023-09,Burhi Gandak,14.58,51.2,North Bihar,0
+2023-09,Kamla Balan,12.29,8,East Bihar,0
+2023-09,Burhi Gandak,14.37,27.8,North Bihar,0
+2023-09,Punpun,15.47,0,South Bihar,0
+2023-09,Sone,19.12,31,West Bihar,0
+2023-09,Phalgu,9.73,27.1,South Bihar,0
+2023-09,Phalgu,11.69,28.6,South Bihar,0
+2023-09,Phalgu,14.27,115.2,South Bihar,0
+2023-09,Ganga,30.09,39.7,North Bihar,0
+2023-09,Kamla Balan,15.07,65.4,East Bihar,0
+2023-09,Gandak,21.72,21.7,West Bihar,0
+2023-09,Mahananda,14.52,34.2,North Bihar,0
+2023-09,Gandak,19.26,65.2,North Bihar,0
+2023-09,Mahananda,18.59,22.2,East Bihar,0
+2023-09,Kamla Balan,11.67,30.6,North Bihar,0
+2023-09,Gandak,19.18,30.9,North Bihar,0
+2023-09,Phalgu,17.87,189.7,South Bihar,1
+2023-09,Sone,15.81,3.9,South Bihar,0
+2023-09,Phalgu,9.14,41.3,South Bihar,0
+2023-09,Bagmati,19.72,13.8,North Bihar,0
+2023-09,Phalgu,13.22,145.7,Central Bihar,0
+2023-09,Ganga,26.54,44.4,North Bihar,0
+2023-09,Bagmati,13.76,132.3,North Bihar,0
+2023-09,Phalgu,13.7,10.3,South Bihar,0
+2023-09,Mahananda,14.83,15.6,East Bihar,0
+2023-09,Kosi,19.77,22.2,North Bihar,0
+2023-09,Mahananda,17.56,27.2,East Bihar,0
+2023-09,Sone,15,34.8,South Bihar,0
+2023-09,Mahananda,14.25,5.9,East Bihar,0
+2023-09,Mahananda,21.26,205.6,East Bihar,1
+2023-09,Sone,19.17,240.2,South Bihar,0
+2023-09,Punpun,14.13,8.4,Central Bihar,0
+2023-09,Burhi Gandak,18.04,161.7,North Bihar,0
+2023-09,Bagmati,20.18,115.8,North Bihar,0
+2023-09,Bagmati,18.28,29.1,North Bihar,0
+2023-09,Phalgu,13.46,158.3,South Bihar,0
+2023-09,Mahananda,18.24,29,North Bihar,0
+2023-09,Ganga,25.5,26.4,North Bihar,0
+2023-09,Ganga,24.72,16.7,Central Bihar,0
+2023-09,Ganga,25.22,236.7,Central Bihar,0
+2023-09,Sone,16.24,5.2,West Bihar,0
+2023-09,Bagmati,19.12,24.1,North Bihar,0
+2023-09,Gandak,21.14,8.2,North Bihar,0
+2023-09,Mahananda,18.36,109.2,North Bihar,0
+2023-09,Sone,19.33,148.9,South Bihar,0
+2023-09,Mahananda,13.8,27,East Bihar,0
+2023-09,Phalgu,13.75,13.7,South Bihar,0
+2023-09,Bagmati,17.25,33.9,North Bihar,0
+2023-09,Bagmati,20.94,220.6,North Bihar,0
+2023-09,Sone,21.29,271.6,West Bihar,1
+2023-09,Punpun,12.67,23.7,Central Bihar,0
+2023-09,Ganga,26.53,160.7,Central Bihar,0
+2023-10,Ganga,23.52,40.9,Central Bihar,0
+2023-10,Kamla Balan,14.9,36.1,North Bihar,0
+2023-10,Ganga,25.84,194.8,North Bihar,0
+2023-10,Kosi,20.47,10.4,East Bihar,0
+2023-10,Burhi Gandak,13.33,21.7,North Bihar,0
+2023-10,Burhi Gandak,14.05,11.6,North Bihar,0
+2023-10,Phalgu,13.29,0,Central Bihar,0
+2023-10,Gandak,19.15,27,North Bihar,0
+2023-10,Gandak,22.31,181.7,North Bihar,0
+2023-10,Mahananda,16.12,12.7,East Bihar,0
+2023-10,Gandak,20.99,183.2,North Bihar,0
+2023-10,Punpun,15.06,46.2,Central Bihar,0
+2023-10,Phalgu,13.51,88.6,South Bihar,0
+2023-10,Punpun,15.03,41.7,South Bihar,0
+2023-10,Burhi Gandak,15.18,14.1,North Bihar,0
+2023-10,Gandak,20.64,132.1,North Bihar,0
+2023-10,Sone,15.28,0,South Bihar,0
+2023-10,Mahananda,18.14,163.8,East Bihar,0
+2023-10,Phalgu,10.36,20.9,Central Bihar,0
+2023-10,Sone,19.34,23.2,South Bihar,0
+2023-10,Gandak,26,181.7,North Bihar,1
+2023-10,Gandak,20.23,86.1,West Bihar,0
+2023-10,Sone,16.35,20.5,West Bihar,0
+2023-10,Sone,23.81,180.1,South Bihar,1
+2023-10,Phalgu,11.83,150.9,South Bihar,0
+2023-10,Burhi Gandak,11.89,44.6,North Bihar,0
+2023-10,Bagmati,18.74,229.1,North Bihar,0
+2023-10,Kosi,20.69,24.3,North Bihar,0
+2023-10,Gandak,20.23,31.1,North Bihar,0
+2023-10,Ganga,24.28,11.4,North Bihar,0
+2023-10,Kosi,25.3,269.8,North Bihar,1
+2023-10,Burhi Gandak,18.39,20.4,North Bihar,0
+2023-10,Burhi Gandak,15.53,105,North Bihar,0
+2023-10,Punpun,16.42,27.3,Central Bihar,0
+2023-10,Mahananda,14.77,17.2,East Bihar,0
+2023-10,Phalgu,15.2,34.4,South Bihar,0
+2023-10,Kosi,20.66,28.4,North Bihar,0
+2023-10,Bagmati,21.96,282.4,North Bihar,0
+2023-11,Kosi,21.81,26.8,North Bihar,0
+2023-11,Punpun,17.67,144.3,South Bihar,0
+2023-11,Ganga,26.78,88.4,Central Bihar,0
+2023-11,Mahananda,16.52,36.8,North Bihar,0
+2023-11,Kamla Balan,7.32,20.7,East Bihar,0
+2023-11,Mahananda,19.25,161,East Bihar,0
+2023-11,Kosi,19.21,16.8,North Bihar,0
+2023-11,Bagmati,20.24,33.2,North Bihar,0
+2023-11,Phalgu,16.65,216.9,Central Bihar,0
+2023-11,Kosi,20.34,33.8,East Bihar,0
+2023-11,Kamla Balan,13.08,7.7,North Bihar,0
+2023-11,Mahananda,15.95,6.5,North Bihar,0
+2023-11,Bagmati,14.69,13.7,North Bihar,0
+2023-11,Ganga,24.83,39.1,North Bihar,0
+2023-11,Punpun,15.47,32.5,South Bihar,0
+2023-11,Ganga,24.42,28.3,Central Bihar,0
+2023-11,Kamla Balan,13.99,98.4,East Bihar,0
+2023-11,Kamla Balan,9.62,14.1,North Bihar,0
+2023-11,Gandak,21.75,136.6,North Bihar,0
+2023-11,Kosi,20.37,17.8,North Bihar,0
+2023-11,Bagmati,16.67,42.6,North Bihar,0
+2023-11,Burhi Gandak,14.43,119.5,North Bihar,0
+2023-11,Punpun,15.4,11.3,South Bihar,0
+2023-11,Burhi Gandak,15.42,22.4,North Bihar,0
+2023-11,Kamla Balan,15.76,182.2,North Bihar,0
+2023-11,Mahananda,18.63,31.6,East Bihar,0
+2023-11,Mahananda,19.27,0,East Bihar,0
+2023-11,Bagmati,17.38,0,North Bihar,0
+2023-11,Phalgu,11.53,33.1,South Bihar,0
+2023-11,Bagmati,14.83,98.8,North Bihar,0
+2023-11,Ganga,26.67,18,Central Bihar,0
+2023-11,Phalgu,15.64,157.8,Central Bihar,0
+2023-11,Kamla Balan,12.2,24.4,East Bihar,0
+2023-11,Mahananda,19.93,205.8,East Bihar,0
+2023-11,Bagmati,21.74,169.3,North Bihar,0
+2023-11,Bagmati,22.48,167.7,North Bihar,1
+2023-11,Punpun,19.19,31.9,Central Bihar,0
+2023-11,Ganga,21.25,0,North Bihar,0
+2023-11,Ganga,21.64,141.6,North Bihar,0
+2023-11,Kosi,24.1,24.4,North Bihar,0
+2023-11,Ganga,23.67,43.1,North Bihar,0
+2023-11,Ganga,26.24,176.6,Central Bihar,0
+2023-11,Ganga,23.54,17.8,North Bihar,0
+2023-11,Punpun,17.03,224.9,South Bihar,0
+2023-11,Sone,14.77,0,South Bihar,0
+2023-11,Sone,16,44.5,South Bihar,0
+2023-12,Phalgu,17.47,144,South Bihar,1
+2023-12,Ganga,25.63,0,North Bihar,0
+2023-12,Sone,19.77,226.2,West Bihar,0
+2023-12,Phalgu,14.44,232.7,South Bihar,0
+2023-12,Sone,16.29,0,South Bihar,0
+2023-12,Ganga,25.87,79.8,North Bihar,0
+2023-12,Phalgu,16.48,38.2,South Bihar,0
+2023-12,Burhi Gandak,13.79,65.7,North Bihar,0
+2023-12,Ganga,20.63,4.8,North Bihar,0
+2023-12,Phalgu,18.09,10.3,South Bihar,0
+2023-12,Bagmati,16.98,7.8,North Bihar,0
+2023-12,Burhi Gandak,15.25,35,North Bihar,0
+2023-12,Phalgu,11.46,60.1,South Bihar,0
+2023-12,Gandak,19.47,26.3,West Bihar,0
+2023-12,Phalgu,13.32,7.5,South Bihar,0
+2023-12,Kosi,21.4,221,North Bihar,0
+2023-12,Punpun,14.69,109.1,South Bihar,0
+2023-12,Kamla Balan,9.17,20.2,East Bihar,0
+2023-12,Burhi Gandak,16.94,264.4,North Bihar,0
+2023-12,Kosi,23.44,14.2,North Bihar,0
+2023-12,Mahananda,19.42,286.2,East Bihar,0
+2023-12,Phalgu,16.25,245.4,South Bihar,0
+2023-12,Punpun,17.95,25.8,South Bihar,0
+2023-12,Bagmati,18.65,8.1,North Bihar,0
+2023-12,Sone,15.82,14.1,West Bihar,0
+2023-12,Bagmati,19.67,28,North Bihar,0
+2023-12,Gandak,18.9,43,North Bihar,0
+2023-12,Phalgu,15.12,310,South Bihar,0
+2023-12,Gandak,23.69,164.7,West Bihar,0
+2023-12,Gandak,19.66,22.4,North Bihar,0
+2023-12,Kamla Balan,14.26,1.2,North Bihar,0
+2023-12,Bagmati,19.26,35.4,North Bihar,0
+2023-12,Sone,19.02,182.9,South Bihar,0
+2023-12,Mahananda,20.68,31.9,East Bihar,0
+2023-12,Phalgu,14.97,135.8,Central Bihar,0
+2023-12,Sone,18.04,123.4,South Bihar,0
+2023-12,Ganga,25.56,118.6,North Bihar,0
+2023-12,Mahananda,14.68,39.6,North Bihar,0
+2023-12,Gandak,20.54,43.7,West Bihar,0
+2023-12,Mahananda,19.39,10,North Bihar,0
+2023-12,Kamla Balan,13.95,35.2,North Bihar,0
+2023-12,Gandak,19.59,13.8,North Bihar,0
+2023-12,Punpun,15.42,209.9,Central Bihar,0
+2023-12,Kosi,22.46,10,North Bihar,0
+2023-12,Kosi,22.34,275.6,East Bihar,0
