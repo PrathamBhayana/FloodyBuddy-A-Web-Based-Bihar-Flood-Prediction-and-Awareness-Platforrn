@@ -1,0 +1,1 @@
+# FloodyBuddy-A-Web-Based-Bihar-Flood-Prediction-and-Awareness-Platforrn
