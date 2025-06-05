@@ -68,4 +68,15 @@ python app.py
 - Mobile-friendly responsive UI
 - GIS-based visualization of affected regions
 - SMS and email alerts for real-time flood warnings
+## 📸Screenshots of the Project
+<img src="https://github.com/user-attachments/assets/2b597de6-432a-4988-93ed-fa67d8379437?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/af80aaf2-7efc-44d1-a8e9-04dfcd232914?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/b8a4f38e-076d-4ffd-96a0-b98bdb3338de?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/8699f608-5962-4ea6-a2a5-0c1a3cc13f78?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/b0f6a6be-b640-4894-94aa-a1a4ab951f4a?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/d9efe671-e6ab-49b7-bbea-625fa53ca40b?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/194b83a5-a59c-4580-93ed-ff7a4479a341?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/52bf111e-3435-49ce-b7be-e8e84baffb9a?raw=true" width="250" />
+<img src="https://github.com/user-attachments/assets/16eb5135-eda2-4c11-98f2-baa728abff18?raw=true" width="250" />
+
 ### “Floods can’t be prevented, but damage can be reduced — through prediction, preparedness, and platforms like FloodyBuddy.”
